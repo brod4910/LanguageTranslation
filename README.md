@@ -12,8 +12,16 @@ Using Floyd to train RNN on the cloud.
 
 The idea for this application is to use two recurrent neural networks
 
-(English input sentence) - Encoding RNN - (encoded sentence) - Decoding RNN - (output in spanish)
+(English input sentence) - Encoding RNN/LSTM - (encoded sentence) - Decoding RNN/LSTM - (output in spanish)
 
 ## Rough idea
 
 The idea is that we train the first neural network to encode the input sentence, but take the sentence word by word until we have a fully encoded sentence. Next take the encoded sentence to feed into the next RNN that is trained to translate from the encoded sentence to decode the sentence into spanish.
+
+# Frameworks
+
+Will not be using frameworks such as tensorflow, pytorch, etc.
+Mainly for raw neural network practice.
+Will be using pickle to save weights of both networks after training.
+Will not be using numpy...(just kidding)
+Ethereum block chain. (Not a framework but might as well add that in)
