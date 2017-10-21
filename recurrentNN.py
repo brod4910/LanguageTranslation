@@ -38,10 +38,28 @@ class RecurrentNeuralNetwork(object):
         self.array_cell_state = np.zeros((recurrence_length+1,expected_output_size))
         # output gate
         self.array_output_gate = np.zeros((recurrence_length+1,expected_output_size))
-        # array of expected output values
+        # array of expected output values. Using vstack to vertically stack the rows of the output values
         self.expected_output_values = np.vstack((np.zeros(expected_output_values.shape[0]), expected_output_values.T))
         # declare LSTM cell (input, output, amount of recurrence, learning rate)
         self.LSTM = LSTM(input_size, expected_output_size, recurrence_length, learning_rate)
+
+    # nonlinearity sigmoid function
+    def sigmoid(self, input)
+        return 1 / (1 + np.exp(-input))
+
+    # used to compute the gradients in backprop
+    def derivative_sigmoid(self, input)
+        return self.sigmoid(input)*(1 - self.sigmoid(input))
+
+    # tanh! another activation function, often used in LSTM cells
+    def tanh(self, input)
+        return (np.exp(input) - np.exp(-input)) / (np.exp(input) + np.exp(-input))
+
+    #derivative for computing gradients
+    def derivative_tanh(self, input)
+        return 1 - (self.tanh(input) * self.tanh(input))
+
+
 
 
 
