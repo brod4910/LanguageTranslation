@@ -23,5 +23,5 @@ The idea is that we train the first neural network to encode the input sentence,
 Will not be using frameworks such as tensorflow, pytorch, etc.
 Mainly for raw neural network practice.
 Will be using pickle to save weights of both networks after training.
-Will not be using numpy...(just kidding)
-Ethereum block chain. (Not a framework but might as well add that in)
+Will not be using numpy...(just kidding).
+Using Ethereum block chain (IPFS). (Not a framework but might as well add that in)
