@@ -1,11 +1,12 @@
 import numpy as np
 import os as 
 import LSTM.py
+import ActivationFns.py as af
 
 class RecurrentNeuralNetwork(object):
     """docstring for RecurrentNeuralNetwork"""
     # args: input (word), expected output, num of words, array of expected outputs, learning rates
-    def __init__(self, input_size, expected_output_size, recurrence_length, eo, learning_rate):
+    def __init__(self, input_size, expected_output_size, recurrence_length, expected_output_values, learning_rate):
         # intiailize input (first word)
         self.input = np.zeros(input_size)
         # size of input
@@ -43,25 +44,9 @@ class RecurrentNeuralNetwork(object):
         # declare LSTM cell (input, output, amount of recurrence, learning rate)
         self.LSTM = LSTM(input_size, expected_output_size, recurrence_length, learning_rate)
 
-    # nonlinearity sigmoid function
-    def sigmoid(self, input)
-        return 1 / (1 + np.exp(-input))
-
-    # used to compute the gradients in backprop
-    def derivative_sigmoid(self, input)
-        return self.sigmoid(input)*(1 - self.sigmoid(input))
-
-    # tanh! another activation function, often used in LSTM cells
-    def tanh(self, input)
-        return (np.exp(input) - np.exp(-input)) / (np.exp(input) + np.exp(-input))
-
-    #derivative for computing gradients
-    def derivative_tanh(self, input)
-        return 1 - (self.tanh(input) * self.tanh(input))
-
-
-
-
+    # Forward pass
+    def forwardpass(self):
+        for i in range(1, recurrence_length+1):
 
 
 
