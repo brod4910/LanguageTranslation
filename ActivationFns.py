@@ -1,4 +1,3 @@
-
 class ActivationFns:
     # nonlinearity sigmoid function
     def sigmoid(self, input):

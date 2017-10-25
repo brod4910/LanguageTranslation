@@ -1,8 +1,10 @@
 # LanguageTranslation_IPFS
+
 Language Translation application using IPFS
 
-Simple application that uses a recurrent neural network to translate from English to Spanish.
+Simple application that uses a recurrent neural network to translate from English to Spanish and vice versa.
 Uses the Ethereum block chain to deploy the application to the IPFS.
+Application will also be deployable to run on your localhost.
 
 # Floyd
 
