@@ -40,13 +40,14 @@ class RecurrentNeuralNetwork(object):
         # output gate
         self.array_output_gate = np.zeros((recurrence_length+1,expected_output_size))
         # array of expected output values. Using vstack to vertically stack the rows of the output values
-        self.expected_output_values = np.vstack((np.zeros(expected_output_values.shape[0]), expected_output_values.T))
+        self.expected_output_values = np.vstack(np.zeros(expected_output_values.shape[0]), expected_output_values.T)
         # declare LSTM cell (input, output, amount of recurrence, learning rate)
         self.LSTM = LSTM(input_size, expected_output_size, recurrence_length, learning_rate)
 
     # Forward pass
     def forwardpass(self):
         for i in range(1, recurrence_length+1):
+            
 
 
 

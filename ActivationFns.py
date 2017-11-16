@@ -11,6 +11,6 @@ class ActivationFns:
     def tanh(self, input):
         return (np.exp(input) - np.exp(-input)) / (np.exp(input) + np.exp(-input))
 
-    #derivative for computing gradients
+    # derivative for computing gradients
     def derivative_tanh(self, input):
         return 1 - (self.tanh(input) * self.tanh(input))
