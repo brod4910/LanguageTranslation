@@ -1,7 +1,7 @@
 import numpy as np
-import os as 
-import LSTM.py
-import ActivationFns.py as af
+import os
+import LSTMcell as LSTM
+import ActivationFns as af
 
 class RecurrentNeuralNetwork(object):
     """docstring for RecurrentNeuralNetwork"""
