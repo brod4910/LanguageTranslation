@@ -1,6 +1,6 @@
 import numpy as np
 import os
-import LSTMcell as LSTM
+import LSTMcell
 import ActivationFns as af
 
 class RecurrentNeuralNetwork(object):
