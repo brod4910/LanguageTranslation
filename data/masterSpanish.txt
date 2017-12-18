@@ -255,7 +255,7 @@ abiótico
 abyecto
 abyecto
 abyecto
-abyecci贸n
+abyección
 abyecciones
 abyectamente
 abyección
@@ -266,7 +266,7 @@ abjointing
 abjoints
 abjunction
 abjunctions
-abjuraci贸n
+abjuración
 abjuraciones
 abjurar de
 abjurado
@@ -339,8 +339,8 @@ abolido
 abolisher
 abolishers
 deroga
-abolici贸n
-abolici贸n
+abolición
+abolición
 aboliciones
 abolición
 abolicionario
@@ -582,7 +582,7 @@ absorción
 absorciones
 absorbente
 aptitud absorbente
-absorci贸n
+absorción
 absquatulate
 abscuado
 absquatulates
@@ -841,7 +841,7 @@ acentuando
 accentor
 acentos
 acentos
-t贸nico
+tónico
 acentualidad
 acentuadamente
 acentuar
@@ -935,10 +935,10 @@ aclimatar
 aclimatado
 aclimatarse
 aclimatarse
-aclimataci贸n
+aclimatación
 aclimataciones
 aclimatable
-aclimataci贸n
+aclimatación
 aclimataciones
 aclimatarse
 aclimatado
@@ -947,7 +947,7 @@ aclimatisers
 aclimata
 aclimatación
 aclimatable
-aclimataci贸n
+aclimatación
 aclimataciones
 aclimatarse
 aclimatado
@@ -976,16 +976,16 @@ servicial
 complaciente
 alojamiento
 alojamiento
-c贸modo
+cómodo
 acomodación
 acomodador
 acomodadores
-acompa単ado
+acompañado
 acompañante
 acompañantes
 acompaña
 acompañamiento
-acompa単amientos
+acompañamientos
 acompañante
 acompañantes
 acompañar
@@ -1294,7 +1294,7 @@ acidhead
 cabezas ácidas
 ácido
 acidificable
-acidificaci贸n
+acidificación
 acidificado
 acidificador
 acidificantes
@@ -1358,7 +1358,7 @@ acolítico
 acólito
 secuaces
 acónito
-ac贸nitos
+acónitos
 aconitic
 aconitina
 aconitum
@@ -1480,7 +1480,7 @@ Acronychal
 acrónimo
 acrónimo
 acrónimo
-acr贸nimos
+acrónimos
 Acropetal
 acropetalmente
 acrofobia
@@ -1559,7 +1559,7 @@ activar
 activado
 activa
 activando
-activaci贸n
+activación
 activaciones
 activador
 activadores
@@ -1676,7 +1676,7 @@ adaptado
 adaptado
 adaptador
 adaptadores
-adaptaci贸n
+adaptación
 adaptación
 adaptaciones
 adaptado
@@ -1694,7 +1694,7 @@ addax
 addaxes
 addebted
 adicional
-a単adir
+añadir
 sumand
 adenda
 sumandos
@@ -1762,7 +1762,7 @@ aducible
 aduciendo
 efectuar la aducción
 aducido
-aducci贸n
+aducción
 aducción
 aducciones
 adictivo
@@ -1889,7 +1889,7 @@ adjudicar
 adjudicado
 adjudica
 adjudicación
-adjudicaci贸n
+adjudicación
 adjudicaciones
 juzgar
 juzgado
@@ -1907,7 +1907,7 @@ adjunctive
 adjuntamente
 adjuntamente
 adjuntos
-adjuraci贸n
+adjuración
 adjuraciones
 adjuratorio
 conjurar
@@ -2018,7 +2018,7 @@ amonestar
 amonestado
 amonesta
 amonestando
-amonestaci贸n
+amonestación
 amonestaciones
 amonestación
 admoniciones
@@ -2134,7 +2134,7 @@ adsorbente
 adsorbentes
 Adsorción
 adsorbe
-adsorci贸n
+adsorción
 adsorciones
 adsorbente
 Te amo
@@ -2157,7 +2157,7 @@ adulterar
 espurio
 adultera
 adulterar
-adulteraci贸n
+adulteración
 adulteraciones
 adulterador
 adulteradores
@@ -2374,7 +2374,7 @@ aeolipyle
 aeolipilios
 aeolotrópico
 aeolotropía
-E贸n
+Eón
 aeoniano
 eones
 aepyornis
@@ -2422,8 +2422,8 @@ aerobióticamente
 aerofrenado
 aerobus
 aerobuses
-aer贸dromo
-aer贸dromos
+aeródromo
+aeródromos
 aerodinámico
 aerodinámico
 aerodinámicamente
@@ -2439,7 +2439,7 @@ aerograma
 aerograma
 aerolíneas
 línea aérea
-aer贸grafo
+aerógrafo
 aerógrafo
 aerografía
 hidroavión Aero
@@ -2456,7 +2456,7 @@ aerólogo
 aerología
 aeromancia
 medidor de aire
-aer贸metros
+aerómetros
 aerometrico
 medidor de aire
 aeromotor
@@ -2477,7 +2477,7 @@ amplificador del sonido
 aerófonos
 aerophyte
 aerophytes
-avi贸n
+avión
 aviones
 aerosiderita
 aerosol
@@ -2744,8 +2744,8 @@ afore
 de antemano
 citado
 antedicho
-premeditaci贸n
-premeditaci贸n
+premeditación
+premeditación
 antes
 afoul
 asustado
@@ -2919,7 +2919,7 @@ siglos
 Agger
 Agger
 Aggie
-actualizaci贸n
+actualización
 aglomerado
 aglomerado
 aglomerados
@@ -2934,7 +2934,7 @@ aglutinar
 aglutinado
 aglutina
 aglutinante
-aglutinaci贸n
+aglutinación
 aglutinaciones
 aglutinante
 aglutinina
@@ -3173,7 +3173,7 @@ Aries
 Agripa
 Agripina
 agrise
-agrobiol贸gico
+agrobiológico
 agrobiólogo
 agrobiólogos
 agrobiología
@@ -3185,11 +3185,11 @@ agrólogo
 agrónomos
 agrología
 agronomial
-agron贸mico
-agron贸mico
+agronómico
+agronómico
 agronomía
-agr贸nomo
-agr贸nomos
+agrónomo
+agrónomos
 agronomía
 agrostológico
 agrostólogo
@@ -3402,7 +3402,7 @@ poste de aire
 aires
 hélice
 hélices
-pozo de ventilaci贸n
+pozo de ventilación
 aerogeneradores
 dirigible
 dirigibles
@@ -3607,7 +3607,7 @@ albinismo
 Albinoni
 albino
 albinotic
-Albi贸n
+Albión
 albita
 albitico
 albas
@@ -3685,7 +3685,7 @@ alcides
 alcock
 alcohol
 alcohólico
-alcoh贸licos
+alcohólicos
 alcoholización
 alcoholise
 alcoholizado
@@ -4082,7 +4082,7 @@ lealtad
 lealtades
 allegiant
 alegando
-aleg贸rico
+alegórico
 alegórico
 alegóricamente
 alegorías
@@ -4149,7 +4149,7 @@ callejón
 alled
 callejón
 paseos
-callej贸n
+callejón
 callejones
 allheal
 allheals
@@ -4224,7 +4224,7 @@ allonyms
 alópata
 alopático
 alopáticamente
-al贸pata
+alópata
 allopathists
 alópatas
 alopatía
@@ -4249,7 +4249,7 @@ asignaciones
 alotriomórfico
 alótropo
 alótropos
-alotr贸pico
+alotrópico
 alotropismo
 alótropos
 alotropas
@@ -4295,7 +4295,7 @@ alusiones
 alusivo
 alusivo
 alusividad
-aluvi贸n
+aluvión
 aluvial
 aluvión
 aluvión
@@ -4683,7 +4683,7 @@ asombroso
 espantosamente
 Amazonas
 amazonas
-amaz贸nico
+amazónico
 amazonita
 amazonas
 ambigüedades
@@ -5011,7 +5011,7 @@ amnistía
 amnios
 amniocentesis
 amnios
-amni贸tico
+amniótico
 ameba
 ameba
 ameba
@@ -5058,14 +5058,14 @@ amorfo
 amorfo
 Amorphousness
 amort
-amortizaci贸n
+amortización
 amortizaciones
 amortizar
 amortizado
 amortissement
 amortiza
 amortizando
-amortizaci贸n
+amortización
 amortizaciones
 amortizar
 amortizado
@@ -5107,7 +5107,7 @@ anfíboles
 anfibólico
 anfibolias
 anfibolita
-anfibol贸gico
+anfibológico
 anfibología
 anfibólico
 anfibolio
@@ -5149,7 +5149,7 @@ amphitheatric
 anfiteatrico
 anfiteatro
 anfitropous
-anfitri贸n
+anfitrión
 anfolito
 anfolitos
 ánfora
@@ -5192,7 +5192,7 @@ amputado
 amputado
 amputates
 amputación
-amputaci贸n
+amputación
 amputaciones
 amputador
 amputators
@@ -5218,7 +5218,7 @@ amuletos
 amun
 Amundsen
 amusable
-diversi贸n
+diversión
 divertido
 divertidamente
 diversión
@@ -5302,8 +5302,8 @@ anacrónico
 anacrónicamente
 anacronismo
 anacronismos
-anacr贸nico
-anacr贸nicamente
+anacrónico
+anacrónicamente
 anacrónico
 anacrónicamente
 anaclastic
@@ -5326,7 +5326,7 @@ anádromo
 anadyomene
 anemia
 anémico
-anaer贸bica
+anaeróbica
 anaerobios
 anaeróbico
 anaeróbicamente
@@ -5403,7 +5403,7 @@ analgésicos
 analmente
 cosa análoga
 analógico
-anal贸gico
+analógico
 analógicamente
 analogías
 analogía
@@ -5556,9 +5556,9 @@ resurgimiento
 Anatole
 anatolia
 anatolio
-anat贸mico
 anatómico
-anat贸micamente
+anatómico
+anatómicamente
 anatómicos
 anatomías
 anatomía
@@ -5685,7 +5685,7 @@ androceo
 andrógino
 androgénico
 androgenous
-andr贸genos
+andrógenos
 andrógino
 andróginos
 andrógino
@@ -5720,7 +5720,7 @@ anécdotas
 anecdóticamente
 anécdota
 anécdotas
-anecd贸tico
+anecdótico
 anecdotista
 anecdotistas
 anecoico
@@ -6046,7 +6046,7 @@ anisettes
 anisocéncal
 anisodactilo
 anisomerous
-anis贸filo
+anisófilo
 anisótropo
 anisotropía
 anita
@@ -6143,7 +6143,7 @@ aniquilar
 aniquilado
 aniquila
 aniquilando
-aniquilaci贸n
+aniquilación
 aniquilacionismo
 aniquilaciones
 aniquilador
@@ -6214,7 +6214,7 @@ anulaciones
 annulosi
 anulaciones
 anillo
-a単o
+año
 anuncios
 anunciado
 anuncia continuamente
@@ -6231,7 +6231,7 @@ Anobiidae
 anódica
 ánodo
 ánodos
-an贸dico
+anódico
 anodizado
 anodizado
 anodizado
@@ -6271,8 +6271,8 @@ anona
 annonaceae
 anonaceous
 anuncios
-an贸nimo
-an贸nimo
+anónimo
+anónimo
 anónimo
 anonimato
 anonimizado
@@ -6285,7 +6285,7 @@ anonimizar
 anonimizando
 anónimo
 anónimamente
-an贸nimos
+anónimos
 anofeles
 anofeles
 anofelina
@@ -6530,10 +6530,10 @@ antropoidal
 antropoide
 antropoides
 antropolatría
-antropol贸gico
+antropológico
 antropológicamente
-antrop贸logo
-antrop贸logos
+antropólogo
+antropólogos
 antropología
 antropométrico
 antropometría
@@ -6561,7 +6561,7 @@ antropopatismo
 antropopatía
 anthropophagi
 antropofagina
-antrop贸fago
+antropófago
 antropófago
 antropofagia
 antropofobia
@@ -6591,7 +6591,7 @@ Antibes
 antibilious
 antibiosis
 antibiótico
-antibi贸ticos
+antibióticos
 anticuerpos
 anticuerpo
 antiburgher
@@ -6692,7 +6692,7 @@ antihistamínicos
 antihipertensivo
 antihipertensivos
 antiinflamatorio
-eliminaci贸n de las interferencias
+eliminación de las interferencias
 antidetonante
 antiknocks
 antilegomena
@@ -6753,7 +6753,7 @@ antinoise
 antinomian
 antinomianismo
 antinomianos
-antin贸mico
+antinómico
 antinómico
 antinomias
 antinomia
@@ -6839,12 +6839,12 @@ anticuadas
 antiguo
 antiqued
 antiguo
-antig端edad
-antig端edades
+antigüedad
+antigüedades
 antigüedades
 antiquitario
 antiquitarios
-antig端edades
+antigüedades
 antigüedad
 antirraquítico
 antirachitics
@@ -6917,7 +6917,7 @@ antitético
 antitéticamente
 oponerse
 antitrombina
-antit贸xico
+antitóxico
 antitoxina
 antitoxinas
 antitrade
@@ -7021,7 +7021,7 @@ aorta
 aortas
 aorta
 aortas
-a贸rtico
+aórtico
 aortitis
 Número
 aoudads
@@ -7221,10 +7221,10 @@ apócope
 Apocalipsis
 apocopados
 apocopating
-ap贸cope
+apócope
 apócope
 apocrino
-libros ap贸crifos
+libros apócrifos
 apócrifo
 apocryphon
 apocináceas
@@ -7321,7 +7321,7 @@ apophthegms
 apophyge
 apophyges
 apofilita
-ap贸fisis
+apófisis
 apófisis
 apoplético
 apoplectic
@@ -7329,7 +7329,7 @@ apoplectically
 apoplex
 apoplejía
 pregunta
-contribuci贸n
+contribución
 aposemático
 aposiopesis
 aposiopetic
@@ -7354,12 +7354,12 @@ apostatizing
 apostilla
 apostils
 apóstol
-ap贸stoles
+apóstoles
 apostolado
 apostolado
 apostolados
 apostólico
-apost贸lico
+apostólico
 apostólicamente
 despachando
 apostolicidad
@@ -7675,7 +7675,7 @@ detención
 aprehensiones
 aprensivo
 aprensivamente
-aprensi贸n
+aprensión
 aprendiz
 aprendiz
 apprenticehood
@@ -7750,7 +7750,7 @@ aprobador
 aprobadores
 aprueba
 aprobatorio
-con aprobaci贸n
+con aprobación
 aproximado
 Aproximal
 approximant
@@ -8024,7 +8024,7 @@ arbitrement
 arbitrements
 arbitress
 arbitresses
-decisi贸n
+decisión
 Arblast
 arblasts
 cenador
@@ -8080,10 +8080,10 @@ arqueado
 arco
 Arquean
 arqueoastronomía
-arqueol贸gico
+arqueológico
 arqueológicamente
-arque贸logo
-arque贸logos
+arqueólogo
+arqueólogos
 arqueología
 arqueomagnetismo
 arqueoptérix
@@ -8182,7 +8182,7 @@ arquitecto
 arquitectónico
 arquitectura
 arquitectos
-arquitect贸nico
+arquitectónico
 arquitectónicamente
 arquitectura
 arquitecturas
@@ -8312,8 +8312,8 @@ areolado
 areolacion
 areola
 areoles
-are贸metro
-are贸metros
+areómetro
+areómetros
 areopagita
 areopagitica
 areópago
@@ -8483,7 +8483,7 @@ Aristarco
 aristas
 aristate
 aristides
-Dem贸stenes
+Demóstenes
 Aristóteles
 aristocracias
 aristocracia
@@ -8492,7 +8492,7 @@ aristocrático
 aristocrático
 aristocráticamente
 aristocratismo
-arist贸cratas
+aristócratas
 aristocracia
 Aristolochiaceae
 aristología
@@ -8537,7 +8537,7 @@ armada
 armadas
 armadillo
 armadillos
-Armaged贸n
+Armagedón
 armagh
 armagnac
 Armalite
@@ -8807,7 +8807,7 @@ apropiarse
 arrogante
 arrogantes
 arrogándose
-arrogaci贸n
+arrogación
 arrogancias
 ciudad
 distritos
@@ -8908,7 +8908,7 @@ artroplastia
 artrópodo
 artropoda
 artrópodo
-artr贸podos
+artrópodos
 artroscopia
 artrosis
 artroscopia
@@ -9280,7 +9280,7 @@ asperse
 aspersed
 asperses
 aspersing
-aspersi贸n
+aspersión
 aspersiones
 aspersive
 aspersoir
@@ -9447,7 +9447,7 @@ aserciones
 positivo
 asertivamente
 asertividad
-campe贸n
+campeón
 asertadores
 asertorio
 afirma
@@ -9512,7 +9512,7 @@ asimilar
 asimilado
 asimila
 asimilando
-asimilaci贸n
+asimilación
 asimilacionista
 asimilacionistas
 asimilaciones
@@ -9532,7 +9532,7 @@ jurado
 assized
 asistente
 Asistentes
-sesi贸n judicial
+sesión judicial
 asimilación
 asociabilidad
 asociable
@@ -9748,10 +9748,10 @@ asteroides
 astrolabio
 astrolabios
 astrolatría
-astr贸logo
-astr贸logos
+astrólogo
+astrólogos
 astrológico
-astrol贸gico
+astrológico
 astrológicamente
 astrología
 astrometeorology
@@ -9814,8 +9814,8 @@ asintomático
 asintomáticamente
 asíntota
 asíntotas
-asint贸tico
-asint贸tico
+asintótico
+asintótico
 asintóticamente
 incoherente
 incoherente
@@ -10020,7 +10020,7 @@ atomista
 atomístico
 atomísticamente
 atomistas
-atomizaci贸n
+atomización
 atomizaciones
 atomizar
 atomizado
@@ -10154,14 +10154,14 @@ atencional
 atenciones
 atento
 atentamente
-atenci贸n
+atención
 atenuante
 atenuantes
 atenuar
 atenuado
 atenúa
 atenuante
-atenuaci贸n
+atenuación
 atenuaciones
 atenuador
 atenuadores
@@ -10260,7 +10260,7 @@ atributo
 atribuido
 atributos
 atribuyendo
-atribuci贸n
+atribución
 asignaciones
 atributivo
 atributivamente
@@ -10344,8 +10344,8 @@ audiológico
 audiólogo
 audiólogos
 audiología
-audi贸metro
-audi贸metros
+audiómetro
+audiómetros
 audiometría
 audiófilo
 audiófilos
@@ -10597,7 +10597,7 @@ autenticar
 autenticado
 autentica
 autenticando
-autenticaci贸n
+autenticación
 autenticaciones
 autenticador
 autenticadores
@@ -10635,7 +10635,7 @@ autorizado
 autorizador
 autoriza
 autorizando
-an贸nimo
+anónimo
 autores
 paternidad literaria
 autorías
@@ -10647,7 +10647,7 @@ autoanticuerpos
 autoanticuerpo
 carretera
 autopistas
-autobi贸grafo
+autobiógrafo
 autobiographers
 autobiográfico
 autobiográfico
@@ -11375,7 +11375,7 @@ babbage
 babbie
 babbit
 babbitry
-revestir de metal antifricci贸n
+revestir de metal antifricción
 Babbitted
 babbitting
 babbittism
@@ -11462,7 +11462,7 @@ babylonish
 niñera
 cuidar a los niños
 cuidado de niños
-ni単era
+niñera
 niñeras
 cuidado de niños
 Bacall
@@ -11749,8 +11749,8 @@ bacteroides
 bacteriológico
 bacteriológico
 bacteriológicamente
-bacteri贸logo
-bacteri贸logos
+bacteriólogo
+bacteriólogos
 bacteriología
 bacteriolisina
 bacteriolisis
@@ -12231,7 +12231,7 @@ balnearies
 balneary
 balneation
 balneologist
-balne贸logos
+balneólogos
 balneología
 balneoterapia
 camelo
@@ -12282,13 +12282,13 @@ balzarines
 bam
 Bamako
 bambi
-ni単os
+niños
 bebé
 Bambinos
 bambú
 bambúes
 embaucar
-enga単ado
+engañado
 bamboozlement
 bamboozler
 bamboozlers
@@ -12763,7 +12763,7 @@ negociar
 negociado
 comerciante
 negociadores
-negociaci贸n
+negociación
 negociador
 negociadores
 gangas
@@ -12862,8 +12862,8 @@ bebé
 barnett
 barney
 barneys
-ni単o
-rompiendo los ni単os
+niño
+rompiendo los niños
 Barnsley
 granero
 tormenta de fuego
@@ -12879,7 +12879,7 @@ barodynamics
 barograma
 barogramas
 barógrafo
-bar贸grafos
+barógrafos
 barómetro
 barómetros
 barométrico
@@ -13302,15 +13302,15 @@ batfowling
 bañera
 bañarse
 bañado
-ba単ista
-ba単istas
+bañista
+bañistas
 baña
 batido
 casa de baños
 casas de baños
 baños
-alfombra de ba単o
-alfombras de ba単o
+alfombra de baño
+alfombras de baño
 Bathmic
 bathmism
 casarse
@@ -13329,7 +13329,7 @@ trivialidad
 bata de baño
 batas de baño
 baño
-ba単os
+baños
 balneario
 Bathsheba
 bañera
@@ -13409,7 +13409,7 @@ masa
 abollado
 batería
 baterías
-ca単oneo
+cañoneo
 bateadores
 battersea
 batería
@@ -13655,7 +13655,7 @@ barbado
 beardie
 Beardies
 barba
-barbilampi単o
+barbilampiño
 barbas
 Beardsley
 portador
@@ -13778,7 +13778,7 @@ Estate calmado
 encalmado
 becalming
 becalms
-convirti贸
+convirtió
 becasse
 becasses
 porque
@@ -13894,7 +13894,7 @@ bedewing
 bedews
 dormir a la cama
 compañero de cama
-compa単eros de cama
+compañeros de cama
 Bedford
 Bedfordshire
 ropa de cama
@@ -14183,7 +14183,7 @@ a regañadientes
 a disgusto
 suplica
 engañar
-enga単ado
+engañado
 engaño
 beguilements
 embaucador
@@ -14320,7 +14320,7 @@ aseguramiento
 belays
 eructo
 Eructado
-pa単uelo abigarrado
+pañuelo abigarrado
 belchers
 eructos
 eructos
@@ -14492,7 +14492,7 @@ Baltasar
 belshazzars
 cinturón
 Beltane
-ce単ido
+ceñido
 cinturones
 correaje
 cinturones
@@ -15336,7 +15336,7 @@ sesgo
 biatlonista
 biathletes
 biatlón
-biatl贸n
+biatlón
 biaxal
 biaxial
 babero
@@ -15363,8 +15363,8 @@ biblicismo
 biblicismos
 bibliotecario
 biblistas
-bibli贸grafo
-bibli贸grafos
+bibliógrafo
+bibliógrafos
 bibliográfico
 bibliográfico
 bibliografías
@@ -15393,7 +15393,7 @@ bibliophagist
 bibliophagists
 bibliophil
 bibliófilo
-bibli贸filo
+bibliófilo
 bibliophilism
 bibliophilist
 bibliophilists
@@ -15630,7 +15630,7 @@ bilis
 prudente
 liquidado
 sentinas
-informaci贸n
+información
 más lento
 Achique
 bilgy
@@ -15644,7 +15644,7 @@ bilimbings
 Billybis
 bilineal
 bilingüe
-biling端ismo
+bilingüismo
 bilingüe
 bilinguist
 bilinguists
@@ -15859,8 +15859,8 @@ biogeográfico
 biogeografía
 biografía
 biographee
-bi贸grafo
-bi贸grafos
+biógrafo
+biógrafos
 biográfico
 biográfico
 biográficamente
@@ -15873,8 +15873,8 @@ riesgos biológicos
 biológico
 biológico
 biológicamente
-bi贸logo
-bi贸logos
+biólogo
+biólogos
 biología
 bioluminiscencia
 bioluminiscente
@@ -15958,7 +15958,7 @@ biotipos
 bebedores
 de dos partidos políticos
 bipartito
-bipartici贸n
+bipartición
 biparticiones
 bípedo
 bípedo
@@ -16038,7 +16038,7 @@ Birle
 birled
 una de
 birlers
-fusi贸n
+fusión
 birlieman
 birliemen
 birling
@@ -16585,7 +16585,7 @@ desolado
 más sombrío
 más sombrío
 desoladamente
-desolaci贸n
+desolación
 tristeza
 Bleaks
 sombrío
@@ -16718,7 +16718,7 @@ a ciegas
 ceguera
 ceguera
 persianas
-luci贸n
+lución
 gusanos ciegos
 comprar
 blinis
@@ -17086,7 +17086,7 @@ bluewings
 bluey
 blueys
 bluff
-enga単ado
+engañado
 farolero
 bluffers
 bluffest
@@ -17132,7 +17132,7 @@ difuminar
 propaganda
 blurbs
 borroso
-borr贸n
+borrón
 borroso
 desenfoca
 decir bruscamente
@@ -17152,7 +17152,7 @@ borrones
 blushless
 fanfarronear
 blustered
-fanfarr贸n
+fanfarrón
 blusters
 fanfarrón
 blusteringly
@@ -17181,7 +17181,7 @@ abordado
 huésped
 internos
 embarque
-pensi贸n
+pensión
 casas de huéspedes
 abordajes
 sala del consejo
@@ -17661,7 +17661,7 @@ fiador
 fiadores
 fiador
 esclavos
-perpia単o
+perpiaño
 bondstones
 esclava
 bondwomen
@@ -17789,7 +17789,7 @@ encuadernador
 encuadernaciones
 encuadernadores
 encuadernador
-encuadernaci贸n
+encuadernación
 encuadernaciones
 librero
 librerías
@@ -17850,7 +17850,7 @@ libros
 libro de trabajo
 bookworks
 ratón de biblioteca
-rat贸n de biblioteca
+ratón de biblioteca
 libros
 Boole
 booleano
@@ -17962,7 +17962,7 @@ vivir
 el mejor
 BORACHIO
 borachios
-b贸rico
+bórico
 boracite
 borraja
 bórax
@@ -18005,7 +18005,7 @@ fronteras
 aburrir
 boreal
 boreal
-B贸reas
+Bóreas
 borecole
 borecoles
 aburrido
@@ -18099,7 +18099,7 @@ pechos
 bosomia
 bosón
 bosones
-b贸sforo
+bósforo
 matorral
 arboledas
 jefe
@@ -18693,7 +18693,7 @@ trastornado mentalmente
 sin cerebro
 agudeza mental
 idea genial
-reuni贸n creativa
+reunión creativa
 lluvia de ideas
 rompecabezas
 rompecabezas
@@ -18727,7 +18727,7 @@ zarza
 zarzas
 bramblier
 brambliest
-pinz贸n
+pinzón
 zarzas
 zarzoso
 anhelos
@@ -18755,7 +18755,7 @@ ramificadamente
 ramificaciones
 Branchiopod
 Branchiopoda
-branqui贸podos
+branquiópodos
 sin sucursales
 Branchlet
 ramillas
@@ -18827,7 +18827,7 @@ brashy
 brasier
 brasiers
 brasilia
-lat贸n
+latón
 brazalete
 brazaletes
 brassart
@@ -18944,7 +18944,7 @@ brasero
 Brasil
 brazilein
 brasileño
-brasile単os
+brasileños
 Brasil
 brasil
 soldadura
@@ -19177,7 +19177,7 @@ cervecero
 cervecerías
 cerveceros
 cervecería
-fabricaci贸n de cerveza
+fabricación de cerveza
 brewings
 brewis
 brewises
@@ -19221,7 +19221,7 @@ brickings
 brickkiln
 Ladrillos
 albañil
-alba単iles
+albañiles
 albañilería
 Brickle
 albañil
@@ -19447,13 +19447,13 @@ ruptura
 roto
 británico
 Gran Bretaña
-Gran Breta単a
+Gran Bretaña
 británico
 Británica
 britches
 anglicismo
 británico
-natural de Gran Breta単a
+natural de Gran Bretaña
 Británicos
 britishism
 británico
@@ -19621,7 +19621,7 @@ bromelias
 bromelias
 bromelina
 bromhidrosis
-br贸mico
+brómico
 bromuro
 bromuros
 bromidico
@@ -19678,7 +19678,7 @@ bronzified
 bronzifica
 bronzify
 Bronzifying
-pav贸n
+pavón
 bronces
 bronzite
 bronce
@@ -19806,7 +19806,7 @@ bruce
 brucelosis
 ruptura
 Bruchid
-бручидае
+bruchidae
 bruchids
 bruckner
 brucine
@@ -19980,7 +19980,7 @@ bubinga
 Infantería Asi
 bubo
 bubones
-bub贸nico
+bubónico
 punto de vista
 bubonoceles
 bubs
@@ -20073,7 +20073,7 @@ espino cerval
 buckthorns
 diente saliente
 alforfón
-alforf贸n
+alforfón
 buckyball
 buckyballs
 buckytube
@@ -20708,11 +20708,11 @@ ardiente
 ardientemente
 Quemaduras
 bruñido
-bru単ido
+bruñido
 bruñidor
 bruñidores
 bruñidos
-bru単ido
+bruñido
 bruñidos
 bruñido
 Burnley
@@ -20750,7 +20750,7 @@ burros
 burroughs
 madriguera
 enterrado
-excavaci贸n
+excavación
 madrigueras
 burrowstown
 madrigueras
@@ -21189,7 +21189,7 @@ gabinetes
 armarios
 trabajo del gobierno
 cabiendo
-caba単as
+cabañas
 cabiri
 cabiriano
 cabirico
@@ -21360,7 +21360,7 @@ cadete
 cadeteships
 gorronear
 cadged
-gorr贸n
+gorrón
 cadgers
 cadges
 cading
@@ -21611,7 +21611,7 @@ calcico
 calciferol
 calcífero
 calcifico
-calcificaci贸n
+calcificación
 calcificado
 calcifica
 calcífuga
@@ -21624,7 +21624,7 @@ calcinado
 calciminas
 calcimining
 calcinable
-calcinaci贸n
+calcinación
 calcinaciones
 calcinar
 calcinado
@@ -21667,7 +21667,7 @@ caledoniano
 caledonios
 calefacient
 calefacients
-calefacci贸n
+calefacción
 calefactions
 calefactive
 calefactor
@@ -21867,7 +21867,7 @@ calidez
 caloría
 calorías
 calorífico
-calorificaci贸n
+calorificación
 las calorías
 calorificador
 calóricos
@@ -22160,9 +22160,9 @@ caminantes
 campier
 campiest
 cámping
-campe贸n
+campeón
 campeones
-discusi贸n
+discusión
 Campness
 campo
 campodea
@@ -22220,7 +22220,7 @@ canalizar
 canalizado
 canalises
 canalising
-canalizaci贸n
+canalización
 canalizaciones
 canalizar
 canalizado
@@ -22408,7 +22408,7 @@ canibalizar
 canibalizar
 canibalismo
 canibalesco
-canibalizaci贸n
+canibalización
 canibalizar
 canibalizado
 canibaliza
@@ -22428,7 +22428,7 @@ cañón
 cañoneo
 cañoneado
 cañoneos
-ca単oneo
+cañoneo
 bala de cañón
 balas de cañón
 canonizado
@@ -22452,8 +22452,8 @@ canoa
 canoed
 piragüismo
 piragüismo
-pirag端ista
-pirag端istas
+piragüista
+piragüistas
 canoas
 canon
 canonbie
@@ -22476,7 +22476,7 @@ canonising
 canonista
 canónico
 canonistas
-canonizaci贸n
+canonización
 canonizaciones
 canonizar
 canonizado
@@ -22584,7 +22584,7 @@ canto
 cantón
 Cantona
 cantonal
-realizado el cant贸n
+realizado el cantón
 cantonés
 canton
 cantonise
@@ -22639,7 +22639,7 @@ cañón
 cañones
 canción
 canzonas
-canci贸n
+canción
 canción especial
 cancioncillas
 tintineo
@@ -23084,7 +23084,7 @@ carbonizar
 carbonizado
 carbonises
 carbonización
-carbonizaci贸n
+carbonización
 carbonizaciones
 carbonizar
 carbonizado
@@ -23210,9 +23210,9 @@ cardiogramas
 cardiografía
 cardioide
 cardioides
-cardiol贸gico
-cardi贸logo
-cardi贸logos
+cardiológico
+cardiólogo
+cardiólogos
 cardiología
 cardiomiopatía
 cardiopulmonar
@@ -23232,7 +23232,7 @@ cardenal
 que
 cuidado
 carena
-inclinaci贸n
+inclinación
 careenages
 carenados
 carenar
@@ -23510,7 +23510,7 @@ carpentered
 carpintería
 carpinteros
 carpintería
-critic贸n
+criticón
 traperos
 alfombra
 carpetbag
@@ -23662,8 +23662,8 @@ carretada
 carretillas
 cartograma
 cartogramas
-cart贸grafo
-cart贸grafos
+cartógrafo
+cartógrafos
 cartográfico
 cartográfico
 cartografía
@@ -23843,7 +23843,7 @@ casareep
 casareeps
 cassata
 cassatas
-casaci贸n
+casación
 casaciones
 mandioca
 mandioca
@@ -24320,7 +24320,7 @@ catolicizar
 CathoKcon
 católicos
 catholicos
-cat贸licos
+católicos
 la cátedra
 ático
 cathouses
@@ -24488,7 +24488,7 @@ cauterises
 cauterising
 cauterism
 cauterisms
-cauterizaci贸n
+cauterización
 cauterizaciones
 cauterizar
 cauterizado
@@ -24796,7 +24796,7 @@ cementatory
 cementado
 cementer
 cementers
-cementaci贸n
+cementación
 cementita
 cementoso
 cementos
@@ -24947,7 +24947,7 @@ centrado
 centrefold
 pliegues
 centrando
-habitaci贸n central
+habitación central
 centros
 céntrico
 céntrico
@@ -25345,7 +25345,7 @@ chaffrons
 chaffs
 chaffweed
 chaffy
-excoriaci贸n
+excoriación
 Sheft
 engranajes
 chagall
@@ -25790,7 +25790,7 @@ caractered
 característico
 caracteristicas
 caracterizar
-caracterizaci贸n
+caracterización
 caracterizaciones
 caracterizar
 caracterizada
@@ -25802,7 +25802,7 @@ característica
 característico
 de rasgo
 características
-caracterizaci贸n
+caracterización
 caracterizaciones
 caracterizar
 caracterizada
@@ -25890,7 +25890,7 @@ charlatanería
 charlatanes
 Carlomagno
 Charles
-charlest贸n
+charlestón
 Charley
 Charlie
 Charlie
@@ -26140,7 +26140,7 @@ cheapside
 tacaño
 tacaños
 engañar
-enga単ado
+engañado
 tramposo
 tramposos
 engaño
@@ -26194,7 +26194,7 @@ cheechakoes
 cheechakos
 mejilla
 pómulo
-p贸mulos
+pómulos
 mejillas
 más descarado
 más descarado
@@ -26516,7 +26516,7 @@ chewet
 chewie
 mas chewier
 mas chewiest
-masticaci贸n
+masticación
 Chewink
 Chewinks
 mastica
@@ -26903,9 +26903,9 @@ chironomidae
 quironómidos
 chironomus
 quironomía
-pod贸logo
-pod贸logo
-pod贸logos
+podólogo
+podólogo
+podólogos
 podología
 quiropráctica
 quiropráctico
@@ -27147,7 +27147,7 @@ Chogyal
 gracias
 elección
 Elegante
-con elecci贸n
+con elección
 Elección
 escogido
 elecciones
@@ -27277,7 +27277,7 @@ Beso
 choos
 Choos
 escoger
-elecci贸n
+elección
 selectores
 elige
 exquisito
@@ -27293,7 +27293,7 @@ chapines
 chopins
 Cortado
 helicóptero
-helic贸pteros
+helicópteros
 choppier
 choppiest
 el cortar
@@ -27343,8 +27343,8 @@ choreguses
 choreic
 coreografía
 coreografiado
-core贸grafo
-core贸grafos
+coreógrafo
+coreógrafos
 coreográfico
 coreografía
 coreografías
@@ -27580,7 +27580,7 @@ crónico
 crónicamente
 cronicidad
 crónica
-cr贸nica
+crónica
 cronista
 cronistas
 crónicas
@@ -27592,11 +27592,11 @@ cronogramas
 cronógrafo
 cronógrafo
 cronógrafos
-cron贸grafos
+cronógrafos
 cronografía
 cronólogo
 cronólogos
-cronol贸gico
+cronológico
 cronológico
 cronológicamente
 cronologías
@@ -27853,7 +27853,7 @@ cicatrices
 cicatrising
 úlcera
 cicatrices
-cicatrizaci贸n
+cicatrización
 cicatrizations
 cicatrize
 cicatrized
@@ -28160,9 +28160,9 @@ circunfusiones
 circumgyrate
 circuncidados
 circungyrates
-circungiraci贸n
-circungiraci贸n
-circungiraci贸n
+circungiración
+circungiración
+circungiración
 circungyratory
 circunscripción
 circuminsesión
@@ -28190,7 +28190,7 @@ circunnavegar
 circunnavegado
 circunnavegar
 circunnavegar
-circunnavegaci贸n
+circunnavegación
 circunnavegaciones
 circunnavegante
 circunnavegadores
@@ -28231,7 +28231,7 @@ alrededor
 circunstancia
 circunstancias
 circunstancial
-acumulaci贸n de detalles
+acumulación de detalles
 circunstancialmente
 circunstancial
 circunstanciado
@@ -28392,7 +28392,7 @@ citroen
 limón
 citronela
 citronelal
-Ellas lim贸n
+Ellas limón
 limones
 citronwood
 agrio
@@ -28466,7 +28466,7 @@ piedras
 Clachans
 charla
 clackdish
-chasque贸
+chasqueó
 clacker
 clackers
 golpeteo
@@ -28527,7 +28527,7 @@ trepar
 clavados
 trepante
 clamberers
-trepanaci贸n
+trepanación
 clambers
 proclama
 clamjamfry
@@ -28840,7 +28840,7 @@ garra
 de reintegración
 retroceso
 garra
-ara単ando
+arañando
 sin garras
 garras
 claxon
@@ -29104,7 +29104,7 @@ climatiza
 climatizando
 climatográfico
 climatografía
-climatol贸gico
+climatológico
 climatólogo
 climatólogos
 climatología
@@ -29311,7 +29311,7 @@ clomp
 clomped
 clomping
 clomps
-cl贸nico
+clónico
 clonalmente
 clonazepam
 clon
@@ -29384,7 +29384,7 @@ pañeros
 ropa
 vestimenta
 Clotho
-pa単os
+paños
 coágulos
 cuajaron
 cloter
@@ -29416,7 +29416,7 @@ país de nubes
 nubes
 despejado
 sin nubes
-nube peque単a
+nube pequeña
 cloudlets
 nubes
 cloudscape
@@ -29656,7 +29656,7 @@ coagular
 coagulado
 coagula
 coagulando
-coagulaci贸n
+coagulación
 coagulaciones
 coagulante
 coagulador
@@ -29705,7 +29705,7 @@ carbonero
 coalmen
 coalport
 carbones
-de carb贸n
+de carbón
 brazola
 brazolas
 coapt
@@ -29828,7 +29828,7 @@ telarañas
 telaraña
 telarañas
 telaraña
-telara単as
+telarañas
 coca
 cocaigne
 cocaína
@@ -29982,7 +29982,7 @@ cockswains
 hinchado
 cóctel
 cocktailed
-c贸cteles
+cócteles
 cockup
 cockups
 engreído
@@ -30054,7 +30054,7 @@ codicillary
 codicilos
 codicológico
 codicología
-codificaci贸n
+codificación
 codificaciones
 codificado
 codificar
@@ -30088,7 +30088,7 @@ coeditor
 coeditores
 coedits
 Coeds
-coeducaci贸n
+coeducación
 coeducacional
 coeficiente
 coeficientes
@@ -30216,7 +30216,7 @@ cogitates
 cogitating
 reflexión
 cogitaciones
-de meditaci贸n
+de meditación
 cogitator
 cogitatorium
 cogito
@@ -30293,7 +30293,7 @@ coherencies
 coherencia
 coherente
 coherentemente
-l贸gico
+lógico
 coherederos
 coheres
 cohering
@@ -30741,7 +30741,7 @@ colonising
 colono
 colonos
 colonitis
-colonizaci贸n
+colonización
 colonizaciones
 colonizar
 colonizado
@@ -30757,7 +30757,7 @@ colonoscopia
 colonos
 colonsay
 colonia
-colof贸n
+colofón
 colofones
 colofonia
 coloquintida
@@ -30815,7 +30815,7 @@ color
 de colores
 colorante
 colorantes
-coloraci贸n
+coloración
 coloraciones
 de colores
 coloreados
@@ -30998,7 +30998,7 @@ comediennes
 comedias
 comedietta
 comediettas
-comed贸n
+comedón
 comedone
 comedos
 baja
@@ -31031,7 +31031,7 @@ comfits
 comfiture
 comodidad
 cómodo
-c贸modamente
+cómodamente
 consolado
 edredón
 edredones
@@ -31075,7 +31075,7 @@ comandantships
 ordenado
 requisar
 requisado
-expropiaci贸n
+expropiación
 comandantes
 comandante
 Commanderies
@@ -31387,7 +31387,7 @@ conmutada
 conmuta
 conmutando
 conmutación
-conmutaci贸n
+conmutación
 conmutativo
 conmutativamente
 conmutador
@@ -31659,7 +31659,7 @@ cumplimientos
 cumplimiento
 obediente
 obediente
-complicaci贸n
+complicación
 complicando
 complicar
 Complicado
@@ -31724,7 +31724,7 @@ compostura
 compositor
 compositores
 compone
-composici贸n
+composición
 compuesto
 compuesto
 compuesto
@@ -32112,7 +32112,7 @@ concipiency
 concebir
 conciso
 concisamente
-concisi贸n
+concisión
 conciser
 concisest
 concisión
@@ -32301,7 +32301,7 @@ condominio
 condominios
 condones
 condonable
-condonaci贸n
+condonación
 condonaciones
 condonar
 tolerado
@@ -32310,7 +32310,7 @@ condoners
 condones
 condonando
 condor
-c贸ndores
+cóndores
 condominios
 condottiere
 líderes
@@ -32634,7 +32634,7 @@ congelable
 congelabilidad
 congelado
 congelando
-congelaci贸n
+congelación
 congelaciones
 congela
 conged
@@ -32698,7 +32698,7 @@ conglutinado
 conglutinado
 conglutina
 conglutinando
-conglutinaci贸n
+conglutinación
 conglutinaciones
 conglutinativo
 congo
@@ -32861,7 +32861,7 @@ conkers
 conkies
 conking
 conks
-narig贸n
+narigón
 conn
 connacht
 connascencies
@@ -33208,7 +33208,7 @@ conspicuousness
 conspiraciones
 conspiración
 armonizar
-conspiraci贸n
+conspiración
 el trazado
 conspirador
 conspirador
@@ -33267,7 +33267,7 @@ consternaciones
 constipate
 estreñido
 constipated
-estre単imiento
+estreñimiento
 estreñimiento
 circunscripciones
 distrito electoral
@@ -33301,7 +33301,7 @@ constitutor
 constreñir
 constrainable
 restrictivamente
-constre単ido
+constreñido
 apretadamente
 restrictivo
 restricciones
@@ -33309,7 +33309,7 @@ restricción
 restricciones
 apretar
 restringido
-constricci贸n
+constricción
 constricción
 constricciones
 constrictivo
@@ -33333,7 +33333,7 @@ constructores
 edificio
 construyendo
 construcción
-de la construcci贸n
+de la construcción
 constructivamente
 constructivismo
 construccionista
@@ -33390,7 +33390,7 @@ consultores
 consultary
 consulta
 consultas
-de consultaci贸n
+de consultación
 consultatory
 consultado
 CONSULTADAS
@@ -33460,7 +33460,7 @@ contagios
 contagioso
 contagiosamente
 contagio
-infecci贸n
+infección
 contagiums
 Contiene
 contenible
@@ -33488,7 +33488,7 @@ contaminar
 contaminado
 contamina
 contaminante
-contaminaci贸n
+contaminación
 contaminación
 contaminante
 contaminator
@@ -33555,7 +33555,7 @@ contemptibles
 despreciable
 desprecios
 desdeñoso
-desde単osamente
+desdeñosamente
 contemptuousness
 contender
 contendió
@@ -33687,7 +33687,7 @@ contornos
 retorcer
 contorsionado
 contorsionando
-contorsi贸n
+contorsión
 contortional
 contortionate
 contorsionista
@@ -33778,7 +33778,7 @@ contra
 contraindicado
 contraindicates
 contraindicating
-contraindicaci贸n
+contraindicación
 contraindicative
 contrario
 contralateral
@@ -34372,7 +34372,7 @@ copra
 COPRAS
 coprocesador
 coprocesadores
-coproducci贸n
+coproducción
 coproducciones
 coprolalia
 coprolaliac
@@ -34890,7 +34890,7 @@ correcto
 corregible
 corregido
 correctible
-de correcci贸n
+de corrección
 corrección
 correccional
 correctioner
@@ -35152,7 +35152,7 @@ más acogedor
 cosigna
 cosignatarios
 cosignatario
-c贸modamente
+cómodamente
 coseno
 primas
 comodidad
@@ -35349,7 +35349,7 @@ cabaña
 cottaged
 labrador
 cottagers
-caba単as
+cabañas
 cabaña
 cottaging
 Cottar
@@ -35490,7 +35490,7 @@ mostrador
 contrarrestar
 contrarrestado
 contrarrestando
-neutralizaci贸n
+neutralización
 contraataques
 contrario
 contrariamente
@@ -35988,7 +35988,7 @@ coz
 coze
 cocido
 engañar
-enga単o
+engaño
 cocido
 Cozener
 cozeners
@@ -36857,7 +36857,7 @@ entrecruzando
 crissum
 cresta
 crestas
-Espa単ol
+Español
 cristate
 cristiform
 cristobalita
@@ -37035,7 +37035,7 @@ crossbanded
 crossbanding
 travesaño
 crossbarred
-travesa単os
+travesaños
 travesaño
 vigas transversales
 portador de la cruz
@@ -37102,7 +37102,7 @@ cruces
 parche cruzado
 parche cruzado
 travesaño
-travesa単os
+travesaños
 punto de cruce
 cruce de caminos
 encrucijada
@@ -37470,8 +37470,8 @@ criptogénico
 criptograma
 criptogramas
 criptografía
-cript贸grafo
-cript贸grafos
+criptógrafo
+criptógrafos
 criptográfico
 criptografista
 criptografistas
@@ -37505,7 +37505,7 @@ cristalita
 cristalitos
 cristalitis
 cristalizable
-cristalizaci贸n
+cristalización
 cristalizar
 cristalizado
 cristaliza
@@ -37819,7 +37819,7 @@ acumulada
 acumulado
 acumulados
 acumulando
-acumulaci贸n
+acumulación
 acumulaciones
 acumulativo
 acumulativamente
@@ -37842,7 +37842,7 @@ cuneal
 cuneado
 cuneático
 cuneiforme
-cu単a
+cuña
 avellanado
 cunetos
 con uno
@@ -38010,7 +38010,7 @@ curie
 Curie
 curieus
 curiterapia
-curaci贸n
+curación
 curiosidad
 curioso
 curiosa
@@ -38410,7 +38410,7 @@ cibernetico
 cibernado
 cibernates
 cybernating
-cibernaci贸n
+cibernación
 cibernético
 cibernetista
 cibernéticos
@@ -38552,8 +38552,8 @@ cymbidiums
 cymbiforme
 cima
 cimas
-cim贸grafo
-Cim贸grafos
+cimógrafo
+Cimógrafos
 cymome
 cymophane
 cymophanes
@@ -38667,7 +38667,7 @@ citocromo
 citocromos
 citode
 citodes
-citodiagn贸stico
+citodiagnóstico
 citodiferenciación
 citogénesis
 citogenético
@@ -39021,7 +39021,7 @@ damnatione
 condenatorio
 maldito
 Damnedest
-maldici贸n
+maldición
 damnified
 damnifies
 damnify
@@ -39462,7 +39462,7 @@ recreo de día
 daybreaks
 ensueño
 daydreamed
-so単ador
+soñador
 daydreamers
 soñador
 ensueños
@@ -39521,7 +39521,7 @@ desactivar
 desactivado
 desactiva
 desactivando
-desactivaci贸n
+desactivación
 desactivaciones
 muerto
 perezoso
@@ -39582,7 +39582,7 @@ desalcoholizar
 tratado
 comerciante
 distribuidores
-concesi贸n
+concesión
 concesionarios
 dealfish
 dealfishes
@@ -39682,7 +39682,7 @@ descarta
 degradar
 degradado
 debasedness
-humillaci贸n
+humillación
 degradaciones
 debaser
 Debasers
@@ -39730,7 +39730,7 @@ debilidad
 debilitado
 debilita
 debilitante
-debilitaci贸n
+debilitación
 debilitations
 debilitative
 debilidad
@@ -39777,7 +39777,7 @@ desbridamientos
 desbridamiento
 interrogar
 debriefed
-interrogaci贸n
+interrogación
 debriefs
 escombros
 debruised
@@ -39816,7 +39816,7 @@ niños
 decachord
 decachords
 decad
-que pasa cada diez a単os
+que pasa cada diez años
 década
 decadencia
 decadencias
@@ -39897,7 +39897,7 @@ decapitado
 decapitado
 decapita
 decapitando
-decapitaci贸n
+decapitación
 decapitaciones
 decápodo
 decapoda
@@ -39972,7 +39972,7 @@ hombre muerto
 engaño
 engañoso
 engañosamente
-enga単o
+engaño
 engaños
 engaño
 engañoso
@@ -39980,8 +39980,8 @@ engaño
 engañosamente
 engañar
 engañado
-enga単ador
-enga単adores
+engañador
+engañadores
 engaña
 engañoso
 engañosamente
@@ -40015,12 +40015,12 @@ década
 decennoval
 bueno
 bien
-descentralizaci贸n
+descentralización
 descentralizar
 descentralizado
 descentralises
 descentralizando
-descentralizaci贸n
+descentralización
 descentralizar
 descentralizado
 descentraliza
@@ -40119,7 +40119,7 @@ diezmar
 diezmado
 diezma
 diezmando
-ejecuci贸n
+ejecución
 diezmaciones
 decimador
 diezmadores
@@ -40237,8 +40237,8 @@ disminución
 rechazado
 declina
 declinante
-declin贸metro
-declin贸metros
+declinómetro
+declinómetros
 declives
 declivitous
 declividad
@@ -40248,7 +40248,7 @@ desembragado
 desempates
 desembrague
 deco
-decocci贸n
+decocción
 decorado
 decoctible
 decoctibles
@@ -40279,13 +40279,13 @@ decollator
 escote
 escotes
 escote
-descolonizaci贸n
+descolonización
 descolonizaciones
 decolonise
 decolonised
 decolonises
 decolonising
-descolonizaci贸n
+descolonización
 decolonization
 descolonizar
 descolonizado
@@ -40389,7 +40389,7 @@ descontaminar
 descontaminado
 descontamina
 descontaminante
-descontaminaci贸n
+descontaminación
 descontaminador
 descontaminadores
 eliminar el control
@@ -40425,7 +40425,7 @@ desacoplado
 desacoplamientos
 desacoplamiento
 señuelo
-se単uelo
+señuelo
 señuelo
 señuelos
 decrassificado
@@ -40453,7 +40453,7 @@ decrepitar
 decrepitado
 decrepita
 decrepitando
-decrepitaci贸n
+decrepitación
 decrépito
 decrepitud
 decrescendo
@@ -40513,7 +40513,7 @@ decupling
 panel
 cargos oficiales
 decurias
-decuri贸n
+decurión
 decurionate
 decurionate
 decuriones
@@ -40537,7 +40537,7 @@ decusado
 decussadamente
 decusados
 decurrir
-decusaci贸n
+decusación
 decussations
 dedal
 Plazos
@@ -40928,7 +40928,7 @@ defoliar
 defoliado
 defolia
 defoliando
-defoliaci贸n
+defoliación
 defoliaciones
 defoliador
 defoliadores
@@ -40941,7 +40941,7 @@ force
 deforciants
 deforcing
 deforestar
-deforestaci贸n
+deforestación
 deforestado
 deforestación
 deforests
@@ -41114,7 +41114,7 @@ deshumanizar
 deshumanizado
 deshumaniza
 deshumanizante
-deshumanizaci贸n
+deshumanización
 deshumanizar
 deshumanizado
 deshumaniza
@@ -41352,7 +41352,7 @@ delimitada
 delimitado
 delimitates
 delimitando
-delimitaci贸n
+delimitación
 delimitaciones
 delimitative
 delimitado
@@ -41495,7 +41495,7 @@ desmagnetizadores
 desmagnetiza
 desmagnetizando
 demagnificar
-demag贸gico
+demagógico
 demagógico
 demagogism
 demagogo
@@ -41597,12 +41597,12 @@ semidiosas
 semidioses
 damajuana
 damajuanas
-desmilitarizaci贸n
+desmilitarización
 desmilitarizar
 desmilitarizado
 desmilitarizaciones
 desmilitarización
-desmilitarizaci贸n
+desmilitarización
 desmilitarizar
 desmilitarizado
 desmilitarizado
@@ -41657,13 +41657,13 @@ manifestación
 Tonto
 desmovilizado
 desmovilizador
-desmovilizaci贸n
+desmovilización
 desmovilizaciones
 desmovilizar
 desmovilizado
 desmovilizaciones
 desmovilización
-desmovilizaci贸n
+desmovilización
 desmovilizaciones
 desmovilizar
 desmovilizado
@@ -41677,19 +41677,19 @@ democrático
 democrático
 democráticamente
 democratifiable
-democratizaci贸n
+democratización
 democratise
 democratizado
 democratises
 democratizando
 democratist
 democratistas
-democratizaci贸n
+democratización
 democratizar
 democratizado
 democratiza
 democratizando
-dem贸cratas
+demócratas
 democritus
 anticuado
 demoded
@@ -41735,7 +41735,7 @@ demonetise
 demonetised
 demonetises
 demonetising
-desmonetizaci贸n
+desmonetización
 demonetizations
 desmonetizar
 desmonetizado
@@ -41798,7 +41798,7 @@ demoralise
 demoralised
 demoralises
 demoralising
-desmoralizaci贸n
+desmoralización
 desmoralizar
 desmoralizado
 desmoraliza
@@ -42057,7 +42057,7 @@ denotativo
 tentatively
 denotar
 denotado
-denotaci贸n
+denotación
 denota
 denotando
 desenlace
@@ -42151,7 +42151,7 @@ denudar
 denudado
 descubierto
 denudating
-denudaci贸n
+denudación
 pelar
 desnudo
 desnudo
@@ -42225,8 +42225,8 @@ desoxidante
 desoxidantes
 desoxidantes
 desoxidante
-desoxidaci贸n
-desoxidaci贸n
+desoxidación
+desoxidación
 desoxidar
 desoxidado
 desoxidante
@@ -42356,7 +42356,7 @@ depilar
 depilado
 depilates
 depilación
-depilaci贸n
+depilación
 depilations
 depilador
 depilatorios
@@ -42403,7 +42403,7 @@ depolaris a
 despolarizado
 despolariza
 despolarización
-despolarizaci贸n
+despolarización
 despolarizaciones
 despolarizar
 despolarizado
@@ -42437,10 +42437,10 @@ despoblar
 despoblado
 despoblar
 despoblando
-despoblaci贸n
-despoblaci贸n
+despoblación
+despoblación
 despoblaciones
-aler贸n
+alerón
 despobladores
 deportar
 deportación
@@ -42479,7 +42479,7 @@ depositario
 depósitos
 deposito
 depósitos
-depravaci贸n
+depravación
 depravaciones
 depravar
 depravado
@@ -42510,7 +42510,7 @@ depreciar
 depreciado
 deprecia
 depreciando
-con desaprobaci贸n
+con desaprobación
 depreciación
 depreciaciones
 depreciativo
@@ -42644,7 +42644,7 @@ rebajado
 deteriora
 derating
 deratings
-deraci贸n
+deración
 derajado
 deratinging
 derations
@@ -42745,7 +42745,7 @@ dermatoglifos
 dermatografia
 dermatografía
 dermatoide
-dermatol贸gico
+dermatológico
 dermatólogo
 dermatólogos
 dermatología
@@ -42907,8 +42907,8 @@ desegregar
 desegregado
 desegregates
 desegregar
-desegregaci贸n
-desegregaci贸n
+desegregación
+desegregación
 deseleccionar
 deseleccionado
 deseleccionar
@@ -42972,7 +42972,7 @@ desecar
 disecado
 deseca
 desecante
-desecaci贸n
+desecación
 desecaciones
 desecante
 desecantes
@@ -42999,7 +42999,7 @@ designativo
 designante
 designadores
 designatory
-dise単ado
+diseñado
 de propósito
 diseñador
 diseñadores
@@ -43138,7 +43138,7 @@ despojador
 despojadores
 despojo
 despojando
-expoliaci贸n
+expoliación
 despojos
 despoliación
 desanimar
@@ -43356,7 +43356,7 @@ determinista
 determinista
 deterministas
 disuadido
-disuasi贸n
+disuasión
 detergentes
 disuasorio
 disuasivos
@@ -43549,7 +43549,7 @@ devaluar
 devaluado
 devalúa
 devaluar
-devaluaci贸n
+devaluación
 devaluaciones
 devaluar
 devaluado
@@ -43637,7 +43637,7 @@ diablesa
 diablo
 tortuoso
 desviado
-desviaci贸n
+desviación
 devisable
 dispositivos
 devisales
@@ -43663,7 +43663,7 @@ debilitar
 desvitalizado
 desvitaliza
 desvitalizante
-desvitrificaci贸n
+desvitrificación
 desvitrificado
 desvitrifica
 desvitrificar
@@ -43703,7 +43703,7 @@ Devonshire
 sumiso
 dedicar
 devoto
-con devoci贸n
+con devoción
 dedicación
 devoto
 devotos
@@ -43732,7 +43732,7 @@ devoracion
 devora
 devoto
 devotamente
-devoci贸n
+devoción
 Rocío
 tablero
 dewani
@@ -43842,7 +43842,7 @@ acción de bruja
 diabluras
 diablery
 diablo
-diab贸lico
+diabólico
 diabólico
 diabólicamente
 diabolise
@@ -44046,7 +44046,7 @@ pañal
 pañales
 cambio de pañales
 pañales
-pa単ales
+pañales
 diafanidad
 diafragma
 diafnómetros
@@ -44215,7 +44215,7 @@ dígamosgamo
 dicogamia
 dicordio
 dichords
-dicot贸mico
+dicotómico
 dicotomías
 dicotomizar
 dicotomizado
@@ -44313,7 +44313,7 @@ dicción
 diccionarios
 diccionario
 diccionario
-dict贸grafo
+dictógrafo
 demasiado
 lo
 dictados
@@ -44553,7 +44553,7 @@ digitable
 cavado
 cavador
 excavadores
-excavaci贸n
+excavación
 excavaciones
 dight
 iluminado
@@ -44678,7 +44678,7 @@ dilapidate
 arruinado
 dilapidados
 dilapidante
-dilapidaci贸n
+dilapidación
 dilapidador
 dilapidaciones
 dilatabilidad
@@ -44832,7 +44832,7 @@ oscuridad
 dimorfo
 dimórfico
 dimorfismo
-dim贸rfico
+dimórfico
 dimorfismo
 hoyuelo
 hoyuelos
@@ -45077,7 +45077,7 @@ cazo
 cucharones
 dippier
 dippiest
-inmersi贸n
+inmersión
 dippy
 diprotodon
 Diprotodont
@@ -45355,7 +45355,7 @@ desaprobar
 desaprobado
 desaprueba
 desaprobación
-con desaprobaci贸n
+con desaprobación
 desarmar
 desarmamiento
 desarmado
@@ -45565,7 +45565,7 @@ renuncia
 descargos de responsabilidad
 negación
 niega
-negaci贸n
+negación
 disclamaciones
 revelar
 revelado
@@ -45673,7 +45673,7 @@ desconectando
 desconexión
 desconexiones
 desconecta
-desconexi贸n
+desconexión
 disconnexiones
 disconforme
 disconforme
@@ -45780,7 +45780,7 @@ discreto
 discreeter
 discreetest
 discretamente
-discreci贸n
+discreción
 discrepance
 discrepancies
 discrepancias
@@ -46042,7 +46042,7 @@ disfeatures
 disfeaturing
 expulsión
 expulsado
-desfiguraci贸n
+desfiguración
 desfiguraciones
 desfigurar
 desfigurado
@@ -46276,7 +46276,7 @@ desinfectante
 desinfectantes
 desinfectado
 desinfectar
-desinfecci贸n
+desinfección
 desinfectantes
 desinfectante
 desinfectadores
@@ -46335,7 +46335,7 @@ desinvertido
 desinvertir
 disinvestiture
 disinvestitures
-desinversi贸n
+desinversión
 desinversiones
 desinvierte
 disject
@@ -46565,7 +46565,7 @@ Dispart
 disparted
 disparting
 disparts
-desapasi贸n
+desapasión
 desapasionado
 desapasionadamente
 desapasionamiento
@@ -46800,7 +46800,7 @@ disputa
 discutible
 compitiendo
 disputantes
-disertaci贸n
+disertación
 disputas
 disputable
 disputable
@@ -46913,7 +46913,7 @@ disseats
 disecar
 disecado
 Disectible
-disecci贸n
+disección
 disecciones
 disección
 Disecciones
@@ -46938,7 +46938,7 @@ disseizin
 disseize
 disseizors
 barra de tiro
-disimulaci贸n
+disimulación
 Desmontajes
 disimular
 disimulado
@@ -47026,7 +47026,7 @@ dissimilator
 disimulado
 dissimilator
 disimulando
-disimilaci贸n
+disimilación
 dissimilations
 disímil
 difiriendo
@@ -47074,8 +47074,8 @@ disolubilidad
 disoluble
 disolubilidad
 disoluto
-en disoluci贸n
-falta de disoluci贸n
+en disolución
+falta de disolución
 disoluciones
 disolución
 disolución
@@ -47154,11 +47154,11 @@ distendiendo
 diste
 distensibilidad
 distensible
-distensi贸n
+distensión
 distensiones
 distensive
 disparidades
-distensi贸n
+distensión
 distenciones
 dos veces
 dístico
@@ -47223,7 +47223,7 @@ distraer
 distractivamente
 distracción
 distracciones
-diversi贸n
+diversión
 distraídamente
 distrae
 secuestrar
@@ -47456,7 +47456,7 @@ diverso
 diverso
 diversamente
 diversificable
-diversificaci贸n
+diversificación
 diversificado
 diversifica
 diversificar
@@ -47482,7 +47482,7 @@ diverticulitis
 diverticulosis
 divertículo
 entretenimiento
-diversi贸n
+diversión
 divertirse
 divertido
 divertingly
@@ -48085,7 +48085,7 @@ domesticar
 domesticado
 domestica
 domesticar
-domesticaci贸n
+domesticación
 domesticaciones
 domesticador
 domesticadores
@@ -48565,7 +48565,7 @@ dobletes
 Doble árbol
 doubletrees
 dobletes
-duplicaci贸n
+duplicación
 duplicaciones
 doblón
 doblones
@@ -48689,7 +48689,7 @@ Somnolencia
 dowding
 gotas
 desaliñado
-desali単ado
+desaliñado
 dowdyism
 agachado
 clavija
@@ -48899,7 +48899,7 @@ redactores
 borrador
 borrador
 draftiness
-redacci贸n
+redacción
 borradores
 dibujante
 arte del delineante
@@ -48996,7 +48996,7 @@ dramatizando
 dramaturgo
 dramaturgos
 dramatizable
-dramatizaci贸n
+dramatización
 dramatizaciones
 dramatizar
 dramatizado
@@ -49028,7 +49028,7 @@ cubierto
 pañero
 draperied
 cortinas
-pa単eros
+pañeros
 pañería
 cortinas
 matanza
@@ -49117,7 +49117,7 @@ temores
 sueño
 dreamboat
 dreamboats
-so単ado
+soñado
 soñador
 soñadores
 soñadores
@@ -49129,7 +49129,7 @@ soñador
 más soñador
 soñando
 sueños
-so単ando
+soñando
 soñando
 sueños
 país de los sueños
@@ -49242,7 +49242,7 @@ perforar
 perforado
 se burla
 perforadores
-perforaci贸n
+perforación
 simulacros
 secamente
 beber
@@ -49334,7 +49334,7 @@ drongo
 drongoes
 drongos
 droning
-mon贸tonamente
+monótonamente
 dronish
 dronishly
 dronishness
@@ -49719,7 +49719,7 @@ zoquete
 dufferdom
 duffers
 empañar
-mulet贸n
+muletón
 duffs
 dufy
 excavado
@@ -49994,7 +49994,7 @@ engañado
 duper
 engaños
 tontos
-enga単o
+engaño
 Ella es el partido
 Du Ping
 Dupion
@@ -50173,7 +50173,7 @@ dwams
 coacción
 compulsivo
 enano
-empeque単ecido
+empequeñecido
 enanismo
 enano
 enano
@@ -50190,7 +50190,7 @@ dweebs
 habitar
 morado
 habitante
-poblaci贸n
+población
 vivienda
 viviendas
 mora
@@ -50219,7 +50219,7 @@ dybbuks
 Dyck
 colorante
 teñible
-te単ido
+teñido
 tintura
 teñidos
 Dline
@@ -50574,7 +50574,7 @@ hacia el este
 Eastbourne
 eastender
 eastenders
-Pascua de Resurrecci贸n
+Pascua de Resurrección
 vientos del este
 estelar
 orientales
@@ -50845,7 +50845,7 @@ Respetuoso del medio ambiente
 Escuela
 ambientalmente
 ecológico
-ecol贸gicamente
+ecológicamente
 ecologista
 ecologistas
 ecología
@@ -51082,7 +51082,7 @@ edite
 editado
 edith
 edición
-declaraci贸n
+declaración
 edición
 ediciones
 editor
@@ -51144,7 +51144,7 @@ educes
 editable
 educiendo
 educto
-educci贸n
+educción
 educción
 eductor
 eductores
@@ -51227,7 +51227,7 @@ Eficacias
 effed
 effeir
 effeirs
-afeminaci贸n
+afeminación
 afeminado
 afeminado
 afeminado
@@ -51561,7 +51561,7 @@ elaboradamente
 elaboracion
 elabora
 elaborando
-elaboraci贸n
+elaboración
 elaboraciones
 elaborativo
 elaborator
@@ -51674,7 +51674,7 @@ hacer la campaña electoral
 electoraleered
 electoralista
 electores
-campa単a electoral
+campaña electoral
 Elecciones
 Elecciones
 elecciones
@@ -51703,7 +51703,7 @@ electricistas
 electricidad
 electricidad
 electrifiable
-electrificaci贸n
+electrificación
 electrificado
 electrifica
 electrizar
@@ -51741,7 +51741,7 @@ electrocutar
 electrocutado
 electrocutes
 electrocución
-electrocuci贸n
+electrocución
 electrocuciones
 electrodo
 electrodeposición
@@ -51796,7 +51796,7 @@ electrometallurgical
 electrometallurgist
 electrometalurgia
 electrómetro
-electr贸metros
+electrómetros
 electrometrico
 electrometrical
 electrométricamente
@@ -51984,7 +51984,7 @@ eliminar
 eliminado
 elimina
 eliminando
-eliminaci贸n
+eliminación
 eliminaciones
 eliminativo
 eliminador
@@ -52049,10 +52049,10 @@ maniquí
 olmos
 madera de olmo
 elmy
-Español
-ēlŏcūtus
+elo
+elocute
 elocuted
-ēlŏcūtus
+elocutas
 elocuting
 elocución
 elocutionary
@@ -52141,7 +52141,7 @@ eludiendo
 eluyente
 eluyentes
 la vida
-elusi贸n
+elusión
 elusions
 elusivo
 elusivamente
@@ -52610,7 +52610,7 @@ emigrar
 emigrado
 emigra
 emigrando
-emigraci贸n
+emigración
 emigrational
 emigración
 emigración
@@ -52695,8 +52695,8 @@ emoting
 emoción
 emocionalmente
 emocional
-emoci贸n
-emoci贸n
+emoción
+emoción
 emocionalmente
 sin emociones
 emociones
@@ -52886,7 +52886,7 @@ emular
 emulado
 emula
 emulando
-emulaci贸n
+emulación
 emulaciones
 emulador
 emulador
@@ -53100,7 +53100,7 @@ cifrando
 cifrados
 rodear
 cercado
-circunvalaci贸n
+circunvalación
 cercos
 rodea
 rodeando
@@ -53398,7 +53398,7 @@ endosarc
 endosarcs
 endoscopio
 endoscopios
-endosc贸pico
+endoscópico
 endoscopias
 endoscopia
 endoskeletal
@@ -53560,8 +53560,8 @@ enframes
 encuadre
 emancipar
 emancipado
-emancipaci贸n
-emancipaci贸n
+emancipación
+emancipación
 enfranquistas
 liberando
 enfree
@@ -54079,7 +54079,7 @@ implicado
 entailer
 entailers
 implicando
-vinculaci贸n
+vinculación
 implicaciones
 implica
 aperturas
@@ -54235,14 +54235,14 @@ entierro
 sepulturas
 sepulcros
 entómico
-entomol贸gico
+entomológico
 entomológicamente
 entomologise
 entomologizado
 entomologises
 entomologizar
-entom贸logo
-entom贸logos
+entomólogo
+entomólogos
 entomologize
 entomologizado
 entomologizes
@@ -54384,7 +54384,7 @@ enumerado
 enumerado
 enumera
 enumerando
-enumeraci贸n
+enumeración
 enumeraciones
 enumerativo
 enumerador
@@ -54394,7 +54394,7 @@ exponer
 enunciado
 enunciados
 enunciando
-enunciaci贸n
+enunciación
 enunciaciones
 enunciativo
 enunciador
@@ -54697,7 +54697,7 @@ epidémico
 epidemicamente
 epidemia
 epidemias
-epidemiol贸gico
+epidemiológico
 epidemiólogo
 epidemiólogos
 epidemiología
@@ -55215,7 +55215,7 @@ irradiar
 eradiated
 eradiates
 eradiating
-irradiaci贸n
+irradiación
 erradicable
 erradicar
 erradicado
@@ -56013,7 +56013,7 @@ eterizando
 eterismo
 eterista
 eteristas
-eterizaci贸n
+eterización
 eterizar
 eterizado
 eterize
@@ -56062,8 +56062,8 @@ etnobotánica
 etnocéntrica
 etnocentricamente
 etnocentrismo
-etn贸grafo
-etn贸grafos
+etnógrafo
+etnógrafos
 etnográfico
 etnográfico
 etnografías
@@ -56338,7 +56338,7 @@ eufemístico
 eufénica
 eufónico
 eufonía
-euf贸nico
+eufónico
 euphonical
 euphonies
 eufónico
@@ -56533,7 +56533,7 @@ evaginaron
 desenvainado
 evaginating
 evaginación
-evaginaci贸n
+evaginación
 evaluable
 evaluar
 evaluado
@@ -56757,7 +56757,7 @@ evocable
 evocado
 evocado
 evocador
-evocaci贸n
+evocación
 evocaciones
 evocador
 evocativamente
@@ -56816,7 +56816,7 @@ exacerbar
 exacerbado
 exacerba
 exacerbando
-exacerbaci贸n
+exacerbación
 exacerbaciones
 exacerbescencia
 exacerbescencias
@@ -56891,7 +56891,7 @@ ejemplos
 exampling
 exámenes
 exánime
-depresi贸n
+depresión
 Exanthem
 exantema
 exantema
@@ -57101,7 +57101,7 @@ excoriar
 excoriado
 excoriates
 excoriante
-excoriaci贸n
+excoriación
 excoriaciones
 excorticate
 excorticado
@@ -57145,7 +57145,7 @@ exculpar
 exculpado
 exculpates
 exculpando
-exculpaci贸n
+exculpación
 Exculpaciones
 justificante
 progresión
@@ -57191,7 +57191,7 @@ execrar
 execrado
 execrates
 execrando
-execraci贸n
+execración
 execraciones
 execrativo
 de manera
@@ -57304,7 +57304,7 @@ exfoliar
 exfoliado
 exfolia
 exfoliante
-exfoliaci贸n
+exfoliación
 exfoliativo
 exhalable
 exhalar
@@ -57378,7 +57378,7 @@ instar
 exhorters
 exhortando
 exhorta
-exhumaci贸n
+exhumación
 exhumaciones
 exhumar
 exhumado
@@ -57561,7 +57561,7 @@ ampliable
 expandido
 expansor
 expansores
-en expansi贸n
+en expansión
 se expande
 extensión
 extensiones
@@ -57625,7 +57625,7 @@ expectorar
 expectorado
 expectorates
 expectorando
-expectoraci贸n
+expectoración
 expectoraciones
 expectorativo
 expectorador
@@ -57714,7 +57714,7 @@ experimentalizado
 experimentalizes
 experimentando
 experimentalmente
-experimentaci贸n
+experimentación
 experimentaciones
 experimentative
 experimentado
@@ -57796,7 +57796,7 @@ explícito
 explícitamente
 claridad
 explotar
-explot贸
+explotó
 reventador
 explosivos
 explota
@@ -57860,7 +57860,7 @@ exposición
 exposición
 expositores
 expone
-exposici贸n
+exposición
 exposit
 exposited
 exposición
@@ -57930,8 +57930,8 @@ expropriable
 expropiar
 expropiado
 expropia
-expropiaci贸n
-expropiaci贸n
+expropiación
+expropiación
 expropiaciones
 expropriator
 expropiadores
@@ -57960,7 +57960,7 @@ expurgar
 expurgado
 expurgates
 expurgación
-expurgaci贸n
+expurgación
 redacciones
 expurgator
 expurgatorio
@@ -57995,7 +57995,7 @@ exsert
 exserted
 exsertile
 exserting
-exerci贸n
+exerción
 exsertionem
 exserts
 seco
@@ -58003,7 +58003,7 @@ desecar
 exsiccated
 exsiccates
 exsiccating
-desecaci贸n
+desecación
 cxsiccatione
 exsiccative
 desecador
@@ -58055,7 +58055,7 @@ extender
 extensores
 extensibilidad
 extensible
-extensi贸n
+extensión
 se extiende
 extenso
 extensibilidad
@@ -58075,7 +58075,7 @@ extensiones
 extensibilidad
 extenso
 extensamente
-extensi贸n
+extensión
 extenso
 extensómetro
 extensómetros
@@ -58171,7 +58171,7 @@ extirpar
 extirpado
 extirpates
 extirpando
-extirpaci贸n
+extirpación
 extirpación
 extirpative
 extirpador
@@ -58250,7 +58250,7 @@ extrapolar
 extrapolado
 extrapola
 extrapolando
-extrapolaci贸n
+extrapolación
 extrapolaciones
 extrapolativo
 extrapolator
@@ -58315,7 +58315,7 @@ extrínseca
 extrínsecamente
 extrorsal
 extrorse
-extroversi贸n
+extroversión
 extroversions
 extroversive
 extrovertido
@@ -58328,7 +58328,7 @@ extrusora
 extrusoras
 extruye
 Extruyendo
-extrusi贸n
+extrusión
 extrusiones
 extrusivo
 extrusión
@@ -58344,7 +58344,7 @@ exuberantes
 exuberating
 exudado
 exudados
-exudaci贸n
+exudación
 exudaciones
 exudativo
 exudar
@@ -58605,14 +58605,14 @@ factorizado
 factorial
 factoriales
 suerte
-factorizaci贸n
+factorización
 factorización
 factorizaciones
 factorizar
 factorizado
 factorises
 factorización
-factorizaci贸n
+factorización
 factorizaciones
 factorizar
 factorizado
@@ -58623,7 +58623,7 @@ Factores
 Factores
 fábrica
 factótum
-fact贸tums
+factótums
 hechos
 hoja de hechos
 hojas informativas
@@ -58964,7 +58964,7 @@ familiarizarse
 familiarizarse
 familiaridades
 familiaridad
-familiarizaci贸n
+familiarización
 familiarizar
 familiarizado
 se familiariza
@@ -59232,7 +59232,7 @@ faros
 salvaje
 farquhar
 farraginoso
-conglomeraci贸n
+conglomeración
 farragoes
 popurrí
 Farrand
@@ -59646,7 +59646,7 @@ peso pluma
 plumoso
 proeza
 amigos
-haza単as
+hazañas
 característica
 ofrecido
 características
@@ -59694,7 +59694,7 @@ fecundar
 fecundado
 fecundates
 fecundante
-fecundaci贸n
+fecundación
 fecundities
 fecundidad
 alimentado
@@ -59744,7 +59744,7 @@ alimentar
 realimentación
 alimentador
 alimentadores
-alimentaci贸n
+alimentación
 alimentaciones
 feedlot
 feedlots
@@ -59941,7 +59941,7 @@ fémures
 Puntos
 cerca
 cercado
-sin protecci贸n
+sin protección
 poste de la cerca
 esgrimidor
 tiradores
@@ -60194,7 +60194,7 @@ fiesta
 festivo
 festalmente
 festivales
-s贸lido
+sólido
 disgustado
 supuración
 festeros
@@ -60418,7 +60418,7 @@ fibrilar
 fibrilado
 fibrila
 fibrilación
-fibrilaci贸n
+fibrilación
 fibrilaciones
 fibrillosa
 fibrillo
@@ -60524,7 +60524,7 @@ agitarse
 inquieto
 inquietud
 inquieto
-agitaci贸n nerviosa
+agitación nerviosa
 nervioso
 fidging
 instrumentos de cuerda
@@ -60805,7 +60805,7 @@ filtrar
 filtrabilidad
 filtrable
 filtrado
-filtraci贸n
+filtración
 filtros
 inmundicia
 más sucio
@@ -60865,10 +60865,10 @@ financieros
 financialmente
 financiero
 financiero
-financiaci贸n
+financiación
 finback
 finbacks
-pinz贸n
+pinzón
 pinchado
 pinzones
 finchley
@@ -61207,9 +61207,9 @@ fisurado
 fisuras
 fisura
 puño
-pu単o
-pu単ado
-pu単ados
+puño
+puñado
+puñados
 fistiana
 pistachos
 pistachos
@@ -61538,15 +61538,15 @@ luces intermitentes
 flashes
 más llamativo
 más llamativo
-con ostentaci贸n
-ostentaci贸n
+con ostentación
+ostentación
 brillante
 tapajuntas
 flash
 linternas
 flashman
 punto de inflamabilidad
-puntos de inflamaci贸n
+puntos de inflamación
 ostentoso
 matraz
 la botella
@@ -61688,7 +61688,7 @@ desollar
 flays
 pulga
 fleabane
-pulg贸n
+pulgón
 fleams
 pulgas
 fleawort
@@ -61705,7 +61705,7 @@ fleckers
 moteado
 sin flequillo
 manchas
-flexi贸n
+flexión
 reflexiones
 huido
 bate
@@ -61963,7 +61963,7 @@ flotador
 flotable
 flotabilidad
 flotadores
-flotaci贸n
+flotación
 Flotadores
 flotado
 floatel
@@ -62017,7 +62017,7 @@ inundar
 inundado
 compuerta
 compuertas
-inundaci贸n
+inundación
 inundaciones
 Luz de inundación
 iluminado
@@ -62490,7 +62490,7 @@ sin espuma
 espumas
 foamy
 engañar
-enga単ado
+engañado
 fobbing
 fobs
 pastel
@@ -62551,7 +62551,7 @@ foggage
 empañado
 foggages
 foggaging
-empa単ado
+empañado
 fogger
 nebulizadores
 forma
@@ -62559,7 +62559,7 @@ foggier
 foggiest
 foggily
 nebulosidad
-empa単amiento
+empañamiento
 brumoso
 sirena
 foghorns
@@ -62886,7 +62886,7 @@ petimetre
 fopling
 foplings
 fopperies
-afectaci贸n en el vestir
+afectación en el vestir
 afectado
 Foppishly
 Foppishness
@@ -62930,7 +62930,7 @@ forbes
 prohibir
 prohibida
 prohibidos
-prohibici贸n
+prohibición
 prohibiciones
 prohibido
 prohibido
@@ -62969,7 +62969,7 @@ forzado
 forzosamente
 a la fuerza
 forzando
-con forma de f贸rceps
+con forma de fórceps
 forcipated
 forcipation
 palas
@@ -63449,7 +63449,7 @@ formalista
 los formalistas
 formalidades
 formalidad
-formalizaci贸n
+formalización
 formalizaciones
 formalizar
 formalizado
@@ -63481,7 +63481,7 @@ formadores
 formas
 formiato
 formiatos
-f贸rmico
+fórmico
 hormiga
 formicant
 formicaria
@@ -63718,7 +63718,7 @@ fosilizar
 fosilizado
 fosilizar
 fosilizar
-fosilizaci贸n
+fosilización
 fosilizaciones
 fosilizarse
 fosilizado
@@ -63732,7 +63732,7 @@ fossula
 fossula
 fosilizar
 fomentar
-educaci贸n
+educación
 fosterages
 adoptivo
 fomentador
@@ -63847,7 +63847,7 @@ fouth
 joder
 foutres
 fovea
-pozos?
+foveae
 foveal
 foveate
 foveola
@@ -64247,7 +64247,7 @@ liberando
 Lanza libre
 freelanced
 persona de libre dedicación
-aut贸nomos
+autónomos
 autónomos
 freelance
 freeload
@@ -64353,7 +64353,7 @@ frenéticamente
 frenesí
 frenesí
 frenético
-fre贸n
+freón
 freones
 frecuencia
 frecuencias
@@ -65117,7 +65117,7 @@ fumigar
 fumigado
 fumigates
 fumigación
-fumigaci贸n
+fumigación
 fumigaciones
 fumigador
 fumigadores
@@ -65236,7 +65236,7 @@ canalización
 embudos
 funnidos
 más divertido
-tiras c贸micas
+tiras cómicas
 el más divertido
 cómicamente
 funniness
@@ -65480,8 +65480,8 @@ futurition
 futuriciones
 futuro
 futurological
-futur贸logo
-futur贸logos
+futurólogo
+futurólogos
 futurología
 Responsable
 rociar
@@ -65973,7 +65973,7 @@ galvanizado
 galvanismo
 galvanist
 galvanistas
-galvanizaci贸n
+galvanización
 galvanizaciones
 galvanizar
 galvanizado
@@ -65982,7 +65982,7 @@ galvanizers
 galvaniza
 galvanizado
 galvanómetro
-galvan贸metros
+galvanómetros
 galvanométrico
 galvanometer
 galvanoplastic
@@ -66107,7 +66107,7 @@ jamón
 gammoned
 gammoner
 gammoners
-comido jam贸n
+comido jamón
 gammonings
 gammons
 escalas
@@ -66474,7 +66474,7 @@ gashest
 tacaño
 gashing
 gashliness
-gasificaci贸n
+gasificación
 gasificado
 gasificador
 gasificadores
@@ -66499,7 +66499,7 @@ gasóleos
 gasoliers
 gasolina
 gasómetro
-gas贸metros
+gasómetros
 gasométrico
 gasométrico
 gasometría
@@ -66521,7 +66521,7 @@ gases
 más gaseoso
 más gaseoso
 gassiness
-asfixi贸n con gas
+asfixión con gas
 gaseamientos
 gaseoso
 invitado
@@ -66563,7 +66563,7 @@ gastrónomo
 gastronomists
 gastronomers
 gourmets
-gastron贸mico
+gastronómico
 gastronómico
 gastronomist
 gastronomists
@@ -66979,7 +66979,7 @@ geminado
 geminado
 geminates
 geminating
-geminaci贸n
+geminación
 geminationem
 Geminis
 geminiano
@@ -67312,7 +67312,7 @@ genu
 doblar la rodilla
 genuflado
 genuflexión
-genuflexi贸n
+genuflexión
 genuflexiones
 genuflexor
 genuflexores
@@ -67368,8 +67368,8 @@ geognosts
 geognosia
 geogónico
 geogonia
-ge贸grafo
-ge贸grafos
+geógrafo
+geógrafos
 geográfico
 geográfico
 geográficamente
@@ -67378,12 +67378,12 @@ geoide
 geoidal
 geoides
 geolatry
-ge贸logos
+geólogos
 geologers
 geología
 geólogos
 geológico
-geol贸gico
+geológico
 geológicamente
 geologizar
 geologizado
@@ -67411,7 +67411,7 @@ geómetras
 geométrico
 geométrico
 geométricamente
-ge贸metra
+geómetra
 geometristas
 geometrid
 geometridae
@@ -67588,7 +67588,7 @@ germinar
 germinado
 germina
 germinando
-germinaci贸n
+germinación
 germinaciones
 germinativo
 germinando
@@ -68012,7 +68012,7 @@ gimmickries
 truco
 trucos
 alegre
-ca単utillo
+cañutillo
 entorchado
 gimping
 gimps
@@ -68115,10 +68115,10 @@ girasoles
 girasols
 Giraud
 ceñir
-ce単ido
+ceñido
 viga
 vigas
-ce単ida
+ceñida
 girdings
 faja
 anudado
@@ -68189,7 +68189,7 @@ gissing
 esencia
 gists
 ir
-excursi贸n
+excursión
 gitana
 gitano
 gitanos
@@ -68481,7 +68481,7 @@ gleety
 gleg
 mover
 ajuste de fase
-ca単ada
+cañada
 Glencoe
 glenda
 glendower
@@ -68496,7 +68496,7 @@ glenoidal
 glenoides
 glenridding
 glenrothes
-ca単adas
+cañadas
 gley
 Gleyed
 gleying
@@ -68692,7 +68692,7 @@ gloriana
 glorias
 gloried
 glorias
-glorificaci贸n
+glorificación
 glorificaciones
 glorificado
 glorifica
@@ -68753,7 +68753,7 @@ Glosario
 Glossop
 lustroso
 glotal
-gl贸tico
+glótico
 Dean sonrió
 glottides
 glotis
@@ -69034,7 +69034,7 @@ goadsman
 goadsmen
 goadster
 goadsters
-obstrucci贸n
+obstrucción
 goafs
 Gol
 goalball
@@ -69150,7 +69150,7 @@ más piadoso
 hola
 divino
 Godlily
-devoci贸n
+devoción
 Dios mío
 godlings
 piadoso
@@ -69283,7 +69283,7 @@ golf
 jugar al golf
 golf
 golgi
-G贸lgota
+Gólgota
 por supuesto
 goliard
 goliardery
@@ -69808,7 +69808,7 @@ grial
 grails
 agarrar
 agarrado
-ladr贸n
+ladrón
 acaparadores
 agarrando
 buscar a tientas
@@ -70160,7 +70160,7 @@ granulados
 granuladores
 granulados
 granulado
-granulaci贸n
+granulación
 gránulos
 granulativo
 granulador
@@ -70237,8 +70237,8 @@ graphium
 grafios
 grafologico
 grafologico
-graf贸logo
-graf贸logos
+grafólogo
+grafólogos
 grafología
 graphomania
 gráficos
@@ -70811,7 +70811,7 @@ gripe
 Griped
 interfiere
 gripers
-c贸licos
+cólicos
 agua de queja
 quejándose
 dolorosamente
@@ -71108,7 +71108,7 @@ más groutiest
 lechada
 grageas
 lechadas
-rezong贸n
+rezongón
 arboleda
 arrastrarse
 groveled
@@ -71138,7 +71138,7 @@ gruñones
 cultivar
 growlier
 más gruñón
-gru単ir
+gruñir
 gruñendo
 gruñidos
 gruñidos
@@ -71175,7 +71175,7 @@ rencor
 grudgers
 rencor
 avaro
-a rega単adientes
+a regañadientes
 rencores
 grúa
 agotado
@@ -71416,7 +71416,7 @@ adivinado
 adivinador
 adivinadores
 conjeturas
-adivinaci贸n
+adivinación
 adivinando
 adivinanzas
 guesstimate
@@ -71924,9 +71924,9 @@ gineceo
 ginecocracias
 ginecología
 ginecoide
-ginecol贸gico
-ginec贸logo
-ginec贸logos
+ginecológico
+ginecólogo
+ginecólogos
 ginecología
 ginecomastia
 gynandrism
@@ -71941,8 +71941,8 @@ gynandry
 gynecia
 Gynec
 ginecoide
-ginec贸logo
-ginec贸logos
+ginecólogo
+ginecólogos
 ginecología
 gyniolatry
 gynocracy
@@ -72016,13 +72016,13 @@ gyroplanes
 giroscopios
 giroscopio
 giroscopios
-girosc贸pico
+giroscópico
 gyrose
 giroestabilizador
 estabilizadores giroscópicos
 gyrostabilizer
 girosinabilizadores
-gir贸stato
+giróstato
 girostático
 girostáticos
 girostatos
@@ -72213,8 +72213,8 @@ hematocritos
 hematogenesis
 hematógena
 hematoide
-hemat贸logo
-hemat贸logos
+hematólogo
+hematólogos
 hematología
 hematólisis
 hematoma
@@ -72303,7 +72303,7 @@ haggish
 haggishly
 regatear
 regateado
-regat贸n
+regatón
 regateadores
 haggles
 regateo
@@ -72567,7 +72567,7 @@ alucinador
 alucinadores
 alucinante
 alucinógeno
-alucin贸geno
+alucinógeno
 alucinógenos
 alucinosis
 valgus
@@ -72811,7 +72811,7 @@ trabajos manuales
 pañuelo
 pañuelos
 pañuelo
-pa単uelos
+pañuelos
 pañuelos
 encargarse de
 manejable
@@ -73084,7 +73084,7 @@ cabeza dura
 testarudo
 testarudez
 cabeza dura
-duro de coraz贸n
+duro de corazón
 Hardicanute
 Hardie
 más resistente
@@ -73176,7 +73176,7 @@ arlequines
 harley
 harlington
 ramera
-prostituci贸n
+prostitución
 rameras
 harlow
 harls
@@ -73234,7 +73234,7 @@ armonistas
 armonia
 armonio
 armonios
-armonizaci贸n
+armonización
 armonizaciones
 armonizar
 armonizado
@@ -73521,7 +73521,7 @@ transportista
 transportistas
 transportista
 transportistas
-transportaci贸n
+transportación
 tallo
 tallos
 lances
@@ -73736,7 +73736,7 @@ hazes
 hazier
 haziest
 confusamente
-confusi贸n
+confusión
 novatada
 hazings
 hazlitt
@@ -74136,7 +74136,7 @@ abucheado
 objetante
 abucheos
 heckles
-interrupci贸n de protesta
+interrupción de protesta
 diablos
 hectárea
 hectáreas
@@ -74310,7 +74310,7 @@ tenor heroico
 tiempo de héroe
 asistentes heroicos
 todos
-dirigi贸
+dirigió
 helen
 helena
 me helenien
@@ -74338,7 +74338,7 @@ helicons
 helicóptero
 helicóptero
 helicóptero
-helic贸pteros
+helicópteros
 helictitas
 helideck
 helipuertos
@@ -74980,7 +74980,7 @@ hermita
 hermandad
 hermandades
 hermético
-ermita単os
+ermitaños
 Herms
 garza
 Herne
@@ -75087,7 +75087,7 @@ vaciló
 vacilante
 duda
 dudando
-con vacilaci贸n
+con vacilación
 vacilación
 vacilaciones
 vacilante
@@ -75394,7 +75394,7 @@ hibernar
 hibernado
 hiberna
 hibernando
-hibernaci贸n
+hibernación
 hibernaciones
 Hibernia
 hibernian
@@ -75842,7 +75842,7 @@ hipopótamo
 hipopótamo
 hipopótamo
 hipopótamos
-hipop贸tamos
+hipopótamos
 hippúrico
 hippuris
 hippurita
@@ -75999,7 +75999,7 @@ historizado
 historifies
 historizar
 historifying
-histori贸grafo
+historiógrafo
 historiográfico
 historiográfico
 historiográficamente
@@ -76109,7 +76109,7 @@ engañado
 engañador
 falsificadores
 fraudes
-enga単o
+engaño
 quemador
 hobart
 hobbes
@@ -76517,7 +76517,7 @@ sin hogar
 falta de vivienda
 homelier
 homeliest
-hogare単o
+hogareño
 homelily
 sencillez
 acogedor
@@ -76538,8 +76538,8 @@ homeomorfia
 homeópata
 homeopático
 homeopáticamente
-home贸pata
-home贸patas
+homeópata
+homeópatas
 homeópatas
 homeopatía
 homeosis
@@ -76620,12 +76620,12 @@ homoeomorfismo
 homoeomorfo
 homoeomorfos
 homoeomorfia
-home贸pata
+homeópata
 homeopático
 homeopáticamente
-home贸pata
-home贸patas
-home贸patas
+homeópata
+homeópatas
+homeópatas
 homeopatía
 Homoeosis
 homoeostasis
@@ -76897,11 +76897,11 @@ hoodooing
 hoodoos
 capuchas
 engañar
-enga単ado
+engañado
 Engañador
 Engañadores
-enga単ar
-enga単os
+engañar
+engaños
 hooey
 casco
 latido cabeza
@@ -76913,7 +76913,7 @@ pezuña
 cabeza menos
 principal mercado
 marcas en la cabeza
-l贸gica principal
+lógica principal
 huellas
 pezuñas
 gancho
@@ -76976,7 +76976,7 @@ hooshing
 hoosier
 hoosiers
 ulular
-caba単a
+cabaña
 hootches
 hootchy
 ululó
@@ -77008,7 +77008,7 @@ optimismo
 aspirantes
 sin esperanza
 sin esperanza
-desesperaci贸n
+desesperación
 pila
 hopers
 esperanzas
@@ -77151,7 +77151,7 @@ Horometrical
 horometría
 horóscopo
 horóscopos
-horosc贸pico
+horoscópico
 horoscopies
 horoscopist
 horoscopists
@@ -77294,7 +77294,7 @@ hospitalizado
 hospitalises
 hospitalizando
 hospitalidad
-hospitalizaci贸n
+hospitalización
 hospitalizaciones
 hospitalizar
 hospitalizado
@@ -77430,7 +77430,7 @@ casas flotantes
 confinado
 criado
 houseboys
-ladr贸n de casas
+ladrón de casas
 ladrones de casas
 robo en una casa
 limpieza de la casa
@@ -77523,8 +77523,8 @@ aerodeslizadores
 revoloteado
 flotando
 flotando
-puerto de la libraci贸n
-puerto de la libraci贸n
+puerto de la libración
+puerto de la libración
 hover
 hovertrain
 hovertrains
@@ -77985,7 +77985,7 @@ huppah
 hupped
 hupping
 Uy
-c처mo
+hur
 hurcheon
 hurcheons
 hurd
@@ -78190,7 +78190,7 @@ hibridando
 hibridismo
 hibridez
 hibridizable
-hibridaci贸n
+hibridación
 hibridaciones
 hibridizar
 hibridizado
@@ -78231,7 +78231,7 @@ hidratar
 hidratado
 hidratos
 hidratante
-hidrataci贸n
+hidratación
 hidráulico
 hidráulicamente
 hidráulica
@@ -78368,7 +78368,7 @@ hidronio
 hidropático
 hidropático
 hidropáticamente
-hidr贸pata
+hidrópata
 hidropáticos
 hidropatía
 hidrophane
@@ -78386,7 +78386,7 @@ hidrófobo
 hidrófono
 hidrófonos
 hidrófita
-hidr贸fitos
+hidrófitos
 hidrófito
 hydrophyton
 hidrófitos
@@ -78399,7 +78399,7 @@ hidroplanear
 hidroneumático
 hidropolípo
 hydropolyps
-hidrop贸nico
+hidropónico
 hidropónicamente
 hidroponia
 hidroelectricidad
@@ -78625,7 +78625,7 @@ hipérbolas
 hipérbole
 hipérboles
 hiperbólico
-hiperb贸lico
+hiperbólico
 hiperbólicamente
 hiperboloide
 hiperboloidal
@@ -78775,7 +78775,7 @@ hifas
 hifas
 guión
 escribir con guión
-con gui贸n
+con guión
 hyphenates
 hyphenating
 separación
@@ -78819,7 +78819,7 @@ hipnoidizando
 hipnología
 hipnona
 hipnopedia
-hipnop贸mpicas
+hipnopómpicas
 hipnosis
 hipnosis
 hipnosis
@@ -78843,7 +78843,7 @@ hipnotista
 hipnotizadores
 hipnotizabilidad
 hipnotizable
-hipnotizaci贸n
+hipnotización
 hipnotizaciones
 hipnotizar
 hipnotizado
@@ -78891,7 +78891,7 @@ hipocótilos
 hipocresías
 hipocresía
 hipócrita
-hip贸critas
+hipócritas
 hipócrita
 hipócrita
 hipócritamente
@@ -78949,7 +78949,7 @@ hipofisario
 hipofisectomía
 pituitaria
 hipofisario
-hip贸fisis
+hipófisis
 hipopituitarismo
 hipoplasia
 hipoplástico
@@ -79010,7 +79010,7 @@ hipotenusa
 hipotenos
 hipotermal
 hipotermia
-hip贸tesis
+hipótesis
 hipótesis
 hipótesis
 hipótesis
@@ -79339,7 +79339,7 @@ idealísticamente
 idealistas
 idealidades
 idealidad
-idealizaci贸n
+idealización
 idealizaciones
 idealizar
 idealizado
@@ -79353,7 +79353,7 @@ Idealogue
 ideólogos
 ideales
 ideas
-dise単ado
+diseñado
 ideated
 ideates
 ideando
@@ -79394,12 +79394,12 @@ ideográficamente
 ideogramas
 ideografía
 ideológicamente
-ideol贸gico
+ideológico
 ideológicamente
 ideologicos
 ideologías
-ide贸logo
-ide贸logos
+ideólogo
+ideólogos
 ideólogo
 ideólogos
 ideología
@@ -79472,7 +79472,7 @@ idiota
 ídolo
 ídolo
 idólatra
-id贸latras
+idólatras
 idolatress
 idolatresses
 idolatrise
@@ -79591,7 +79591,7 @@ ignorado
 ignorar
 ignorantes
 ignora
-postergaci贸n
+postergación
 igor
 igorot
 igorots
@@ -79729,7 +79729,7 @@ ilocutions
 ilógico
 ilógico
 falta de lógica
-il贸gicamente
+ilógicamente
 ilógico
 males
 illth
@@ -80085,8 +80085,8 @@ mezclado
 imitaciones
 immingling
 A falta de
-depreciaci贸n
-depreciaci贸n
+depreciación
+depreciación
 inmiscibilidad
 inmiscible
 Inmisión
@@ -80131,7 +80131,7 @@ inmolar
 inmolado
 inmola
 inmolando
-inmolaci贸n
+inmolación
 inmolaciones
 immolator
 inmoladores
@@ -80152,7 +80152,7 @@ inmortaliza
 inmortalizando
 inmortalidades
 inmortalidad
-inmortalizaci贸n
+inmortalización
 inmortalizar
 inmortalizado
 inmortaliza
@@ -80167,7 +80167,7 @@ inmovilidad
 inamovible
 inmovilidad
 inamovible
-inm贸vil
+inmóvil
 inmóviles
 inmune
 inmunización
@@ -80178,7 +80178,7 @@ inmuniza
 inmunizando
 inmunidades
 inmunidad
-inmunizaci贸n
+inmunización
 inmunizaciones
 inmunizar
 inmunizado
@@ -80237,7 +80237,7 @@ estoy pintando
 Impactos
 perjudicar
 dañado
-da単ador
+dañador
 impares
 deteriorando
 discapacidad
@@ -80341,7 +80341,7 @@ impeachista
 acosadores
 Enjuiciamientos
 acusación
-acusaci贸n
+acusación
 impugnaciones
 impearl
 impregnado
@@ -80547,7 +80547,7 @@ impignoration
 empuje
 afectar a
 impactado
-instrucci贸n
+instrucción
 pinzamientos
 tropezón
 impinge
@@ -80697,7 +80697,7 @@ importado
 importador
 importadores
 importador
-sin importaci贸n
+sin importación
 importaciones
 importunacies
 importunacy
@@ -80901,7 +80901,7 @@ mejorador
 mejoradores
 mejora
 improvisado
-imprevisi贸n
+imprevisión
 imprevisor
 Improvisional
 improvisionalmente
@@ -81077,7 +81077,7 @@ desapego
 incomprensible
 falta de aprehensión
 poco atractivo
-aprensi贸n
+aprensión
 inaccesibilidad
 inaccesible
 inaceptablemente
@@ -81249,7 +81249,7 @@ caminar
 inceding
 incedingly
 incendiarios
-conflagraci贸n
+conflagración
 incendiario
 incendivities
 incendivity
@@ -81320,7 +81320,7 @@ incinerar
 incinerado
 incinera
 incinerando
-incineraci贸n
+incineración
 incineraciones
 incinerador
 incineradores
@@ -81358,7 +81358,7 @@ incitaciones
 fomentar
 incitadores
 incita
-excitaci贸n
+excitación
 incitivamente
 incivil
 incivilidades
@@ -81383,7 +81383,7 @@ inclinatorio
 inclinación
 inclinado
 inclinaciones
-inclinaci贸n
+inclinación
 inclinings
 clinómetro
 inclinómetros
@@ -81690,7 +81690,7 @@ incriminado
 incriminado
 incrimina
 incriminatorio
-incriminaci贸n
+incriminación
 incriminatorio
 Incross
 incrossbred
@@ -81719,7 +81719,7 @@ inculcar
 inculcado
 inculca
 inculcar
-inculcaci贸n
+inculcación
 inculcaciones
 inculcative
 inculcator
@@ -81977,7 +81977,7 @@ indicador
 índices
 indicio
 indicial
-informaci贸n
+información
 indicolite
 procesar
 procesable
@@ -82033,8 +82033,8 @@ indigestivo
 indign
 indignance
 indignado
-con indignaci贸n
-indignaci贸n
+con indignación
+indignación
 indignación
 indignación
 indignify
@@ -82106,7 +82106,7 @@ común
 indistintamente
 indistinctiveness
 indistintamente
-indistinci贸n
+indistinción
 indistinguibilidad
 indistinguible
 indistinguishableness
@@ -82232,7 +82232,7 @@ inducción
 induccional
 inducciones
 inductivo
-por inducci贸n
+por inducción
 inductividades
 inductividad
 inductor
@@ -82616,7 +82616,7 @@ infiere
 estéril
 esterilidad
 infestar
-infestaci贸n
+infestación
 infestaciones
 infestado
 infestación
@@ -82652,7 +82652,7 @@ infiltrado
 infiltrado
 infiltrados
 infiltrándose
-infiltraci贸n
+infiltración
 infiltración
 infiltrante
 infiltrador
@@ -82815,7 +82815,7 @@ delitos
 infractor
 infractores
 infracciones
-subvenci贸n infra
+subvención infra
 infrahuman
 infralapsaria
 infralapsarianismo
@@ -82919,7 +82919,7 @@ ingesta
 ingerido
 ingerible
 ingerir
-ingesti贸n
+ingestión
 ingestiones
 ingestivo
 ingiere
@@ -82998,7 +82998,7 @@ inhabitancies
 habitar
 habitante
 habitantes
-habitaci贸n
+habitación
 habitacion
 poblado
 inhabiter
@@ -83638,7 +83638,7 @@ insinuator
 insinuators
 insinuatory
 insípido
-desaz贸n
+desazón
 insípidamente
 insipidez
 insipience
@@ -83651,7 +83651,7 @@ insistences
 insistencies
 insistency
 insistente
-con empe単o
+con empeño
 insistiendo
 insiste
 insisture
@@ -83937,7 +83937,7 @@ insuflar
 insuflado
 insufla
 Insuflar
-insuflaci贸n
+insuflación
 insuflaciones
 insuflador
 Insufladores
@@ -84198,7 +84198,7 @@ intercalar
 intercalado
 intercalar
 intercalando
-intercalaci贸n
+intercalación
 intercalaciones
 intercalative
 interceder
@@ -84273,13 +84273,13 @@ intercomunicando
 intercomunicación
 intercomunicación
 intercomunión
-intercomunicaci贸n
+intercomunicación
 intercomunicadores
 interconectar
 interconectado
 interconexión
 interconectando
-interconexi贸n
+interconexión
 interconexiones
 interconecta
 interconexión
@@ -84352,7 +84352,7 @@ interés
 interesar
 interesado
 interesado
-interÃ©s
+interés
 interesante
 curiosamente
 interesant
@@ -84509,7 +84509,7 @@ entrelazar
 enclavado
 enclavamiento
 enclavamientos
-interlocuci贸n
+interlocución
 interlocuciones
 interlocutor
 interlocutores
@@ -84654,7 +84654,7 @@ interneural
 pasantía
 internista
 internista
-internaci贸n
+internación
 internamientos
 internodal
 entrenudo
@@ -84732,7 +84732,7 @@ interpolado
 interpolater
 interpola
 interpolando
-interpolaci贸n
+interpolación
 interpolaciones
 interpolativo
 interpolador
@@ -85018,7 +85018,7 @@ intimidado
 intimida
 intimidante
 intimidación
-intimidaci贸n
+intimidación
 intimidatorio
 intimism
 intimista
@@ -85229,7 +85229,7 @@ introspectivo
 introspects
 intususcepción
 introversible
-introversi贸n
+introversión
 introversiones
 introvertido
 introvertido
@@ -85363,7 +85363,7 @@ invalidar
 invalidado
 invalida
 invalidando
-invalidaci贸n
+invalidación
 invalidaciones
 inválido
 invalidez
@@ -85552,7 +85552,7 @@ invocatorio
 factura
 facturado
 facturas
-facturaci贸n
+facturación
 invocar
 invocado
 invoca
@@ -85632,7 +85632,7 @@ inyalas
 yo
 Yodato
 yodates
-y贸dico
+yódico
 yoduro
 yoduros
 yodo
@@ -85792,7 +85792,7 @@ irisate
 irisated
 tu decidiste
 diafragma
-irisaci贸n
+irisación
 Irisations
 iriscopio
 iriscopes
@@ -85833,7 +85833,7 @@ ironer
 planchadores
 ironfisted
 irónico
-ir贸nico
+irónico
 irónicamente
 irónicamente
 planchado
@@ -86197,7 +86197,7 @@ islamizando
 isla
 isleño
 isleño
-isle単os
+isleños
 islando
 islas
 islay
@@ -86446,7 +86446,7 @@ isotonos
 isotónico
 isotonicidad
 isótopo
-is贸topos
+isótopos
 isotópico
 isotopías
 isotopía
@@ -86471,7 +86471,7 @@ isseis
 issigonis
 issuable
 emitible
-emisi贸n
+emisión
 emisiones
 emisor
 problema
@@ -87095,7 +87095,7 @@ jauping
 gracioso
 Java
 público
-javanÃ©s
+javanés
 blanqueador
 jabalina
 jabalinas
@@ -87840,7 +87840,7 @@ Joshad
 josher
 joshers
 atractivo
-じ ょ ん ん g
+joual
 joshua
 Josías
 josie
@@ -88068,11 +88068,11 @@ judokas
 Juds
 Judy
 sur
-tambiÃ©n
+juga
 jugal
 conyugales
 emparejado
-Art Nouveau
+jugendstil
 jarro
 jugfuls
 Jugged
@@ -88179,7 +88179,7 @@ gemelo
 binoculares
 saltar
 jumpable
-salt贸
+saltó
 saltador
 puentes
 jumpier
@@ -88580,7 +88580,7 @@ canguro
 canguro
 canguro
 canguros
-pa単o
+paño
 kangchenjunga
 Peine
 Anti-Harbin
@@ -89491,7 +89491,7 @@ Kinchin
 kincob
 tipo
 un poco
-ni単os
+niños
 jardín de infancia
 kindergartener
 kindergarten
@@ -89510,7 +89510,7 @@ niños niño
 kindles
 sin gracia
 amablemente
-ni単o lee
+niño lee
 kindlily
 bondad
 astillas
@@ -89863,7 +89863,7 @@ klux
 klystron
 klystrons
 km
-ma単a
+maña
 knackatory
 descuartizador
 hecho polvo
@@ -90514,8 +90514,8 @@ labarum
 labarums
 labdacism
 labdanum
-postraci贸n
-postraci贸n
+postración
+postración
 labefaction
 labefactions
 etiqueta
@@ -90789,7 +90789,7 @@ dejar
 cargado
 carga
 repartió
-se単oras
+señoras
 ladrado
 ladifies
 ladify
@@ -91091,7 +91091,7 @@ laminado
 laminado
 laminados
 laminado
-laminaci贸n
+laminación
 laminaciones
 laminador
 laminadores
@@ -91281,7 +91281,7 @@ deslizamiento
 deslizamientos de tierra
 landsmaal
 contexto nacional
-compa単ero
+compañero
 hombres de tierra
 condado
 Sturm país
@@ -91435,7 +91435,7 @@ piedra
 lapidadas
 lapidates
 lapidación
-lapidaci贸n
+lapidación
 lapidaciones
 lapideous
 lapidescent
@@ -91691,7 +91691,7 @@ duraderamente
 perdurabilidad
 Finalmente
 tiene una duración
-a単os
+años
 latakia
 pestillo
 enganchado
@@ -92436,7 +92436,7 @@ herencias
 legado
 legal
 jerga legal
-legalizaci贸n
+legalización
 legalizaciones
 legalizar
 legalizado
@@ -92449,7 +92449,7 @@ legalmente
 legalistas
 legalidades
 legalidad
-legalizaci贸n
+legalización
 legalizaciones
 legalizar
 legalizado
@@ -92898,7 +92898,7 @@ arrendatario
 arrendatarios
 lecciones
 disminuido
-disminuci贸n
+disminución
 disminuye
 menor
 Lessing
@@ -93081,7 +93081,7 @@ ligereza
 levitar
 levita
 levitando
-levitaci贸n
+levitación
 levitaciones
 levita
 levitas
@@ -93169,7 +93169,7 @@ Dos o tres
 lianoid
 salvaje
 liard
-cuartos?
+liards
 mentirosos
 lias
 liassic
@@ -93504,7 +93504,7 @@ ligeti
 ligged
 situado
 vigas
-ubicaci贸n
+ubicación
 ligero
 bombilla
 bombillas
@@ -93547,7 +93547,7 @@ Lujosamente
 luminosidad
 ligero
 pesos ligeros
-a単os luz
+años luz
 lignaloes
 línea
 leñoso
@@ -94252,8 +94252,8 @@ lithoglyph
 lithoglyphs
 litografía
 litografiado
-lit贸grafo
-lit贸grafos
+litógrafo
+litógrafos
 litográfico
 litográfico
 litográficamente
@@ -94367,7 +94367,7 @@ litter
 pequeño
 Littleborough
 Littlehampton
-peque単ez
+pequeñez
 más pequeño
 littles
 el más pequeño
@@ -94588,7 +94588,7 @@ lobelia
 lobeliaceae
 lobelias
 Lobeline
-l贸bulos
+lóbulos
 lobby
 vestíbulo
 lobings
@@ -94641,7 +94641,7 @@ localismos
 localista
 localidades
 localidad
-localizaci贸n
+localización
 localizaciones
 localizar
 localizado
@@ -94835,8 +94835,8 @@ lógico
 lógica
 lógicamente
 lógica
-l贸gico
-l贸gicos
+lógico
+lógicos
 logicise
 logicised
 logicises
@@ -94895,7 +94895,7 @@ un logotero
 logotipo
 logotipos
 registros
-Løgting
+registrando
 palo de golf
 troncos
 registros
@@ -95417,7 +95417,7 @@ digno de amor
 amoroso
 amor
 amoroso
-cari単osamente
+cariñosamente
 cariño
 Loving
 bajo
@@ -95524,7 +95524,7 @@ lubricar
 lubricado
 lubricantes
 lubricante
-lubricaci贸n
+lubricación
 lubricaciones
 lubricante
 lubricador
@@ -95706,7 +95706,7 @@ maderas
 leñador
 chaqueta de leña
 chalecos
-le単adores
+leñadores
 toscamente
 maderero
 madereros
@@ -95750,7 +95750,7 @@ luminiscencia
 luminiscencia
 luminífero
 lumining
-ilustraci贸n
+ilustración
 luministas
 luminosidades
 luminosidad
@@ -95804,7 +95804,7 @@ semáforo
 lunated
 lunático
 lunáticos
-lunaci贸n
+lunación
 lunaciones
 almuerzo
 almorzado
@@ -95902,7 +95902,7 @@ estar al acecho
 acechaba
 mirón
 lurkers
-alfombrilla de rat贸n
+alfombrilla de ratón
 lurkings
 acecha
 lurry
@@ -96433,7 +96433,7 @@ macrodiagonal
 macrodiagonales
 macrodome
 macrodomes
-macroecon贸mico
+macroeconómico
 macroeconómica
 macroevolución
 macrofossil
@@ -96620,7 +96620,7 @@ Magdalena
 mago
 Magallanes
 magellanico
-est贸mago
+estómago
 magenta
 magentas
 magos
@@ -96710,7 +96710,7 @@ magnetista
 magnetistas
 magnetita
 magnetizable
-magnetizaci贸n
+magnetización
 magnetizaciones
 magnetizar
 magnetizado
@@ -96722,7 +96722,7 @@ magneto
 magnetograph
 magnetografías
 magnetómetro
-magnet贸metros
+magnetómetros
 magnetometría
 magnetomotor
 magneton
@@ -96833,8 +96833,8 @@ mahratta
 Dificultad
 mahseers
 Twist
-gracias
-Que?
+mahuas
+mahwa
 mahwas
 mazzor
 mazzorim
@@ -97016,7 +97016,7 @@ mayúscula
 mak
 editable
 al menos
-c贸nyuges
+cónyuges
 hacer
 realizable
 makebate
@@ -97071,7 +97071,7 @@ enfermo
 enfermedades
 maladjust
 inadaptado
-inadaptaci贸n
+inadaptación
 inadaptados
 maladminister
 maladministrado
@@ -97451,7 +97451,7 @@ manejabilidad
 manejable
 manejado
 administración
-administraci贸n
+administración
 gerente
 directora
 Gerentes
@@ -97723,7 +97723,7 @@ manipular
 manipulado
 manipula
 manipulando
-manipulaci贸n
+manipulación
 manipulaciones
 manipulativo
 manipulativamente
@@ -97766,7 +97766,7 @@ manierista
 Maniobramente
 manieristas
 sin sentido
-educaci贸n
+educación
 educado
 modales
 Mannheim
@@ -97799,7 +97799,7 @@ manometría
 Manon
 señorío
 manorbier
-se単orial
+señorial
 señoríos
 manos
 manpack
@@ -97884,13 +97884,13 @@ fabricado
 fabricante
 fabricantes
 artículos
-fabricaci贸n
+fabricación
 Manuka
 manukas
 Español
 Manul
 Manumea
-manumisi贸n
+manumisión
 manumisiones
 liberarse de servidumbre
 manumits
@@ -98615,7 +98615,7 @@ masoquísticamente
 masoquistas
 masón
 masoned
-mas贸nico
+masónico
 masoning
 albañilería
 albañilería
@@ -98666,7 +98666,7 @@ masajistas
 masajista
 masajistas
 Massey
-贸xido de plomo
+óxido de plomo
 masier
 masivo
 masivo
@@ -98763,7 +98763,7 @@ masturbarse
 masturbado
 se masturba
 masturbándose
-masturbaci贸n
+masturbación
 masturbador
 masturbadores
 masturbatorio
@@ -98930,7 +98930,7 @@ matriarcados
 matriarcados
 matriarcas
 matriarcado
-matriculaci贸n
+matriculación
 matriz
 matrices
 matricidal
@@ -98945,7 +98945,7 @@ matricularse
 matriculado
 matriculates
 matriculando
-matriculaci贸n
+matriculación
 matriculaciones
 matriculator
 matriculators
@@ -99174,7 +99174,7 @@ maximiza
 maximizando
 maximist
 maximistas
-maximizaci贸n
+maximización
 maximizaciones
 maximizar
 maximizado
@@ -99429,7 +99429,7 @@ mediciones
 medidor
 medidores
 medidas
-medici贸n
+medición
 medidas
 carne
 meatal
@@ -99461,7 +99461,7 @@ mecánicos
 constructor
 mecánicos
 mecánica
-mecanizaci贸n
+mecanización
 mecanizaciones
 mecanizar
 motorizado
@@ -99473,7 +99473,7 @@ mecanista
 mecánico
 mecánicamente
 mecanicistas
-mecanizaci贸n
+mecanización
 mecanizaciones
 mecanizar
 motorizado
@@ -99519,7 +99519,7 @@ entrometidos
 entrometerse
 entrometido
 entrometimiento
-intromisi贸n
+intromisión
 co
 medea
 medellin
@@ -99674,7 +99674,7 @@ manso
 Meekens
 manso
 manso
-d贸cilmente
+dócilmente
 mansedumbre
 meemie
 meemies
@@ -99804,7 +99804,7 @@ meiótico
 meissen
 Meissner
 campeón
-campe贸n
+campeón
 meistersinger
 cantantes magistrales
 hija
@@ -99823,7 +99823,7 @@ melanemia
 melancolía
 melancholiac
 melancholiacs
-melanc贸lico
+melancólico
 melancholics
 melancholious
 melancolía
@@ -99887,7 +99887,7 @@ bonificar
 meliorated
 meliorates
 meliorating
-bonificaci贸n
+bonificación
 meliorations
 meliorativo
 bonificar
@@ -99928,7 +99928,7 @@ meloso
 suavizado
 más suave
 más suave
-maduraci贸n
+maduración
 Suavemente
 suavidad
 dulzura
@@ -100261,7 +100261,7 @@ mepacrina
 meperidina
 Mephisto
 mefistofélico
-Mefist贸feles
+Mefistófeles
 mefistofélico
 mephistophelic
 mephitic
@@ -100320,7 +100320,7 @@ comerciar
 comerciante
 comerciante
 mercaderías
-comercializaci贸n
+comercialización
 merchandizings
 comerciante
 comerciable
@@ -100680,7 +100680,7 @@ desorden
 jugando
 compañero de rancho
 messmates
-se単ores
+señores
 mesuage
 mensajes
 sucio
@@ -100695,7 +100695,7 @@ con
 metabases
 metabasis
 metabático
-metab贸lico
+metabólico
 metabólico
 metabólico
 metabolizar
@@ -100773,7 +100773,7 @@ metallises
 metalización
 metal
 metallistas
-metalizaci贸n
+metalización
 metalizaciones
 metalizar
 metalizado
@@ -100822,7 +100822,7 @@ metafases
 metáfora
 metafórico
 metafórico
-metaf贸ricamente
+metafóricamente
 metafórico
 metáforas
 metafosfato
@@ -100936,7 +100936,7 @@ meteoroides
 meteorolite
 meteorolites
 meteorológico
-meteorol贸gico
+meteorológico
 meteorológicamente
 meteorólogo
 meteorólogos
@@ -100975,7 +100975,7 @@ Metho
 método
 metódico
 metódico
-met贸dicamente
+metódicamente
 meticulosidad
 método
 metodizado
@@ -101259,8 +101259,8 @@ microbios
 microbiano
 microbian
 microbiano
-microbi贸logo
-microbi贸logos
+microbiólogo
+microbiólogos
 microbiología
 microbiota
 microburst
@@ -101314,9 +101314,9 @@ micropunto
 microdots
 microdrive
 microdrives
-microecon贸mico
+microeconómico
 microeconomía
-microelectr贸nico
+microelectrónico
 microelectrónicamente
 microelectrónica
 microencapsulación
@@ -101469,8 +101469,8 @@ microescala
 microscopio
 microscopios
 microscópico
-microsc贸pico
-microsc贸picamente
+microscópico
+microscópicamente
 microscopista
 microscopistas
 microscopía
@@ -101532,7 +101532,7 @@ orinar
 micturado
 micturados
 micturating
-micci贸n
+micción
 micciones
 medio
 aire
@@ -101581,7 +101581,7 @@ entre
 del interior
 Midlander
 midlanders
-la regi贸n central de Inglaterra
+la región central de Inglaterra
 midlothian
 media mañana
 medio
@@ -101633,7 +101633,7 @@ Partera
 partera
 parteras
 partera
-mediados de a単o
+mediados de año
 mien
 mina
 hombre
@@ -101751,7 +101751,7 @@ militarismo
 militarista
 militarista
 militaristas
-militarizaci贸n
+militarización
 militarizar
 militarizado
 militarizes
@@ -101777,7 +101777,7 @@ lechosa
 milkiest
 lecheramente
 Leche
-orde単o
+ordeño
 ordeños
 sin leche
 leve
@@ -102055,7 +102055,7 @@ mi cazador
 cazadores de minas
 minero
 mineral
-mineralizaci贸n
+mineralización
 mineralise
 mineralizado
 mineraliser
@@ -102064,13 +102064,13 @@ mineralises
 mineralización
 mineralista
 mineralistas
-mineralizaci贸n
+mineralización
 mineralizar
 mineralizado
 mineralizador
 mineraliza
-mineralizaci贸n
-mineral贸gico
+mineralización
+mineralógico
 mineralógicamente
 mineralogise
 mineralogizado
@@ -102093,7 +102093,7 @@ dragaminas
 dragaminas
 minino
 chicas
-piel de armi単o
+piel de armiño
 mineros
 minero
 mineros
@@ -102189,7 +102189,7 @@ minimizando
 minimalismo
 minimist
 minimalistas
-minimizaci贸n
+minimización
 minimizaciones
 minimizar
 minimizado
@@ -102590,11 +102590,11 @@ malicia
 mischmetal
 miscibilidad
 miscible
-clasificaci贸n err贸nea
+clasificación errónea
 mal clasificado
 clasifica incorrectamente
 clasificar mal
-clasificaci贸n err贸nea
+clasificación errónea
 misco
 miscolored
 mal colorear
@@ -102607,7 +102607,7 @@ malinterpretar
 mal comprendido
 mis incomprensiones
 malentendidos
-mala comprensi贸n
+mala comprensión
 mala computación
 miscomputaciones
 miscomputar
@@ -102670,7 +102670,7 @@ sinvergüenza
 malhechores
 miscreate
 feo
-creaci贸n err贸nea
+creación errónea
 creaciones erróneas
 miscreative
 mal creador
@@ -102715,7 +102715,7 @@ Describir
 mal descrito
 mal describe
 Describir
-descripci贸n err贸nea
+descripción errónea
 malversar
 misdevotion
 misdevotions
@@ -102723,7 +102723,7 @@ misdiagnose
 mal diagnosticado
 diagnósticos erróneos
 mal diagnosticar
-diagn贸stico err贸neo
+diagnóstico erróneo
 misdial
 mal marcado
 misdialling
@@ -102910,7 +102910,7 @@ Mishná
 mishnaico
 Mishnayoth
 armadura
-identificaci贸n err贸nea
+identificación errónea
 identificaciones erróneas
 mal identificado
 identifica erróneamente
@@ -102953,12 +102953,12 @@ miserable
 se une
 juzgar mal
 mal juzgado
-juicio err贸neo
+juicio erróneo
 errores de juicio
 juicios erróneos
 mal juzgar
-juicio err贸neo
-juicios err贸neos
+juicio erróneo
+juicios erróneos
 miskey
 endémica de ojos
 almizcle
@@ -103140,7 +103140,7 @@ pronunciar mal
 mal pronunciado
 mispronounces
 pronunciar mal
-mala pronunciaci贸n
+mala pronunciación
 mal pronunciaciones
 desproporción
 desproporcionado
@@ -103182,7 +103182,7 @@ misremembering
 misremembers
 declaración incorrecta
 mal informado
-declaraci贸n incorrecta
+declaración incorrecta
 informes erróneos
 falsificar
 tergiversación
@@ -103199,7 +103199,7 @@ desviado
 mal gobierno
 misruling
 perder
-se単orita
+señorita
 missable
 Asistente
 misal
@@ -103295,7 +103295,7 @@ declarar erróneamente
 tergiversado
 declaración errónea
 declaraciones equivocadas
-declaraciones err贸neas
+declaraciones erróneas
 tergiversar
 mal paso
 mal interpretado
@@ -103617,7 +103617,7 @@ moabite
 moabites
 gemido
 gemido
-protest贸n
+protestón
 moaners
 quejoso
 gemido
@@ -103649,7 +103649,7 @@ movilizado
 movilizando
 movilidades
 movilidad
-movilizaci贸n
+movilización
 movilizaciones
 movilizar
 movilizado
@@ -103757,7 +103757,7 @@ modernista
 modernistas
 modernidades
 modernidad
-modernizaci贸n
+modernización
 modernizaciones
 modernizar
 modernizado
@@ -103826,12 +103826,12 @@ modular
 modulado
 modula
 modulando
-modulaci贸n
+modulación
 modulaciones
 modulador
 moduladores
 módulo
-m贸dulos
+módulos
 módulos
 formulario
 módulo
@@ -103859,7 +103859,7 @@ Mogs
 magnate
 moguled
 magnates
-m
+oficial médico
 mohair
 mohairs
 Mohamed
@@ -103874,7 +103874,7 @@ Mahoma
 Mahoma
 Mohammed Naznaj
 Mahometanos
-محمدعثم
+mohammedismo
 Muharram
 Mohave
 Mohawk
@@ -104444,9 +104444,9 @@ monofilamento
 monofilamentos
 monofilamentos
 monogamic
-mon贸gamo
+monógamo
 monogamistas
-mon贸gamo
+monógamo
 monogamia
 monogenesis
 monogenético
@@ -104701,9 +104701,9 @@ Monrovia
 mons
 monseñor
 señor
-monse単or
+monseñor
 monsignori
-monse単ores
+monseñores
 monzón
 monsoonal
 monzones
@@ -104812,7 +104812,7 @@ mooching
 estado animico
 más melancólico
 mal humor
-melanc贸licamente
+melancólicamente
 mal humor
 estados de ánimo
 moody
@@ -104984,7 +104984,7 @@ morrénico
 moral
 moralidad
 morales
-moralizaci贸n
+moralización
 moralizaciones
 moralizar
 moralizado
@@ -104998,7 +104998,7 @@ moralizador
 moralistas
 moralidades
 moralidad
-moralizaci贸n
+moralización
 moralizaciones
 moralizar
 moralizado
@@ -105172,7 +105172,7 @@ morfogénesis
 morfógrafo
 morfógrafos
 morfografia
-morfol贸gico
+morfológico
 morfológico
 morfológicamente
 morfólogo
@@ -105453,7 +105453,7 @@ automovilista
 automovilistas
 motorium
 motorios
-motorizaci贸n
+motorización
 motorizaciones
 motorizado
 motorizado
@@ -105494,7 +105494,7 @@ motzas
 yo
 Mucho
 Mishribis
-مشارب
+moucharaby
 delator
 delatores
 mouched
@@ -105558,7 +105558,7 @@ mountained
 alpinista
 montañismo
 montañismo
-monta単eros
+montañeros
 montañoso
 montañosamente
 montañas
@@ -105604,7 +105604,7 @@ llora
 mous
 Musaca
 mousaka
-rat贸n
+ratón
 moused
 Mousekin
 Mousekins
@@ -106253,7 +106253,7 @@ mummerset
 mascarada
 momificado
 momias
-momificaci贸n
+momificación
 momificaciones
 momificado
 momifica
@@ -106591,8 +106591,8 @@ musica
 mosquetón
 musickers
 musicológico
-music贸logo
-music贸logos
+musicólogo
+musicólogos
 musicología
 musicoterapia
 musica
@@ -107219,7 +107219,7 @@ Nagger
 naggers
 persistente
 gran
-comuni贸n
+comunión
 Nagaur
 nagorno
 nagors
@@ -107243,7 +107243,7 @@ hasta
 Nax
 uña
 cepillo para las uñas
-cepillos de u単as
+cepillos de uñas
 clavado
 fabricante de clavos
 nailiarios
@@ -107252,7 +107252,7 @@ fábrica de clavos
 magnífico
 clavos
 sin uñas
-u単as
+uñas
 enano
 nainsel
 nainsook
@@ -107304,7 +107304,7 @@ namer
 nombres
 nombres
 homónimo
-hom贸nimos
+homónimos
 nametape
 nametapes
 Namibia
@@ -107317,7 +107317,7 @@ la casa
 en
 nana
 piña
-maric贸n
+maricón
 finanzas
 Nanchang
 nancies
@@ -107397,11 +107397,11 @@ servilletas
 Nápoles
 usado
 Napoleón
-napole贸nico
+napoleónico
 napoleonism
 napoleonist
 napoleonite
-Napole贸n
+Napoleón
 Nápoles
 napoo
 napooed
@@ -107414,7 +107414,7 @@ Napper
 nappers
 manteles
 más alegre
-pa単ales
+pañales
 nappy
 náuseas
 siesta
@@ -107536,7 +107536,7 @@ nasalised
 nasalises
 nasalising
 nasalidad
-nasalizaci贸n
+nasalización
 nasalizaciones
 nasalizar
 nasalizado
@@ -107620,7 +107620,7 @@ nacionalmente
 nacionalistas
 nacionalidades
 nacionalidad
-nacionalizaci贸n
+nacionalización
 nacionalizaciones
 nacionalizar
 nacionalizado
@@ -107674,7 +107674,7 @@ naturalista
 naturalista
 naturalísticamente
 naturalistas
-naturalizaci贸n
+naturalización
 naturalizar
 naturalizado
 naturaliza
@@ -107693,9 +107693,9 @@ naturismo
 naturista
 naturista
 naturistas
-natur贸pata
+naturópata
 naturopático
-natur贸patas
+naturópatas
 naturopatía
 nada
 naughtier
@@ -107998,7 +107998,7 @@ necrophile
 necrophiles
 necrofilia
 necrófilo
-necr贸filos
+necrófilos
 necrófilo
 necrofilismo
 necrophilous
@@ -108282,7 +108282,7 @@ Nemophila
 Nanophilus
 inmoralidad
 nene
-ni単as
+niñas
 nenúfar
 nenuphars
 neo
@@ -108313,7 +108313,7 @@ neolitos
 neologian
 neologians
 neológico
-neol贸gico
+neológico
 neológicamente
 neologías
 neologise
@@ -108363,9 +108363,9 @@ neoplasma
 neoplasmas
 neoplásico
 neoplasticismo
-neoplat贸nico
+neoplatónico
 neoplatonismo
-neoplat贸nico
+neoplatónico
 neoplatonistas
 neopreno
 recién
@@ -108681,10 +108681,10 @@ neuroléptico
 neurolépticos
 neuro Lingüístico
 neurolingüística
-neurol贸gico
+neurológico
 neurológicamente
-neur贸logo
-neur贸logos
+neurólogo
+neurólogos
 neurología
 neurolisis
 neuroma
@@ -108746,7 +108746,7 @@ neuroquirúrgico
 neurótico
 neuróticamente
 neuroticismo
-neur贸ticos
+neuróticos
 neurotomías
 neurotomista
 neurotomía
@@ -108780,7 +108780,7 @@ neutralista
 neutrales
 neutralidades
 neutralidad
-neutralizaci贸n
+neutralización
 neutralizar
 neutralizado
 neutralizador
@@ -108869,13 +108869,13 @@ locutor de telediario
 presentadores de noticias
 noticiario
 noticiarios
-vendedor de peri贸dicos
+vendedor de periódicos
 vendedores de noticias
 newsed
 noticias
 newsgirl
 newsgirls
-vendedor de peri贸dicos
+vendedor de periódicos
 Newshawks
 newshound
 los sabuesos
@@ -109195,7 +109195,7 @@ Club nocturno
 club nocturno
 discotecas
 discotecas
-camis贸n
+camisón
 camisones
 iluminado
 noche
@@ -109210,7 +109210,7 @@ chotacabras
 camisón
 camisones
 ruiseñor
-ruise単ores
+ruiseñores
 Ciega
 chotacabras
 sin noche
@@ -109239,7 +109239,7 @@ hacia la noche
 ropa de dormir
 trabajador nocturno
 trabajadores nocturnos
-camis贸n
+camisón
 nigrescencia
 negruzco
 nigrificado
@@ -109284,7 +109284,7 @@ nilómetro
 nilot
 nadie
 nilotes
-nil贸tico
+nilótico
 nilot
 Nils
 Nilsson
@@ -109386,7 +109386,7 @@ pezones
 nipplewort
 nippleworts
 pellizcar
-Jap贸n
+Japón
 japonés
 ágil
 pellizcos
@@ -109450,7 +109450,7 @@ nitrurado
 nitruros
 nitruración
 nitrificaciones
-nitrificaci贸n
+nitrificación
 nitrificaciones
 nitrificado
 nitrifica
@@ -109710,7 +109710,7 @@ alquiler
 nómada
 nómada
 nómadas
-n贸mada
+nómada
 nomádicamente
 nomadisation
 nomadise
@@ -109723,7 +109723,7 @@ nomadizar
 nomadized
 Nomadiza
 nómada
-n贸madas
+nómadas
 nomarca
 nomarchies
 nomarchs
@@ -109999,7 +109999,7 @@ norah
 Norbert
 Norbertine
 norte
-n贸rdico
+nórdico
 Renania del Norte
 noreen
 norepinefrina
@@ -110015,7 +110015,7 @@ Norimon
 quieres
 quien
 Norks
-regi贸n de norte
+región de norte
 norrland
 norma
 norma
@@ -110028,7 +110028,7 @@ normalizado
 normalises
 normalizando
 normalidad
-normalizaci贸n
+normalización
 normalizaciones
 normalizar
 normalizado
@@ -110078,7 +110078,7 @@ norte
 norte
 del Norte
 norteño
-norte単os
+norteños
 sepultar
 sepultado
 sepulta
@@ -110290,8 +110290,8 @@ teóricamente
 notionista
 notionistas
 nociones
-informaci贸n
-informaci贸n
+información
+información
 notochord
 notochordal
 notochords
@@ -110824,7 +110824,7 @@ nuez
 drooped
 nutarian
 nutarians
-nutaci贸n
+nutación
 nutado
 nutates
 nutante
@@ -110961,7 +110961,7 @@ nympholepts
 ninfomanía
 ninfómana
 ninfómana
-ninf贸manas
+ninfómanas
 nymphos
 ninfas
 nynorsk
@@ -111037,7 +111037,7 @@ Obconic
 obconical
 obcordate
 esquizofrenia
-obstinaci贸n
+obstinación
 obstinado
 obstinado
 obstinadamente
@@ -111098,7 +111098,7 @@ ofuscar
 ofuscado
 ofuscar
 ofuscación
-ofuscaci贸n
+ofuscación
 ofuscaciones
 ofuscatorio
 Obi
@@ -111261,7 +111261,7 @@ oboistas
 obalari
 enfermar
 obo
-贸bolo
+óbolo
 oboe
 oboleto
 obovoide
@@ -111321,7 +111321,7 @@ observantine
 observantemente
 observantes
 observación
-de observaci贸n
+de observación
 observacionalmente
 observaciones
 observativo
@@ -111424,7 +111424,7 @@ asequible
 adquirido
 obtenidor
 obtentores
-obtenci贸n
+obtención
 obtención
 obtiene
 obtecti
@@ -111609,8 +111609,8 @@ oceánico
 oceanid
 oceanides
 oceanids
-ocean贸grafo
-ocean贸grafos
+oceanógrafo
+oceanógrafos
 oceanográfico
 oceanográfico
 oceanografía
@@ -111832,7 +111832,7 @@ oddfellows
 impar
 rarezas
 rareza
-extra単amente
+extrañamente
 retal
 oddments
 rareza
@@ -111891,8 +111891,8 @@ odontoides
 odontolite
 odontolites
 odontológico
-odont贸logo
-odont贸logos
+odontólogo
+odontólogos
 odontología
 odontoma
 odontomas
@@ -111955,8 +111955,8 @@ oeils
 oems
 oenántico
 enológico
-en贸logo
-en贸logos
+enólogo
+enólogos
 enología
 oenomancia
 oenomania
@@ -112401,7 +112401,7 @@ omaso
 omber
 ombersley
 sombra
-pluvi贸metro
+pluviómetro
 ombrometers
 ombrophil
 ombrophile
@@ -112541,8 +112541,8 @@ oncogen
 oncogenes
 oncogénesis
 oncogénico
-onc贸logo
-onc贸logos
+oncólogo
+oncólogos
 oncología
 oncólisis
 oncolítico
@@ -112663,8 +112663,8 @@ ontogenéticamente
 ontogénico
 ontogenicamente
 ontogenia
-ontol贸gicamente
-ontol贸gico
+ontológicamente
+ontológico
 ontológicamente
 ontólogo
 ontólogos
@@ -112930,7 +112930,7 @@ oftalmólogos
 oftálmico
 oftalmológico
 oftalmológico
-oftalm贸logo
+oftalmólogo
 oftalmología
 oftalmómetro
 oftalmómetro
@@ -113095,7 +113095,7 @@ oftalmología
 óptico
 ópticamente
 óptico
-贸pticos
+ópticos
 óptica
 optima
 óptimo
@@ -113459,7 +113459,7 @@ organometálico
 organon
 organofosforado
 organoterapia
-贸rganos
+órganos
 órgano
 organdí
 organzas
@@ -113557,7 +113557,7 @@ orinoco
 oriol
 orioles
 oriolidae
-Ori贸n
+Orión
 oración
 orisons
 orissa
@@ -113615,10 +113615,10 @@ ornithogaya
 ornithogalum
 ornithogalum
 ornithoid
-ornitol贸gico
+ornitológico
 ornitológicamente
-ornit贸logo
-ornit贸logos
+ornitólogo
+ornitólogos
 ornitología
 ornitomancia
 ornithomantic
@@ -113672,9 +113672,9 @@ huérfano
 huérfanos
 orpharion
 orpharions
-贸rfico
+órfico
 Orfeo
-贸rfico
+órfico
 orfismo
 orphrey
 orphreys
@@ -113682,7 +113682,7 @@ orpimento
 orpin
 uva de gato
 orpines
-贸rpington
+órpington
 orpins
 nariz
 horrible
@@ -113908,7 +113908,7 @@ osmosis
 ósmosis
 ósmosis
 osmotherly
-osm贸tico
+osmótico
 osmóticamente
 naranjas
 osmund
@@ -113943,7 +113943,7 @@ Ossie
 bueyes joven
 osificante
 osificante
-osificaci贸n
+osificación
 osificado
 osifica
 osifar
@@ -114003,11 +114003,11 @@ osteoma
 osteomalacia
 osteomas
 osteomielitis
-oste贸pata
+osteópata
 osteopático
 osteópata
 osteópatas
-oste贸patas
+osteópatas
 osteopatía
 osteopetrosis
 osteofito
@@ -114083,7 +114083,7 @@ otago
 otalgia
 otalgo
 Los leones marinos
-atrici贸n
+atrición
 bandadas
 Otelo
 othello
@@ -114902,7 +114902,7 @@ sobrevalorado
 valores de salida
 outvaluing
 outvenom
-vencer en una competici贸n
+vencer en una competición
 superado
 outvies
 Outvillain
@@ -114990,7 +114990,7 @@ oval
 ovoalbúmina
 ovalis
 ovally
-贸valos
+óvalos
 ovario
 ovarios
 ovariole
@@ -115225,7 +115225,7 @@ cultivos secundarios
 triunfar
 atestar
 superpoblado
-superpoblaci贸n
+superpoblación
 sobrepoblación
 curioso
 sobregiro
@@ -115329,7 +115329,7 @@ sobreexponer
 sobreexpuesto
 sobreexpone
 sobreexposición
-sobreexposici贸n
+sobreexposición
 extender
 extendido demasiado
 excesivo
@@ -115385,7 +115385,7 @@ de plegado
 overfolds
 de fondo
 overfondly
-de la afici贸n
+de la afición
 arriba hacia adelante
 más de atrevimiento
 sobrefacturado
@@ -115466,7 +115466,7 @@ revisado
 excesivamente
 overhastiness
 overhasty
-revisi贸n
+revisión
 revisado
 revisión
 revisiones generales
@@ -115549,7 +115549,7 @@ cubierto
 por tierra
 overlander
 overlanders
-superposici贸n
+superposición
 superpuesto
 superposición
 superposiciones
@@ -115727,7 +115727,7 @@ superpoblar
 superpoblado
 superpoblado
 superpoblando
-superpoblaci贸n
+superpoblación
 dominar
 dominado
 abrumador
@@ -116266,10 +116266,10 @@ ovular
 ovulado
 ovula
 ovulando
-ovulaci贸n
+ovulación
 ovulaciones
 huevos
-贸vulos
+óvulos
 urinarios
 óvulo
 O
@@ -116312,7 +116312,7 @@ owly
 propio
 propiedad
 propietario
-sin due単o
+sin dueño
 propietarios
 propiedad
 propiedades
@@ -116476,7 +116476,7 @@ pablo
 pabst
 pabular
 pabuloso
-alimentaci贸n
+alimentación
 paca
 pacable
 pacas
@@ -116844,7 +116844,7 @@ paleoantrópico
 paleoantropología
 paleoantropos
 paleobiólogo
-paleont贸logos
+paleontólogos
 paleobiología
 paleobotánico
 paleobotánico
@@ -116857,7 +116857,7 @@ paleoclimatología
 palaeocrystic
 paleoecológico
 paleoecólogo
-paleont贸logos
+paleontólogos
 paleoecología
 paleoetnológico
 paleoecológico
@@ -116868,8 +116868,8 @@ paleogaea
 paleogene
 paleogeográfico
 paleogeografía
-pale贸grafo
-pale贸grafos
+paleógrafo
+paleógrafos
 paleográfico
 paleográfico
 paleografista
@@ -116883,8 +116883,8 @@ paleomagnetismo
 paleontológico
 paleontología
 paleontológico
-paleont贸logo
-paleont贸logos
+paleontólogo
+paleontólogos
 paleontología
 paleopatología
 paleopedia
@@ -116928,7 +116928,7 @@ Paltasilse
 palatalizado
 palatalises
 palatalising
-palatalizaci贸n
+palatalización
 palatalizar
 palatalizado
 palatalizes
@@ -117082,7 +117082,7 @@ paliar
 paliado
 paliativos
 paliativo
-paliaci贸n
+paliación
 paliaciones
 paliativo
 paliativos
@@ -117173,7 +117173,7 @@ palpar
 palpado
 palpa
 palpando
-palpaci贸n
+palpación
 palpitaciones
 palpebral
 palped
@@ -117271,7 +117271,7 @@ Panadol
 panagia
 Panamá
 panameño
-paname単os
+panameños
 panamas
 panarias
 panadizo
@@ -117828,7 +117828,7 @@ parábolas
 parábola
 parábolas
 parabólico
-parab贸lico
+parabólico
 parabólicamente
 parabolise
 parabolizado
@@ -117945,7 +117945,7 @@ Paraglossate
 paragnatismo
 paragnathous
 paragoge
-parag贸gico
+paragógico
 paragógico
 paragogo
 paragogues
@@ -117989,7 +117989,7 @@ paralexia
 paralingüístico
 paralinguistics
 paralipomena
-Cr贸nicas
+Crónicas
 paralipses
 paralipsis
 paraláctico
@@ -118050,7 +118050,7 @@ paralizante
 parálisis
 paralítico
 paralíticos
-paralizaci贸n
+paralización
 paralizar
 paralizado
 paralizador
@@ -118266,9 +118266,9 @@ parque
 vajilla
 paquete
 parcelado
-parcelaci贸n
+parcelación
 parcelado
-parcelaci贸n
+parcelación
 parcelas
 parcelwise
 parcenaries
@@ -118282,7 +118282,7 @@ parchedness
 parchís
 parches
 parchís
-t贸rrido
+tórrido
 pergamino
 pergamino
 pergamino
@@ -118523,7 +118523,7 @@ parochín
 Parroquia
 parroquias
 parroquias
-par贸dico
+paródico
 parodical
 parodiado
 parodias
@@ -118564,7 +118564,7 @@ parótico
 parótida
 parótida
 parótidas
-par贸tida
+parótida
 suministro
 parotiditis
 presencia
@@ -118735,7 +118735,7 @@ particularista
 particularists
 particularidades
 particularidad
-particularizaci贸n
+particularización
 particularizar
 particularizado
 particularizes
@@ -118990,7 +118990,7 @@ Pasteurizadores
 pasteurizado
 pasteurización
 pasteurismo
-pasteurizaci贸n
+pasteurización
 pasteurizar
 pasteurizado
 pasteurizador
@@ -119153,12 +119153,12 @@ patognomónico
 pathognomy
 patografías
 patografía
-patol贸gico
+patológico
 patológico
 patológicamente
 patologías
-pat贸logo
-pat贸logos
+patólogo
+patólogos
 patología
 pathofobia
 patetismo
@@ -119351,13 +119351,13 @@ paunchier
 más feo
 panza
 la barriga
-barrig贸n
+barrigón
 pobre
 pauperess
 pauperesses
 pobre
 pauperización
-pauperizaci贸n
+pauperización
 pauperismo
 pauperizada
 pauperismo
@@ -119448,7 +119448,7 @@ empeñar
 prestamista
 prestamistas
 empeño
-empe単ado
+empeñado
 pawnee
 pawnees
 pawner
@@ -119492,7 +119492,7 @@ pagos
 payola
 payolas
 nómina de sueldos
-n贸minas
+nóminas
 país
 paisaje
 paisaje
@@ -119749,7 +119749,7 @@ pecuniousnesss
 ped
 educador
 pedagógico
-pedag贸gico
+pedagógico
 pedagógicamente
 pedagogía
 pedagogismo
@@ -120285,7 +120285,7 @@ pingüineras
 pingüino
 pingüinos
 pingüino
-ping端inos
+pingüinos
 Penh
 titular de la pluma
 sostenedores de pluma
@@ -120336,7 +120336,7 @@ Rocía la puerta
 penn
 pluma
 pennaceous
-pi単ones
+piñones
 pena
 pennals
 banderín
@@ -120724,7 +120724,7 @@ percha
 tal vez
 encaramado
 percher
-percher贸n
+percherón
 percherones
 percheros
 perchas
@@ -120739,7 +120739,7 @@ percipience
 percipiency
 perceptor
 percipiently
-recepci贸n
+recepción
 percival
 percival
 percocet
@@ -120764,7 +120764,7 @@ percussional
 percusionista
 percusionistas
 percusión
-de percusi贸n
+de percusión
 percusivamente
 ariete
 percussors
@@ -120797,7 +120797,7 @@ peregrinate
 peregrinated
 peregrinates
 peregrinante
-peregrinaci贸n
+peregrinación
 peregrinaciones
 peregrinator
 peregrinators
@@ -121081,7 +121081,7 @@ periódico
 periodicalist
 periodicalists
 periódicamente
-publicaciones peri贸dicas
+publicaciones periódicas
 periodicidad
 periodización
 periodizaciones
@@ -121380,7 +121380,7 @@ perpetrar
 perpetrado
 perpetra
 perpetrando
-perpetraci贸n
+perpetración
 perpetraciones
 autor
 perpetradores
@@ -121399,7 +121399,7 @@ perpetuar
 perpetuado
 perpetúa
 perpetuando
-perpetuaci贸n
+perpetuación
 perpetuaciones
 perpetuator
 perpetuadores
@@ -121532,7 +121532,7 @@ personaje
 personajes
 personal
 personal
-personalizaci贸n
+personalización
 personalizar
 personalizado
 personaliza
@@ -121543,7 +121543,7 @@ personalista
 personalistas
 alusiones personales
 personalidad
-personalizaci贸n
+personalización
 personalizar
 personalizado
 personaliza
@@ -121629,7 +121629,7 @@ persuasión
 persuasiones
 persuasivo
 de modo convincente
-persuasi贸n
+persuasión
 persuasivo
 persistente
 persulfato
@@ -121902,7 +121902,7 @@ Petre
 petrel
 petreles
 Petri
-petrificaci贸n
+petrificación
 petrificaciones
 petrifactivo
 petrífico
@@ -122060,7 +122060,7 @@ Phaenogamia
 phaenological
 phaenology
 fenómenos
-fen贸meno
+fenómeno
 phaeophyceae
 Faetón
 faetónico
@@ -122112,12 +122112,12 @@ phalloidin
 falo
 falos
 phanariot
-faner贸gama
+fanerógama
 fanerogama
 fanerogamia
 fanerógamo
-faner贸gamo
-faner贸gamas
+fanerógamo
+fanerógamas
 phanerophyte
 fanerophytes
 fanerozoico
@@ -122132,7 +122132,7 @@ fantasma
 fantasmagoría
 fantasmagórica
 fantasmagorías
-fantasmag贸rico
+fantasmagórico
 fantasmagórico
 fantasmagóricamente
 fantasmal
@@ -122152,7 +122152,7 @@ fantasmas
 phantomy
 faraón
 faraones
-fara贸nico
+faraónico
 faro
 punto culminante
 farisaico
@@ -122179,10 +122179,10 @@ farmacognóstico
 farmacognosia
 farmacocinética
 farmacocinética
-farmacol贸gico
+farmacológico
 farmacológicamente
-farmac贸logo
-farmac贸logos
+farmacólogo
+farmacólogos
 farmacología
 farmacopea
 farmacopea
@@ -122273,7 +122273,7 @@ fenolftaleína
 fenoles
 fenómeno
 fenómeno
-fen贸menos
+fenómenos
 fenomenal
 fenomenalizar
 fenomenalizado
@@ -122301,7 +122301,7 @@ fenomenal
 fenomenal
 fenomenal
 fenomenológico
-fenomen贸logo
+fenomenólogo
 fenomenología
 fenómeno
 fenómeno
@@ -122348,7 +122348,7 @@ philanders
 filántropo
 filántropos
 filantrópico
-filantr贸pico
+filantrópico
 filantrópicamente
 filantropía
 filántropo
@@ -122419,11 +122419,11 @@ filólogo
 filólogos
 filólogo
 filólogos
-filol贸gico
-filol贸gico
+filológico
+filológico
 filológicamente
-fil贸logo
-fil贸logos
+filólogo
+filólogos
 filólogo
 filólogos
 filología
@@ -122447,7 +122447,7 @@ filósofo
 filósofos
 filósofos
 filósofos
-filos贸fico
+filosófico
 filosófico
 filosóficamente
 filosofías
@@ -122501,7 +122501,7 @@ flemático
 flemáticamente
 flema
 flema
-flem贸n
+flemón
 flemático
 flegmonoide
 flemonoso
@@ -122568,8 +122568,8 @@ fonoautógrafo
 fonautográficamente
 fonoautógrafos
 teléfono
-llamada telef贸nica
-llamadas telef贸nicas
+llamada telefónica
+llamadas telefónicas
 tarjeta telefónica
 tarjeta TELEFONICA
 llamado
@@ -122652,8 +122652,8 @@ fonolita
 fonolítico
 fonológico
 fonológico
-fon贸logo
-fon贸logos
+fonólogo
+fonólogos
 fonología
 Phonometer
 Phonometers
@@ -122817,7 +122817,7 @@ fotogramas
 fotografía
 fotografiado
 fotógrafo
-fot贸grafos
+fotógrafos
 fotográfico
 fotografico
 fotográficamente
@@ -122847,7 +122847,7 @@ fotomacrografía
 fotomecánico
 fotomecánicamente
 fotómetro
-fot贸metros
+fotómetros
 fotométrico
 fotometría
 fotomicrografía
@@ -122934,7 +122934,7 @@ Phototropy
 fototipo
 fototipificado
 fototipos
-fotocomposici贸n
+fotocomposición
 phototypic
 fototipado
 fototipo
@@ -122995,8 +122995,8 @@ phrenologise
 frenologizado
 phrenologises
 phrenologising
-fren贸logo
-fren贸logos
+frenólogo
+frenólogos
 frenologizar
 frenologizado
 frenologiza
@@ -123110,25 +123110,25 @@ fisiócrata
 fisiocrático
 fisiócratas
 fisonómico
-fison贸mico
+fisonómico
 fisonómicamente
 Fisonomías
 fisonomista
 fisonomistas
 fisonomía
-fisi贸grafo
-fisi贸grafos
+fisiógrafo
+fisiógrafos
 fisiográfico
 fisiográfico
 fisiografía
 fisiolater
 Fisioladores
 fisiolatría
-fisiol贸gico
-fisiol贸gico
+fisiológico
+fisiológico
 fisiológicamente
-fisi贸logo
-fisi贸logos
+fisiólogo
+fisiólogos
 fisiólogo
 Fisiologos
 fisiología
@@ -123554,7 +123554,7 @@ adjudicados
 pignorated
 pignorates
 pignorating
-pignoraci贸n
+pignoración
 pignorations
 pocilga
 pocilgas
@@ -124229,7 +124229,7 @@ pitchman
 pitchmen
 Pino
 espinas
-diapas贸n
+diapasón
 Tintineos
 piedra de afilar
 pitchwoman
@@ -124252,7 +124252,7 @@ pithful
 más pithier
 más piadoso
 pithily
-concisi贸n
+concisión
 descansa
 sin valor
 pithos
@@ -124401,7 +124401,7 @@ plácido
 placidez
 plácidamente
 placidez
-colocaci贸n
+colocación
 colocaciones
 derecho
 convención
@@ -124852,7 +124852,7 @@ jugó
 jugador
 jugadores
 compañero de juego
-compa単eros de juego
+compañeros de juego
 juguetón
 en broma
 alegría
@@ -124869,7 +124869,7 @@ juegos
 playlet
 playlets
 compañero de juego
-compa単eros de juego
+compañeros de juego
 eliminatoria
 corralito
 cuarto de jugar
@@ -124889,7 +124889,7 @@ dramaturgos
 dramaturgia
 plaza
 plazas
-Sociedad An贸nima
+Sociedad Anónima
 petición
 plaga
 pillado
@@ -125090,7 +125090,7 @@ plessor
 plessors
 plétora
 plethoras
-plet贸rico
+pletórico
 pletórico
 pletóricamente
 pletismógrafo
@@ -125193,7 +125193,7 @@ ploating
 ploats
 fruto
 plodded
-empoll贸n
+empollón
 plodders
 laborioso
 ploddingly
@@ -125305,7 +125305,7 @@ tapones
 enchufes
 taponamiento
 complementos
-desag端e
+desagüe
 tapones
 enchufes
 ciruela
@@ -125470,12 +125470,12 @@ Plutarco
 balsas
 pluteus
 pluteuses
-Plut贸n
+Plutón
 plutocracias
 plutocracia
 plutócrata
 plutocrático
-Plut贸cratas
+Plutócratas
 plutolatry
 plutólogo
 plutólogos
@@ -125835,7 +125835,7 @@ polariza
 polarizador
 polaridades
 polaridad
-polarizaci贸n
+polarización
 polarizaciones
 polarizar
 polarizado
@@ -125937,12 +125937,12 @@ politicastro
 politicasters
 político
 políticos
-politizaci贸n
+politización
 politizar
 politizado
 politiza
 politizar
-politizaci贸n
+politización
 politizar
 politizado
 politiza
@@ -125983,7 +125983,7 @@ pollenated
 pollenates
 pollenating
 pollened
-elevaci贸n del polen
+elevación del polen
 pollenosis
 polen
 EN FUERTE
@@ -126000,11 +126000,11 @@ polinizar
 polinizado
 poliniza
 polinizando
-polinizaci贸n
+polinización
 polinizaciones
 polinizador
 polinizadores
-votaci贸n
+votación
 polling
 Pollinia
 pollinico
@@ -126037,7 +126037,7 @@ contaminador
 contaminación
 contaminaciones
 pollutivo
-P贸lux
+Pólux
 Polly
 pollyanna
 pollyannaish
@@ -126073,7 +126073,7 @@ polonia
 polos
 Polperro
 Polonia
-полт
+polt
 polted
 poltergeist
 poltergeists
@@ -126248,7 +126248,7 @@ polimerizado
 polimeriza
 polimerizando
 polimería
-polimerizaci贸n
+polimerización
 polimerizaciones
 polimerizar
 polimerizado
@@ -126258,7 +126258,7 @@ polímero
 polímeros
 polimnia
 organismo polimorfo
-polim贸rfico
+polimórfico
 polimorfismo
 polimorfo
 polimorfos
@@ -126775,7 +126775,7 @@ popularises
 popularizando
 popularidades
 popularidad
-popularizaci贸n
+popularización
 popularizaciones
 popularizar
 popularizado
@@ -126868,8 +126868,8 @@ porlocking
 pornografía
 porno
 pornocracia
-porn贸grafo
-porn贸grafos
+pornógrafo
+pornógrafos
 pornográfico
 pornographically
 pornografía
@@ -127057,7 +127057,7 @@ trombón
 trombones
 pose
 posado
-Poseid贸n
+Poseidón
 poseidonian
 plantear
 posers
@@ -127155,7 +127155,7 @@ postal
 postally
 postamble
 buzón
-buz贸n de correos
+buzón de correos
 postillón
 chicos electrónico
 buzón
@@ -127223,7 +127223,7 @@ postilled
 postiller
 postillers
 postilling
-postill贸n
+postillón
 postillones
 Postils
 destino
@@ -127296,7 +127296,7 @@ postulado
 postulado
 postulados
 postulando
-postulaci贸n
+postulación
 postulational
 postulaciones
 postulador
@@ -127405,7 +127405,7 @@ empujando
 panales
 pothery
 bache
-espele贸logo
+espeleólogo
 potholers
 baches
 espeleología
@@ -128018,7 +128018,7 @@ justo
 preciso
 precisado
 precisamente
-precisi贸n
+precisión
 precisian
 precisianism
 precisianist
@@ -128085,7 +128085,7 @@ preconcepto
 preconizado
 precondiciones
 preconización
-preconizaci贸n
+preconización
 preconizaciones
 encomiar
 preconizado
@@ -128160,7 +128160,7 @@ Pre diseño
 designación previa
 predesignado
 predesignates
-una designaci贸n previa
+una designación previa
 predesignación
 predesignatory
 prediseñado
@@ -128185,7 +128185,7 @@ predestinando
 predestino
 predeterminable
 predeterminado
-predeterminaci贸n
+predeterminación
 predeterminar
 predeterminado
 predeterminados
@@ -128289,7 +128289,7 @@ prefabricado
 prefabricado
 prefabricado
 prefabricado
-prefabricaci贸n
+prefabricación
 prefabricator
 prefabricators
 prefabricados
@@ -128335,7 +128335,7 @@ prefigurada
 prefigurated
 prefigurates
 prefigurating
-prefiguraci贸n
+prefiguración
 prefiguraciones
 prefigurativo
 prefigurar
@@ -128397,7 +128397,7 @@ precursora
 prehistorian
 prehistoriadores
 prehistórico
-prehist贸rico
+prehistórico
 prehistorically
 prehistoria
 prehnita
@@ -128430,7 +128430,7 @@ prejuicios
 prelacies
 prelacía
 prelapsario
-inclinaci贸n
+inclinación
 prelados
 prelateship
 prelateships
@@ -128829,7 +128829,7 @@ tomó
 preselección
 preseleccionado
 preselección
-preselecci贸n
+preselección
 preselecciones
 preselecciones
 presell
@@ -128863,7 +128863,7 @@ presentient
 presentimiento
 presentimental
 presentimientos
-presentaci贸n
+presentación
 presentive
 presentiveness
 ahora
@@ -128885,7 +128885,7 @@ Preservado
 preservador
 preservadores
 conservas
-conservaci贸n
+conservación
 prensas
 programar
 presets
@@ -128948,7 +128948,7 @@ presurizar
 presurizado
 presurizaciones
 presurizar
-presurizaci贸n
+presurización
 presurizar
 presurizado
 presuriza
@@ -129202,7 +129202,7 @@ pinchado
 puntos
 punzones
 Prickett
-punci贸n
+punción
 la inserción de puntos
 picazón
 picados
@@ -129210,7 +129210,7 @@ espinas
 más espinoso
 más prickliest
 espinosidad
-picaz贸n
+picazón
 piquetes
 espinoso
 pinchazos
@@ -129531,7 +129531,7 @@ privatizando
 privado
 privativamente
 privado
-privatizaci贸n
+privatización
 privatizaciones
 privatizar
 privatizado
@@ -129700,11 +129700,11 @@ inclinaciones
 propensión
 proclamar
 Procélula
-proc贸nsul
+procónsul
 proconsular
 proconsulate
 proconsulates
-proc贸nsules
+procónsules
 proconsulship
 proconsulsiones
 aplazar
@@ -129722,7 +129722,7 @@ procrear
 procreado
 procreates
 procreando
-procreaci贸n
+procreación
 procreador
 Procreatividad
 procreatividad
@@ -130112,7 +130112,7 @@ prolations
 prolative
 prole
 proleg
-proleg贸menos
+prolegómenos
 prolegomenary
 prolegomenon
 prolegomenous
@@ -130122,7 +130122,7 @@ prevención
 proleptico
 proleptico
 prolepticamente
-ni単o
+niño
 proletario
 proletarización
 proletarianise
@@ -130130,7 +130130,7 @@ proletarianised
 proletarianises
 proletarianising
 proletarianism
-proletarizaci贸n
+proletarización
 proletarianize
 proletarizado
 proletarianizes
@@ -130176,12 +130176,12 @@ prolocutorship
 prolocutorships
 prolocutrix
 prolocutrixes
-pr贸logo
+prólogo
 él predicó
 prologizado
 Prologises
 prologizar
-escribir pr贸logos
+escribir prólogos
 prologizado
 prologiza
 prologando
@@ -130194,7 +130194,7 @@ prologuise
 prologuised
 prologuises
 prologuising
-escribir pr贸logos
+escribir prólogos
 prologuized
 prologuizes
 prologando
@@ -130295,7 +130295,7 @@ promulgar
 promulgado
 promulga
 promulgador
-promulgaci贸n
+promulgación
 promulgaciones
 promulgator
 promulgators
@@ -130314,7 +130314,7 @@ poner boca abajo
 protonado
 prona
 pronador
-pronaci贸n
+pronación
 pronations
 pronador
 pronators
@@ -130404,7 +130404,7 @@ propagar
 propagado
 propaga
 propagador
-propagaci贸n
+propagación
 propagaciones
 propagativo
 propagador
@@ -130545,7 +130545,7 @@ proponentes
 propone
 proponiendo
 proposición
-de la proposici贸n
+de la proposición
 proposición
 proposición
 propuestas
@@ -130732,7 +130732,7 @@ mijo
 prosodial
 prosodio
 prosodios
-pros贸dico
+prosódico
 prosódico
 prosódicamente
 especialista en prosodia
@@ -130749,7 +130749,7 @@ prosopopeya
 prosopopoeial
 perspectiva
 prospectado
-prospecci贸n
+prospección
 prospección
 encuestas
 futuro
@@ -131000,7 +131000,7 @@ protonemal
 protonemas
 protonemata
 protonematal
-prot贸nico
+protónico
 Protonotaries
 protonotario
 protones
@@ -131031,7 +131031,7 @@ prototipo
 prototipos
 prototípico
 prototípico
-prot贸xido
+protóxido
 protóxidos
 protoxilema
 protoxylems
@@ -131051,7 +131051,7 @@ prolongadamente
 protractible
 protráctil
 prolongando
-prolongaci贸n
+prolongación
 prolongaciones
 protractivo
 transportador
@@ -131590,7 +131590,7 @@ psicolingüista
 psicolingüístico
 psicolingüística
 psicolingüistas
-psicol贸gico
+psicológico
 psicológico
 psicológicamente
 psicologías
@@ -131886,7 +131886,7 @@ puffier
 más humoso
 puffily
 frailecillo
-hinchaz贸n
+hinchazón
 hinchando
 hinchando
 puffings
@@ -131902,8 +131902,8 @@ puggery
 puggier
 puggies
 puggiest
-memorizaci贸n
-memorizaci贸n
+memorización
+memorización
 puggish
 Puggle
 puggled
@@ -131981,7 +131981,7 @@ polilla
 pollas
 polea
 poleas
-tracci贸n
+tracción
 tirones
 pullman
 pullmans
@@ -132005,7 +132005,7 @@ pulmonates
 pulmones
 pulmonar
 pulmonics
-pulm贸n de acero
+pulmón de acero
 pulmotors
 pulpa
 pulpboard
@@ -132068,7 +132068,7 @@ pulsímetros
 pulsando
 pulsojet
 pulsojets
-puls贸metro
+pulsómetro
 pulsómetros
 pultaceous
 pultan
@@ -132096,7 +132096,7 @@ pulverizadores
 pulverises
 pulverizando
 pulverizable
-pulverizaci贸n
+pulverización
 pulverizaciones
 pulverizar
 pulverizado
@@ -132396,7 +132396,7 @@ purgas
 purgado
 purgas
 El conjunto
-purificaci贸n
+purificación
 purificaciones
 purificative
 purificador
@@ -132441,7 +132441,7 @@ purgado
 porrazo
 purlers
 Purley
-пурлицуе
+purlicue
 pourlitzueed
 pourlitzues
 puerlizando
@@ -132714,10 +132714,10 @@ Pycnoconidium
 Pycnoconidiums
 pycnogonida
 pycnogonida
-picnog贸nidos
+picnogónidos
 pycnogonoid
-picn贸metro
-picn贸metros
+picnómetro
+picnómetros
 picnosis
 pycnospore
 picnosporas
@@ -132821,8 +132821,8 @@ pirex
 pirexia
 pirexial
 pirexico
-pirheli贸metro
-pirheli贸metros
+pirheliómetro
+pirheliómetros
 pirheliométrico
 piridina
 piridoxina
@@ -132871,7 +132871,7 @@ pirolaters
 Pirolatría
 pyroligneous
 pirolusita
-pir贸lisis
+pirolisis
 pyrolysed
 pirólisis
 pyrolysing
@@ -132905,7 +132905,7 @@ piroforo
 pyrophorus
 pirofosfato
 pirofosfatos
-pirofosf贸rico
+pirofosfórico
 pirofotografía
 pirofotografías
 pirofotografía
@@ -132961,7 +132961,7 @@ piruvato
 piruvatos
 pirúvico
 Pitágoras
-pitag贸rico
+pitagórico
 pitagorismo
 pythagoreans
 Pitágoras
@@ -133185,7 +133185,7 @@ cuadruplicado
 cuadruplicado
 cuadruplicados
 cuadruplicando
-cuadruplicaci贸n
+cuadruplicación
 cuadruplicidad
 cuadruplicando
 cuádruple
@@ -133314,7 +133314,7 @@ Quantic
 cuantico
 quantics
 cuantificable
-cuantificaci贸n
+cuantificación
 cuantificaciones
 cuantificado
 cuantificar
@@ -133859,7 +133859,7 @@ quinquenniads
 quinquenal
 quinquennially
 quinquennials
-cinco a単os
+cinco años
 quinquereme
 cinco bancos
 quinquevalence
@@ -134003,7 +134003,7 @@ cuestiona
 cuestionar
 cuestionando
 indagación
-burl贸n
+burlón
 interrogantes
 arena
 qumran
@@ -134020,7 +134020,7 @@ quodlibetical
 quodlibets
 quods
 qué
-cu単a
+cuña
 quoined
 quoining
 quoins
@@ -134045,7 +134045,7 @@ quopped
 quitando
 quops
 y
-con qu贸rum
+con quórum
 quorn
 la
 quórums
@@ -134151,7 +134151,7 @@ mapache
 mapaches
 carrera
 hipódromo
-hip贸dromos
+hipódromos
 corrió
 aficionado a las carreras
 Racegoers
@@ -134366,7 +134366,7 @@ radiobiología
 radiocarbono
 radioquímico
 radioquímica
-comunicaci贸n por radio
+comunicación por radio
 radiado
 radiogénico
 radiogoniometer
@@ -134375,8 +134375,8 @@ radiogramophone
 radiogramophones
 radiogramas
 radiografía
-radi贸grafo
-radi贸logos
+radiógrafo
+radiólogos
 radiográfico
 radiografías
 radiografía
@@ -134384,11 +134384,11 @@ radio
 Radiolaria
 radiolario
 radiolarios
-radiolocalizaci贸n
-radiol贸gico
+radiolocalización
 radiológico
-radi贸logo
-radi贸logos
+radiológico
+radiólogo
+radiólogos
 radiología
 radioluminiscencia
 Radiólisis
@@ -134406,7 +134406,7 @@ radionucleidos
 buscapersonas
 radiopagadores
 radiopaco
-radi贸fono
+radiófono
 Radiofonos
 radiofónico
 radiophonics
@@ -134732,7 +134732,7 @@ Rumte
 Ramayana
 rambert
 divagar
-divag贸
+divagó
 excursionista
 excursionistas
 ramblas
@@ -135219,7 +135219,7 @@ meseta
 rathripe
 rathripes
 raths
-ratificaci贸n
+ratificación
 ratificaciones
 ratificado
 ratificar
@@ -135250,7 +135250,7 @@ racionalizaciones
 líneas de corriente
 racionalizado
 racionaliza
-racionalizaci贸n
+racionalización
 racionalismo
 racionalista
 racionalista
@@ -135263,7 +135263,7 @@ racionalizaciones
 racionalizar
 racionalizado
 racionaliza
-racionalizaci贸n
+racionalización
 racionalmente
 racionales
 racionado
@@ -135532,7 +135532,7 @@ reactivar
 reactivado
 reactiva
 reactivando
-reactivaci贸n
+reactivación
 reactivaciones
 reactivo
 reactivamente
@@ -135579,7 +135579,7 @@ reajuste
 reajuste
 reajustes
 reajustes
-readmisi贸n
+readmisión
 readmisiones
 readmitir
 readmits
@@ -135610,7 +135610,7 @@ lectura
 Listo
 preparando
 reafirmar
-reafirmaci贸n
+reafirmación
 reafirmaciones
 reafirmado
 reafirmando
@@ -135639,7 +135639,7 @@ realia
 reordenar
 realineado
 realineación
-reordenaci贸n
+reordenación
 realineamientos
 realineaciones
 Realizabilidad
@@ -135732,12 +135732,12 @@ reaparecido
 reaplicar
 reapparels
 reaparecer
-reaparici贸n
+reaparición
 reapariciones
 reaparecido
 reapareciendo
 reaparece
-reaplicaci贸n
+reaplicación
 reaplicaciones
 reaplicado
 vuelve a aplicar
@@ -136061,7 +136061,7 @@ rebotados
 rebotan
 rebotan
 rec
-obstinaci贸n
+obstinación
 recalcitrante
 recalcitrate
 recalcitrated
@@ -136180,7 +136180,7 @@ reenfoca
 recentred
 los recientes
 recentring
-prescripci贸n
+prescripción
 receptáculo
 receptáculos
 sartenes;
@@ -136360,7 +136360,7 @@ recluso
 reclusely
 recluseness
 reclusos
-reclusi贸n
+reclusión
 reclusiones
 reclusivo
 reclusories
@@ -136569,7 +136569,7 @@ reconsecar
 Reconsagración
 reconciliaciones
 reconsiderar
-reconsideraci贸n
+reconsideración
 reconsiderado
 reconsiderando
 reconsiderar
@@ -136583,7 +136583,7 @@ reconstituir
 reconstituido
 reconstituye
 reconstituyendo
-reconstituci贸n
+reconstitución
 reconstrucciones
 reconstruir
 reconstruido
@@ -136784,7 +136784,7 @@ recto
 ángulo
 recue
 recues
-posici贸n de yacer
+posición de yacer
 posición de yacer
 yacente
 recostado
@@ -136803,15 +136803,15 @@ repetirse
 recured
 recureless
 recures
-peri贸dico
+periódico
 recurrido
-reaparici贸n
+reaparición
 recurrencias
 recurrencies
 recurrencia
 recurrente
 recurrentemente
-peri贸dico
+periódico
 recurso
 recursión
 recursiones
@@ -137161,7 +137161,7 @@ reduplicar
 reduplicado
 reduplicates
 reduplicando
-reduplicaci贸n
+reduplicación
 reduplicaciones
 reduplicativo
 reduviid
@@ -137215,7 +137215,7 @@ carrete
 reelegir
 reelegido
 reelecting
-reelecci贸n
+reelección
 reelects
 tambaleó
 reeler
@@ -137246,12 +137246,12 @@ reesting
 rees
 Regencia
 reevaluar
-reevaluaci贸n
+reevaluación
 juez local
 reeved
 Reeves
 reeving
-reexaminaci贸n
+reexaminación
 reexaminar
 reexaminado
 reexamina
@@ -137324,7 +137324,7 @@ rellenado
 rellenado
 recambios
 refinanciar
-refinanciaci贸n
+refinanciación
 refinar
 refinado
 refinado
@@ -137494,7 +137494,7 @@ refractómetros
 refractor
 refractarios
 refractariamente
-obstinaci贸n
+obstinación
 refractores
 refractario
 refracta
@@ -137537,7 +137537,7 @@ refrigerar
 refrigerado
 refrigera
 refrigerando
-refrigeraci贸n
+refrigeración
 refrigeraciones
 refrigerative
 refrigerador
@@ -137608,7 +137608,7 @@ refutable
 refutable
 refutal
 refutals
-refutaci贸n
+refutación
 refutaciones
 refutar
 refutado
@@ -137887,7 +137887,7 @@ rehabilitar
 rehabilitado
 rehabilita
 rehabilitando
-rehabilitaci贸n
+rehabilitación
 rehabilitaciones
 rehabilitación
 rehabilitador
@@ -138058,7 +138058,7 @@ reinicializado
 reinicia
 reiniciando
 sin riendas
-ri単ones
+riñones
 reinsertar
 reinsertado
 reinsertar
@@ -138141,7 +138141,7 @@ reinventa
 reinvertir
 reinvertido
 reinvirtiendo
-reinversi贸n
+reinversión
 reinversiones
 reinvierte
 revitalizar
@@ -138176,7 +138176,7 @@ reiterado
 reiteradamente
 reitera
 reiterando
-reiteraci贸n
+reiteración
 reiteraciones
 reiterativo
 reiteratives
@@ -138323,10 +138323,10 @@ relanzamiento
 relajarse
 relajante
 relajante
-relajaci贸n
+relajación
 relajación
 relajaciones
-relajaci贸n
+relajación
 relajado
 relajarse
 se relaja
@@ -138677,7 +138677,7 @@ remitir
 puntos de consulta
 remesas
 remite
-remisi贸n
+remisión
 remesas
 remesa
 remesas
@@ -138959,7 +138959,7 @@ Rentrix
 alquileres
 volver a numerar
 renumerado
-renumeraci贸n
+renumeración
 renumeración
 ninguna remuneración
 renumeración
@@ -139011,7 +139011,7 @@ reorganizar
 reorganizado
 reorganiza
 reorganizando
-reorganizaci贸n
+reorganización
 reorganizaciones
 reorganizar
 reorganizado
@@ -139056,7 +139056,7 @@ reparadores
 reparando
 reparador
 reparadores
-refacci贸n
+refacción
 repand
 repaper
 reparado
@@ -139066,7 +139066,7 @@ reparabilidad
 que se puede reparar
 reparably
 reparación
-indemnizaci贸n
+indemnización
 reparador
 reparatorio
 réplicas agudas
@@ -139090,7 +139090,7 @@ repatriar
 repatriado
 repatriados
 repatriar
-repatriaci贸n
+repatriación
 repatriaciones
 pagar
 reembolsable
@@ -139230,14 +139230,14 @@ rellenador
 reponedores
 repone
 reposición
-reposici贸n
+reposición
 reposiciones
 repleto
 repleted
 repleteness
 repletes
 repleting
-repleci贸n
+repleción
 repleciones
 repleviable
 replevied
@@ -139348,7 +139348,7 @@ reprender
 reprende
 reprensible
 censurablemente
-reprensi贸n
+reprensión
 reprensiones
 con reprobación
 reprehensively
@@ -139415,7 +139415,7 @@ reimpresiones
 represalia
 represalias
 reanudación
-repiti贸
+repitió
 ocasiones
 reprising
 reprivatización
@@ -139449,7 +139449,7 @@ reprobado
 reprobater
 réprobos
 reprobating
-reprobaci贸n
+reprobación
 reprobaciones
 reprobative
 reprobator
@@ -139836,7 +139836,7 @@ reasentamiento
 remodelar
 reformado
 remodelar
-reorganizaci贸n
+reorganización
 reenvío
 reenvío
 reenvíos
@@ -139884,7 +139884,7 @@ Renunciar
 resignación
 renuncias
 resignado
-con resignaci贸n
+con resignación
 resignación
 renunciar
 resigners
@@ -139975,7 +139975,7 @@ resoling
 resoluble
 resuelto
 resueltamente
-resoluci贸n
+resolución
 resolución
 resoluciones
 resolutores
@@ -140319,7 +140319,7 @@ resucitar
 resucitado
 resucita
 resucitar
-resucitaci贸n
+resucitación
 resucitaciones
 resucitación
 resucitador
@@ -140410,7 +140410,7 @@ retencionistas
 retenciones
 retentivo
 retentivamente
-poder de retenci贸n
+poder de retención
 retentivos
 remanencia
 retes
@@ -140542,7 +140542,7 @@ retraces
 retrazando
 retraer
 retractable
-retractaci贸n
+retractación
 retraído
 retractes
 aspirante
@@ -140635,7 +140635,7 @@ retro
 retroactivo
 retroactivado
 retroactivo
-retroacci贸n
+retroacción
 retroactivo
 retroactivamente
 retroactividad
@@ -140677,7 +140677,7 @@ retroceso
 retrocediendo
 retroceso
 retrocesos
-retr贸grado
+retrógrado
 retrocediendo
 retroject
 retrojected
@@ -140709,7 +140709,7 @@ retrospectivamente
 retrospectivas
 retrospectivos
 enrolla
-retroversi贸n
+retroversión
 retrovertido
 retrovertido
 retrovertiendo
@@ -140755,7 +140755,7 @@ reescrito
 retratos
 volver a escribir
 reuben
-reunificaci贸n
+reunificación
 reunificaciones
 reunificado
 reunifies
@@ -140926,7 +140926,7 @@ reverer
 reverendo
 reverencia
 ensueño
-ensue単os
+ensueños
 reverificado
 reverifica
 volver a verificar
@@ -141017,7 +141017,7 @@ revindicate
 reivindicado
 reivindica
 reivindicando
-de reivindicaci贸n
+de reivindicación
 revindications
 revisable
 revisal
@@ -141076,7 +141076,7 @@ revivers
 revive
 revitalización
 reviviente
-revivificaci贸n
+revivificación
 revivificado
 revivifies
 revivificar
@@ -141245,7 +141245,7 @@ rhaphis
 rhapontico
 Rhapsode
 Rhapsodes
-raps贸dico
+rapsódico
 rapsódico
 rapsódicamente
 rapsodias
@@ -141299,7 +141299,7 @@ rhesuses
 retórica
 retórica
 retórico
-ret贸ricamente
+retóricamente
 retórico
 retóricos
 retórica
@@ -141345,7 +141345,7 @@ rhinencephalons
 Rhineodon
 rhines
 diamante de imitación
-diamantes de imitaci贸n
+diamantes de imitación
 rinitis
 rinoceronte
 rinoceronte
@@ -141458,7 +141458,7 @@ rombo
 romboencefalo
 Rhombenporphyr
 rombo
-r贸mbico
+rómbico
 romboedro
 romboédrico
 romboedro
@@ -141594,7 +141594,7 @@ costillas
 ribble
 ribblesdale
 cinta
-ce単ido
+ceñido
 ensartar
 Ribismo
 ribbonry
@@ -141725,7 +141725,7 @@ rebotando
 rebotes
 rebotado
 rebotando
-reques贸n
+requesón
 rictal
 rictus
 rictus
@@ -141852,7 +141852,7 @@ rigel
 aparejo
 riggald
 riggalds
-ama単ado
+amañado
 plataformas
 aparejadores
 aparejo
@@ -141937,7 +141937,7 @@ mesas de arroz
 mesa de arroz
 mesas de arroz
 parlamento
-Riksm책l
+riksmal
 países
 irritado
 carril
@@ -142287,7 +142287,7 @@ riviera
 rivieras
 río
 Riviera
-demolici贸n
+demolición
 rivo
 canales
 riachuelo
@@ -142467,7 +142467,7 @@ Rockhopper
 rockhoppers
 Rockier
 rockiers
-Monta単as Rocosas
+Montañas Rocosas
 más rocoso
 rocosamente
 lo rocoso
@@ -142586,7 +142586,7 @@ cohetes
 Rocking
 Hexágono
 rocoso
-a単os
+años
 roland
 papel
 juego de rol
@@ -143151,7 +143151,7 @@ podrido
 rottingdean
 rottweiler
 rottweilers
-r贸tula
+rótula
 rotulas
 ronda
 rotunda
@@ -144205,7 +144205,7 @@ sacáric
 sacárido
 sacáridos
 sacárido
-sacarificaci贸n
+sacarificación
 sacarificado
 sacarificaciones
 sacarificar
@@ -144564,7 +144564,7 @@ Marinero
 marineros
 planeador
 planeadores
-pa単o
+paño
 saily
 Tema
 saimirí
@@ -144738,7 +144738,7 @@ notablemente
 salientes
 salífero
 salificable
-salificaci贸n
+salificación
 salificaciones
 salificado
 salifica
@@ -144769,7 +144769,7 @@ salivar
 salivado
 salivates
 salivando
-salivaci贸n
+salivación
 Salix
 salk
 sala
@@ -144946,11 +144946,11 @@ salvability
 salvable
 salvador
 salvadoreño
-salvadore単os
+salvadoreños
 salvadoreño
 salvadoreans
-salvadore単o
-salvadore単os
+salvadoreño
+salvadoreños
 salvar
 rescatable
 rescatado
@@ -145099,7 +145099,7 @@ sancerre
 sancho
 sanchos
 santificable
-santificaci贸n
+santificación
 santificaciones
 santificado
 santificado
@@ -145516,10 +145516,10 @@ sarcomatoso
 sarcómero
 Sarcophaga
 sarcófago
-sarc贸fagos
+sarcófagos
 sarcófago
 sarcófago
-sarc贸fagos
+sarcófagos
 sarcophagy
 sarcoplasma
 sarcoplásmico
@@ -145996,7 +145996,7 @@ sierras
 diente de sierra
 aserrador
 aserradores
-sax贸fono
+saxófono
 saxatile
 saxaul
 saxauls
@@ -146085,7 +146085,7 @@ escabrosamente
 escabrosidad
 costras
 disminuir
-mont贸n
+montón
 scafell
 scaff
 scaffie
@@ -146241,7 +146241,7 @@ escaneable
 escaneado
 escáner
 escáneres
-exploraci贸n
+exploración
 tomografía
 escaneos
 escansión
@@ -146362,7 +146362,7 @@ escarlata
 capistratoides
 más aterrador
 más aterrador
-escarificaci贸n
+escarificación
 escarificaciones
 escarificador
 escarificadores
@@ -146423,7 +146423,7 @@ sin miedo
 scathes
 mordaz
 mordazmente
-escatol贸gico
+escatológico
 escatología
 escamoso
 escatofagia
@@ -146830,7 +146830,7 @@ educado
 Escolares
 escolaridad
 compañero
-compa単eros de escuela
+compañeros de escuela
 Chica de escuela
 colegiala
 colegialas
@@ -146918,7 +146918,7 @@ sci
 Sciaena
 Sciaenidae
 Sciaenidae
-sciænoid
+sciaenoide
 sciamachies
 SCIAMACHY
 sciarid
@@ -147225,11 +147225,11 @@ tanteo
 tanteo
 Scorious
 desdén
-desde単ado
+desdeñado
 burlador
 burladores
 desdeñoso
-desde単osamente
+desdeñosamente
 desdén
 desprecio
 scornings
@@ -147241,7 +147241,7 @@ scorpaenidae
 scorpaenoid
 Scorper
 Scorpers
-Escorpi贸n
+Escorpión
 Escorpioide
 escorpión
 escorpiónico
@@ -147744,7 +147744,7 @@ depurador
 depuradores
 scrubbier
 scrubbiest
-depuraci贸n
+depuración
 cubierto de maleza
 matorral
 matorrales
@@ -147805,14 +147805,14 @@ escrutador
 escrutadores
 escrutinios
 escudriñar
-escudri単ado
+escudriñado
 escrutador
 escrutadores
 escudriña
 recuento
 escrutadora
 escudriñar
-escudri単ado
+escudriñado
 escrutador
 escrutadores
 escudriña
@@ -147862,7 +147862,7 @@ scuffler
 buceadores
 pelea
 forcejeo
-rasgu単os
+rasguños
 scuffy
 scuft
 scufts
@@ -148054,7 +148054,7 @@ la copa
 Scytale
 scytales
 guadaña
-guada単a
+guadaña
 Scytheman
 guadales
 scyther
@@ -148154,7 +148154,7 @@ sesión
 sesiones
 marinado
 segando
-sesi贸n
+sesión
 hidroavión
 hidroaviones
 puerto marítimo
@@ -148414,7 +148414,7 @@ secular
 secularistas
 secularidades
 secularidad
-secularizaci贸n
+secularización
 secularizaciones
 secularizar
 secularizado
@@ -148491,7 +148491,7 @@ asiento
 los asientos
 sedimento
 sedimentario
-sedimentaci贸n
+sedimentación
 sedimentado
 sedimentando
 sedimentológico
@@ -148519,7 +148519,7 @@ seducción
 seducciones
 seductor
 seductoramente
-seducci贸n
+seducción
 seductora
 seductoras
 sedulity
@@ -148625,7 +148625,7 @@ segmentario
 segmentariamente
 segmentaria
 segmentado
-segmentaci贸n
+segmentación
 segmentaciones
 segmentario
 segmentando
@@ -148671,14 +148671,14 @@ señorial
 señorío
 señoríos
 señores
-se単or feudal
+señor feudal
 señorío
 señorío
 seignioralties
 seignioralty
 señorial
 señoríos
-se単ores
+señores
 señorío
 Seigniorships
 señorío
@@ -148690,7 +148690,7 @@ señorío
 el camino
 cable
 seiled
-navegaci贸n
+navegación
 cuerda es
 su
 agarrado
@@ -148725,7 +148725,7 @@ seismográfico
 sismógrafos
 sismografía
 sismológico
-sismol贸gico
+sismológico
 sismólogo
 sismólogos
 sismología
@@ -148810,7 +148810,7 @@ selenita
 selenio
 Selenodont
 selenografo
-selen贸grafo
+selenógrafo
 Selenografos
 selenográfico
 selenográfico
@@ -148899,7 +148899,7 @@ semantron
 semáforo
 semáforo
 semáforos
-metaf贸ricamente
+metafóricamente
 semaforizando
 semarang
 semasiológico
@@ -148922,7 +148922,7 @@ semeed
 siembras
 semiología
 semeion
-semi贸tico
+semiótico
 semiótica
 semele
 sememe
@@ -149009,10 +149009,10 @@ seminaciones
 seminífero
 seminola
 semiológico
-semi贸logo
-semi贸logos
+semiólogo
+semiólogos
 semiología
-semi贸tico
+semiótico
 semiótico
 semiótica
 Semi-serio
@@ -149091,7 +149091,7 @@ Español
 semuncial
 semuncias
 su
-a単o
+año
 guiones
 seis
 unequilateral
@@ -149209,7 +149209,7 @@ sentidos
 sensualismo
 sensualismo
 sensitivos
-sensibilizaci贸n
+sensibilización
 sensibilizar
 sensibilizado
 sensibilizador
@@ -149222,7 +149222,7 @@ sensibilidad
 sensorio
 sensibilidades
 sensibilidad
-sensibilizaci贸n
+sensibilización
 sensibilizar
 sensibilizado
 sensibilizador
@@ -149321,7 +149321,7 @@ sepalody
 sepaloide
 separado
 sépalos
-posibilidad de separaci贸n
+posibilidad de separación
 separable
 separabilidad
 separablemente
@@ -150067,7 +150067,7 @@ sexfoil
 sexfoils
 más sexy
 más sexy
-atracci贸n sexual
+atracción sexual
 sexado
 sexismo
 sexista
@@ -150077,8 +150077,8 @@ asexuado
 asexualidad
 sexocular
 sexológico
-sex贸logo
-sex贸logos
+sexólogo
+sexólogos
 sexología
 sexpartita
 sexpert
@@ -150238,7 +150238,7 @@ shaggedness
 Shaggier
 más descuidado
 Shaggily
-aspecto desgre単ado
+aspecto desgreñado
 follar
 lanudo
 melena peluda
@@ -150339,16 +150339,16 @@ vergüenza
 avergonzado
 shameface
 avergonzado
-con verg端enza
-verg端enza
+con vergüenza
+vergüenza
 vergüenza
 vergüenza
 vergonzoso
 vergonzosamente
-verg端enza
+vergüenza
 desvergonzado
 descaradamente
-desverg端enza
+desvergüenza
 shamer
 vergüenzas
 vergüenza
@@ -150619,7 +150619,7 @@ gavillas
 Sheba
 tinglado
 shebangs
-Shebaṭ
+shebat
 ella estuvo
 Shebeened
 Shebeener
@@ -151018,7 +151018,7 @@ bordo del barco
 a bordo
 constructor de buques
 constructores navales
-construcci贸n naval
+construcción naval
 construcciones navales
 Shipful
 Shipfuls
@@ -151490,7 +151490,7 @@ showgrounds
 más vistoso
 más vistoso
 vistosamente
-ostentaci贸n
+ostentación
 demostración
 proyecciones
 showjumper
@@ -151504,7 +151504,7 @@ obras de arte
 sitio de interés turístico
 showplaces
 sala de exposición
-salas de exposici贸n
+salas de exposición
 muestra
 llamativo
 Varias aguas calientes
@@ -151588,7 +151588,7 @@ contracción
 contracciones
 shrinker
 shrinkers
-contracci贸n
+contracción
 encogiéndose
 encoge
 Envoltura retráctil
@@ -152015,7 +152015,7 @@ vidente
 avistamiento
 sighter
 sighters
-observaci贸n
+observación
 avistamientos
 ciego
 ciegamente
@@ -152112,7 +152112,7 @@ signifiable
 significado
 Significados
 significancies
-significaci贸n
+significación
 significativo
 significativamente
 significantes
@@ -152150,7 +152150,7 @@ signorino
 signors
 signo
 señalizar
-se単alizado
+señalizado
 señalización
 Postes indicadores
 señales
@@ -152453,7 +152453,7 @@ simplemente
 simplicidades
 simplicidad
 sencillez
-simplificaci贸n
+simplificación
 simplificaciones
 simplificativo
 simplificador
@@ -152491,7 +152491,7 @@ simular
 simulado
 simula
 simulando
-simulaci贸n
+simulación
 simulaciones
 simulativo
 simulador
@@ -152686,8 +152686,8 @@ la mente
 pecando
 pecando
 sinological
-sin贸logo
-sin贸logos
+sinólogo
+sinólogos
 sinologue
 sinología
 sinope
@@ -153053,7 +153053,7 @@ madejas
 skelder
 skeldered
 anillo Skelde
-la divisi贸n de
+la división de
 esquelético
 esqueleto
 esqueleto
@@ -153722,7 +153722,7 @@ durmiente
 traviesas
 más soñoliento
 más soñoliento
-so単olientamente
+soñolientamente
 somnolencia
 dormido
 Sueños
@@ -154182,7 +154182,7 @@ durmiendo
 somnolencia
 Slumberland
 slumberless
-so単oliento
+soñoliento
 inactivamente
 dormirse
 lánguido
@@ -154272,7 +154272,7 @@ minifundio
 minifundios
 smalling
 más bien pequeño
-peque単ez
+pequeñez
 viruela
 pequeños
 pequeño tiempo
@@ -154388,7 +154388,7 @@ horno de fundición
 fundiciones
 fundiciones
 taller de fundición
-fundici贸n
+fundición
 fundiciones
 pez esperinque
 crema
@@ -154700,7 +154700,7 @@ Sunkish
 serpentino
 chasquido
 snapback
-boca de drag贸n
+boca de dragón
 snapdragons
 snaphance
 roto
@@ -154855,7 +154855,7 @@ risa disimulada
 soltó una risita
 riéndose
 snickers
-pu単al
+puñal
 snicket
 Snicket
 riéndose
@@ -155018,7 +155018,7 @@ fisgón
 fisgones
 snooperscope
 snooperscopios
-fisg贸n
+fisgón
 fisgones
 snoopy
 snoot
@@ -155192,7 +155192,7 @@ acurrucado
 snuggles
 acurrucarse
 cómodamente
-c贸modamente
+cómodamente
 ceñida
 snugs
 snuzzle
@@ -155271,7 +155271,7 @@ sobriamente
 sobriedad
 sobers
 persona muy seria
-cuesti贸n
+cuestión
 valores
 soboliferous
 Sobranje
@@ -155306,7 +155306,7 @@ socialistas
 mundano
 socialité
 socialidad
-socializaci贸n
+socialización
 socializar
 socializado
 socializa
@@ -155342,13 +155342,13 @@ sociolingüística
 sociolingüistas
 sociologese
 sociológico
-sociol贸gico
+sociológico
 sociológicamente
 sociologism
 sociologisms
-soci贸logo
+sociólogo
 sociologista
-soci贸logos
+sociólogos
 sociología
 sociométrico
 sociometría
@@ -155492,7 +155492,7 @@ manchado
 Soiler
 ensuciamiento
 suciedad
-hidrop贸nico
+hidropónico
 suelos
 soilure
 sollozo
@@ -155629,7 +155629,7 @@ solemnises
 solemnising
 solemnidades
 solemnidad
-solemnizaci贸n
+solemnización
 solemnizations
 solemnizar
 solemnized
@@ -155671,7 +155671,7 @@ justo
 solicitar
 solicitante
 solicitants
-solicitaci贸n
+solicitación
 solicitaciones
 solicitado
 abordamiento
@@ -155700,9 +155700,9 @@ solidates
 solidando
 sólido
 más sólida
-s贸lido
+sólido
 solidificable
-solidificaci贸n
+solidificación
 solidificaciones
 solidificado
 solidifica
@@ -155714,10 +155714,10 @@ solista
 solidistas
 solidez
 solidez
-s贸lidamente
+sólidamente
 solidez
 sólidos
-s贸lido
+sólido
 solidums
 solidungulate
 sólido
@@ -156026,7 +156026,7 @@ cancioneros
 songcraft
 songfest
 cantos de canciones
-mel贸dico
+melódico
 con cancion
 cancion
 sin canciones
@@ -156135,7 +156135,7 @@ soothsaid
 soothsay
 adivino
 adivinos
-adivinaci贸n
+adivinación
 adivinaciones
 soothsays
 sootier
@@ -156378,7 +156378,7 @@ sortileger
 sortilegers
 sortilegios
 sortilegy
-clasificaci贸n
+clasificación
 clasificaciones
 sortition
 sortitions
@@ -156460,13 +156460,13 @@ sondeos
 silencioso
 silenciosamente
 sin sonido
-s贸lidamente
+sólidamente
 sonidista
 sonido
 solvencia
 insonorizar
 insonorizado
-insonorizaci贸n
+insonorización
 insonorizadas
 sonidos
 souness
@@ -156553,7 +156553,7 @@ al sur
 más meridional
 del Sur
 sureño
-sure単os
+sureños
 southernise
 meridificado
 southernises
@@ -156582,7 +156582,7 @@ más al sur
 zurdo
 zurdos
 Southport
-sure単o
+sureño
 Southrons
 sur
 hacia el sur
@@ -156756,7 +156756,7 @@ spahee
 spahees
 El soldado
 spahis
-Espa単a
+España
 espaciado
 spaining
 españa
@@ -157065,7 +157065,7 @@ spearworts
 Speary
 especulación
 especial
-especializaci贸n
+especialización
 especializaciones
 especializado
 especializado
@@ -157080,7 +157080,7 @@ especialista
 especialistas
 especialidades
 especialidad
-especializaci贸n
+especialización
 especializaciones
 especializarse
 especializado
@@ -157288,7 +157288,7 @@ spekbooms
 speke
 cavernario
 espeleológico
-espele贸logo
+espeleólogo
 espeleólogos
 espeleología
 pin
@@ -157308,8 +157308,8 @@ speldrins
 spelds
 hechizo
 espeleológico
-espele贸logo
-espele贸logos
+espeleólogo
+espeleólogos
 espeleología
 juego
 spel
@@ -157340,8 +157340,8 @@ hechizos
 deletreado
 zinc técnico
 deletreado Horne
-espele贸logo
-espele贸logos
+espeleólogo
+espeleólogos
 espeleología
 Spence
 spencer
@@ -157800,8 +157800,8 @@ en espiral
 en espiral
 en espiral
 espirales
-la respiración;
-спирантс
+la respiración
+espirales
 tapón
 tapones
 Bradyde
@@ -158121,7 +158121,7 @@ spoliating
 expoliación
 spoliations
 spoliative
-aler贸n
+alerón
 spoliatoribus
 expoliadoras
 spondaic
@@ -158272,7 +158272,7 @@ esporogénesis
 sporogonia
 sporogonium
 sporogoniums
-carp贸foro
+carpóforo
 esporóforos
 sporophoric
 sporophorous
@@ -158325,14 +158325,14 @@ Escritor de deportes
 periodistas deportivos
 sportswriting
 deportivo
-esporulaci贸n
+esporulación
 esporular
 esporulado
 esporulados
 esporulando
 esporulación
 esporulaciones
-esporulaci贸n
+esporulación
 espdrulas
 sposh
 con la ayuda de
@@ -158836,14 +158836,14 @@ chirridos
 chirriador
 chillido
 chilló
-sopl贸n
+soplón
 squealers
 chillido
 chillidos
 chillidos
 delicado
 aprensivamente
-aprensi贸n
+aprensión
 enjugador de goma
 escurrido
 squeegeeing
@@ -159001,7 +159001,7 @@ ssw
 S t
 puñalada
 era
-apu単alado
+apuñalado
 stabber
 apuñaladores
 puñalada
@@ -159021,7 +159021,7 @@ estabiliza
 estabilizador
 estabilidades
 estabilidad
-estabilizaci贸n
+estabilización
 estabilizaciones
 estabilizador
 estabilizador
@@ -159483,7 +159483,7 @@ almidón
 almidón
 amiláceo
 estrellato
-condici贸n
+condición
 miró
 Starer
 starers
@@ -159700,7 +159700,7 @@ estaurolítico
 Stauroscope
 stauroscopic
 Stavanger
-condici贸n
+condición
 staved
 espelta
 Stavesacre
@@ -159951,7 +159951,7 @@ Capricornio
 steinbocks
 steined
 Steiner
-lapidaci贸n
+lapidación
 fundición de piedra
 Kirk piedra
 steinkirks
@@ -160148,10 +160148,10 @@ estereocromo
 estereocromía
 estereograma
 estereogramas
-estere贸grafo
+estereógrafo
 estereográfica
 estereográfico
-estere贸grafos
+estereógrafos
 estereografía
 estereoisómero
 estereoisomérico
@@ -160216,8 +160216,8 @@ esterilizadores
 esterilizaciones
 esterilizante
 esterilidad
-esterilizaci贸n
-esterilizaci贸n
+esterilización
+esterilización
 esterilizaciones
 esterilizar
 esterilizado
@@ -160425,7 +160425,7 @@ estigmatico
 estigmaticamente
 estigmaticos
 estigmatizado
-estigmatizaci贸n
+estigmatización
 estigmatizaciones
 bien en un estigma
 estigmatizado
@@ -160477,7 +160477,7 @@ stillicide
 stillicides
 Lier estilo
 stilliest
-posici贸n
+posición
 mensajes
 Stillion
 leones estilo
@@ -161206,7 +161206,7 @@ varado
 varamientos
 hebras
 extraño
-extra単amente
+extrañamente
 extrañeza
 desconocido
 extraños
@@ -161273,7 +161273,7 @@ straths
 Strathspey
 strathspeys
 straticulate
-estratificaci贸n
+estratificación
 estratificativo
 estratificaciones
 estratificado
@@ -161460,7 +161460,7 @@ camillas
 estira
 estiramiento
 más estirado
-extensi贸n
+extensión
 elástico
 stretford
 mantener
@@ -162224,7 +162224,7 @@ subcampos
 subbed
 Subbing
 subbings
-subdelegaci贸n
+subdelegación
 ramas secundarias
 subbred
 subbreed
@@ -162269,7 +162269,7 @@ subclavicular
 subclimax
 subclínico
 subcomando
-subcomisi贸n
+subcomisión
 subcomisionario
 subcomisiones
 subcomisión
@@ -162546,7 +162546,7 @@ subyugar
 subyugado
 subyugado
 subyugar
-subyugaci贸n
+subyugación
 subyugaciones
 subyugador
 subjugadores
@@ -162590,7 +162590,7 @@ sublimado
 sublimado
 sublima
 sublimándose
-sublimaci贸n
+sublimación
 sublimaciones
 sublime
 sublimado
@@ -162648,7 +162648,7 @@ sumergir
 sumergido
 sumergimiento
 sumergimientos
-sumersi贸n
+sumersión
 submergencias
 sumerge
 sumergibilidad
@@ -162834,7 +162834,7 @@ subserie
 favorecer
 subvencionado
 subseries
-subordinaci贸n
+subordinación
 subordinación
 subordinado
 servilmente
@@ -163079,7 +163079,7 @@ subtonics
 pancismo
 subtópico
 subtópias
-subtr贸pico
+subtrópico
 total parcial
 subtotalizado
 subtotalling
@@ -163229,9 +163229,9 @@ succinato
 succinatos
 sucinto
 succincter
-concisi贸n
+concisión
 sucintamente
-concisi贸n
+concisión
 succintores
 succinctorio
 succinctoriums
@@ -163307,7 +163307,7 @@ succión
 retoños
 sucket
 suckhole
-succi贸n
+succión
 succiones
 amamantar
 amamantado
@@ -163344,8 +163344,8 @@ soldadas
 sudated
 sudates
 sudating
-transpiraci贸n
-transpiraci贸n
+transpiración
+transpiración
 sudatories
 sudatorio
 sudatoriums
@@ -163814,7 +163814,7 @@ bañado por el sol
 sunbather
 bañistas
 tomar el sol
-ba単os del sol
+baños del sol
 rayo de sol
 sunbeamed
 rayos de sol
@@ -164127,7 +164127,7 @@ supergigantes
 superglacial
 Super pegamento
 superglues
-supersopl贸n
+supersoplón
 supergrasos
 supergravedad
 supergrupo
@@ -164290,7 +164290,7 @@ superpone
 superpuesto
 superpone
 superponiendo
-superposici贸n
+superposición
 superpotencia
 superpoderes
 superpraise
@@ -164490,7 +164490,7 @@ súplica
 súplicas
 suplicatorio
 supplicats
-petici贸n
+petición
 supplicavits
 suministrado
 proveedor
@@ -164849,7 +164849,7 @@ encuestado
 agrimensura
 encuestas
 topógrafo
-top贸grafos
+topógrafos
 surveyorship
 surveyorships
 encuestas
@@ -165061,7 +165061,7 @@ envuelto
 pañal
 pañales
 pañales
-pa単ales
+pañales
 swaddy
 swadeshi
 swadeshism
@@ -165076,7 +165076,7 @@ pavonearse
 arrogante
 swaggerer
 fanfarrones
-fanfarr贸n
+fanfarrón
 arrogantemente
 fanfarrones
 fanfarrones
@@ -165314,7 +165314,7 @@ endulzar
 endulzado
 edulcorante
 edulcorantes
-edulcoraci贸n
+edulcoración
 edulcorantes
 endulza
 más dulce
@@ -165652,7 +165652,7 @@ sicómoro
 sycomores
 syconium
 syconiums
-adulaci贸n
+adulación
 sicofante
 servil
 servil
@@ -165786,7 +165786,7 @@ simbiótico
 simbióticamente
 símbolo
 simbólico
-simb贸lico
+simbólico
 simbólicamente
 simbolismo
 simbólico
@@ -165804,7 +165804,7 @@ simbolista
 simbolista
 simbolista
 simbolistas
-simbolizaci贸n
+simbolización
 simbolizaciones
 simbolizar
 simbolizado
@@ -166010,7 +166010,7 @@ sincronismo
 sincrónico
 sincronizado
 sincrónicamente
-sincronizaci贸n
+sincronización
 sincronizaciones
 sincronizar
 sincronizado
@@ -166094,7 +166094,7 @@ sindicato
 sindicado
 sindicatos
 sindicación
-sindicaci贸n
+sindicación
 sindicaciones
 sindicador
 consorcios
@@ -166195,7 +166195,7 @@ socios
 synoicous
 sinónimo
 sinónimo
-sin贸nimo
+sinónimo
 sinónimo
 sinonimia
 sinonimas
@@ -166215,7 +166215,7 @@ sinonimia
 sinónimo
 sinónimo
 sinónimo
-sin贸nimos
+sinónimos
 sinonimia
 sinopsis
 sinopsis
@@ -166228,7 +166228,7 @@ sinopsis
 sinopsis
 sinopsis
 sinóptico
-sin贸ptico
+sinóptico
 sinópticamente
 sinóptico
 sinóptico
@@ -166795,7 +166795,7 @@ siguiendo
 relaves
 tamaño
 tamaños
-rab贸n
+rabón
 sastre
 sastres
 cintura
@@ -166878,7 +166878,7 @@ takin
 tomando
 Takely
 Takingness
-recaudaci贸n
+recaudación
 takins
 también
 hablar
@@ -167391,7 +167391,7 @@ taphonomist
 taphonomists
 tafonomía
 tafrogénesis
-grabaci贸n
+grabación
 tapioca
 Español
 tapir
@@ -167521,7 +167521,7 @@ tarnation
 deslustre
 perdibilidad
 tarnishable
-empa単ado
+empañado
 estafador
 empañadores
 empaña
@@ -168013,7 +168013,7 @@ maestria
 Maestros
 enseña
 enseñando
-ense単anzas
+enseñanzas
 sin enseñanza
 taza para té
 teacupful
@@ -168162,8 +168162,8 @@ tecnografía
 tecnológico
 tecnológicamente
 tecnologías
-tecn贸logo
-tecn贸logos
+tecnólogo
+tecnólogos
 tecnología
 tecnófilo
 expertos en tecnología
@@ -168414,7 +168414,7 @@ telemetría
 telencefálico
 telencéfalo
 teleológico
-teleol贸gico
+teleológico
 teleológicamente
 teleologismo
 teleólogo
@@ -168462,7 +168462,7 @@ telefoneado
 cucú
 telefonistas
 teléfonos
-telef贸nico
+telefónico
 telefonicamente
 telefonear
 telefonista
@@ -168957,7 +168957,7 @@ tiempo
 tenso
 sin tenso
 tensamente
-tensi贸n
+tensión
 tenso
 tiempos verbales
 tensado
@@ -169196,7 +169196,7 @@ condiciones
 terminism
 terminist
 terministas
-terminol贸gico
+terminológico
 terminológicamente
 terminología
 terminología
@@ -169417,7 +169417,7 @@ testamus
 prueba
 probado
 testamentario
-Fusi贸n de prueba
+Fusión de prueba
 testador
 testador
 testatrices
@@ -169447,7 +169447,7 @@ testificaciones
 testificador
 testificantes
 testificatorio
-testific贸
+testificó
 testificador
 testificadores
 testifica
@@ -169632,7 +169632,7 @@ tetrasilábico
 tetrasílabo
 tetrasílabos
 tetratheism
-tetratl贸n
+tetratlón
 tetrathlons
 tetratómico
 tetravalente
@@ -169656,8 +169656,8 @@ Teuchter
 Teuchters
 Teucrian
 Escuché
-teut贸n
-teut贸nico
+teutón
+teutónico
 teutónicamente
 teutonicismo
 teutonización
@@ -171380,8 +171380,8 @@ tilter
 tilters
 tilth
 labrado
-inclinaci贸n
-inclinaci贸n
+inclinación
+inclinación
 el puente
 tim
 Timorau
@@ -171546,7 +171546,7 @@ tinhorns
 más pequeño
 el más pequeño
 pequeñez
-descongelaci贸n
+descongelación
 pensar
 tintineado
 gitano
@@ -171603,7 +171603,7 @@ tintable
 tintack
 manchas
 tintagel
-te単ido
+teñido
 tintero
 Tintern
 tinteros
@@ -171793,7 +171793,7 @@ excitado
 excita
 excitante
 excitantemente
-excitaci贸n
+excitación
 excitaciones
 titilativo
 Titillator
@@ -172003,7 +172003,7 @@ toed
 Toeing
 toeless
 uña del dedo del pie
-u単as de los pies
+uñas de los pies
 recorrido
 toerags
 dedos de los pies
@@ -172021,7 +172021,7 @@ tofore
 Toft
 tofts
 tofu
-tom贸
+tomó
 eso
 togaed
 togas
@@ -172063,7 +172063,7 @@ baño
 inodoro
 artículos de aseo
 artículos de tocador
-ba単os
+baños
 inodoro
 WC
 laborioso
@@ -172078,7 +172078,7 @@ Toing
 vara de medir
 diente
 Toity
-tom贸
+tomó
 tokamak
 tokamaks
 tokay
@@ -172236,7 +172236,7 @@ tommy
 Tommying
 tomograma
 tomogramas
-tom贸grafo
+tomógrafo
 tomografía
 tomografías
 tomografía
@@ -173284,7 +173284,7 @@ marca
 marcas registradas
 nombre comercial
 nombres comerciales
-compensaci贸n
+compensación
 comerciante
 comerciantes
 vientos alisios
@@ -173797,7 +173797,7 @@ transmigrar
 transmigrado
 transmigrates
 transmigrando
-transmigraci贸n
+transmigración
 transmigracionismo
 transmigración
 transmigraciones
@@ -173909,7 +173909,7 @@ red de transportes
 transporte
 transposibilidad
 transponible
-transposici贸n
+transposición
 transposiciones
 transponer
 transpuesto
@@ -174638,7 +174638,7 @@ más complicado
 más difícil
 difícilmente
 trucos
-enga単ando
+engañando
 trucos
 truco
 engañosamente
@@ -174718,7 +174718,7 @@ intentó
 Trienia
 trienal
 trienal
-tres a単os
+tres años
 trienios
 Clasificar
 trierarca
@@ -174849,7 +174849,7 @@ trilitos
 trino
 trino
 vibración
-vibraci贸n
+vibración
 trillón
 trillones
 billonésima
@@ -175008,7 +175008,7 @@ triplicado
 triplicado
 triplicados
 triplicando
-triplicaci贸n
+triplicación
 triplicaciones
 triplicidades
 triplicidad
@@ -175169,7 +175169,7 @@ tritio
 tritio
 tritoma
 tritón
-trit贸n
+tritón
 tritones
 tritonia
 tritonias
@@ -175181,7 +175181,7 @@ triturar
 triturado
 triturates
 triturando
-trituraci贸n
+trituración
 trituraciones
 triturator
 triturators
@@ -175989,7 +175989,7 @@ Tuilyie
 casa
 tuismo
 matrícula
-de instrucci贸n
+de instrucción
 tuitionary
 tuk
 tuks
@@ -176525,7 +176525,7 @@ tuxedos
 tuxes
 tobera
 toberas
-televisi贸n
+televisión
 dos
 bobadas
 twaddled
@@ -176669,7 +176669,7 @@ twigging
 Twiggy
 twigloo
 twigloos
-le単a menuda
+leña menuda
 ramera
 crepúsculo
 crepuscular
@@ -176753,7 +176753,7 @@ tornado
 tornados
 twistier
 twistiest
-retortij贸n
+retortijón
 torsiones
 twistor
 twistors
@@ -176894,7 +176894,7 @@ Mecanografiados
 compilado
 tipos de letra
 tipógrafo
-tip贸grafos
+tipógrafos
 tipografía
 escribir a máquina
 máquina de escribir
@@ -176939,8 +176939,8 @@ mecanógrafo
 mecanógrafos
 error de tipografía
 tipografía
-tip贸grafo
-tip贸grafos
+tipógrafo
+tipógrafos
 impreso
 tipográfico
 tipográfico
@@ -177059,8 +177059,8 @@ udderless
 ubres
 Udine
 udo
-ud贸metro
-ud贸metros
+udómetro
+udómetros
 udometric
 udos
 uds
@@ -177575,7 +177575,7 @@ desagradecido
 no aprehendido
 inaprensible
 poco aprehensivo
-aprensi贸n
+aprensión
 no tomado en cuenta
 inaccesibilidad
 inaccesible
@@ -178762,7 +178762,7 @@ undecanted
 undecayed
 insuperable
 sacar de engaño
-desenga単ado
+desengañado
 undeceives
 desengaño
 undeceivingly
@@ -178911,7 +178911,7 @@ sotobosques
 underbrushing
 por debajo del presupuesto
 underbudgeted
-subpresupuestaci贸n
+subpresupuestación
 underbudgets
 sótano
 durante el constructor
@@ -179018,7 +179018,7 @@ subempleo
 subestimar
 subestimado
 subestima
-desestimaci贸n
+desestimación
 subestimación
 subexponer
 subexpuesto
@@ -179149,8 +179149,8 @@ undernoting
 desnutrición
 desnutrido
 desnutrido
-desnutrici贸n
-desnutrici贸n
+desnutrición
+desnutrición
 tiempo de inactividad
 poco pagado
 debajo de la pintura
@@ -179186,7 +179186,7 @@ underpraise
 underpraised
 underpraises
 subdesarrollo
-Bajo preparaci贸n
+Bajo preparación
 poco preparado
 bajo precio
 underpriced
@@ -179644,7 +179644,7 @@ indeleblemente
 ondulado
 ondulante
 ondulante
-ondulaci贸n
+ondulación
 ondulante
 onduladores
 ondulaciones
@@ -180883,7 +180883,7 @@ unionisations
 sindicalizar
 sindicalizada
 unionises
-sindicalizaci贸n
+sindicalización
 unionismo
 unionista
 unionistas
@@ -181089,7 +181089,7 @@ incognoscible
 experto
 desconocido
 desconocido
-inc贸gnitas
+incógnitas
 sin nudos
 sin etiqueta
 sin etiquetar
@@ -184028,7 +184028,7 @@ indispuesto
 poco dispuesto
 involuntario
 reacio
-a rega単adientes
+a regañadientes
 renuencia
 involuntarios
 relajarse
@@ -184728,7 +184728,7 @@ urbano
 urbanita
 urbanitas
 urbanidad
-urbanizaci贸n
+urbanización
 urbanizar
 urbanizado
 urbanizes
@@ -184798,7 +184798,7 @@ uretroscópico
 uretroscopia
 uretico
 urge
-inst贸
+instó
 emergencia
 emergencias
 urgencias
@@ -184882,12 +184882,12 @@ urolítico
 urolitos
 urológico
 urológico
-ur贸logo
-ur贸logos
+urólogo
+urólogos
 urología
 dulzura
 uromeres
-ur贸podo
+urópodo
 urópodo
 mitigación
 uropygial
@@ -185079,7 +185079,7 @@ utilitarios
 utilidades
 utilidad
 utilizable
-utilizaci贸n
+utilización
 utilizaciones
 utilizar
 utilizado
@@ -185225,7 +185225,7 @@ vacilante
 vacila
 vacilante
 vacilante
-vacilaci贸n
+vacilación
 vacilaciones
 vacilante
 bofetada
@@ -185379,7 +185379,7 @@ valeriana
 valerie
 valery
 vales
-elecci贸n
+elección
 mentira
 mentido a
 poner
@@ -185407,7 +185407,7 @@ validar
 validado
 valida
 validando
-validaci贸n
+validación
 validaciones
 validez
 válidamente
@@ -185444,7 +185444,7 @@ valores
 valorizado
 valorizaciones
 valorizando
-valorizaci贸n
+valorización
 valorizaciones
 Español
 valorizado
@@ -185637,7 +185637,7 @@ vaporiza
 vaporizando
 capacidad de evaporación
 vaporizable
-vaporizaci贸n
+vaporización
 vaporizar
 vaporizado
 vaporizador
@@ -186235,14 +186235,14 @@ venereally
 venerean
 venereológica
 venereólogo
-venere贸logos
+venereólogos
 venereología
 venereous
 venerer
 venerers
 viernes
 Venus
-venesecci贸n
+venesección
 venesections
 Venecia
 veneciano
@@ -186651,7 +186651,7 @@ Verona
 veronal
 Veronese
 veronica
-ver贸nicas
+verónicas
 veronique
 verrel
 verrels
@@ -187335,7 +187335,7 @@ vindicar
 vindicado
 vindica
 vindicando
-vindicaci贸n
+vindicación
 reivindicaciones
 vindicativae
 vindicativeness
@@ -187376,8 +187376,8 @@ vinicultores
 vinier
 viniest
 elaboración del vino
-vinificaci贸n
-en贸logo
+vinificación
+enólogo
 vinificators
 vining
 vinland
@@ -187721,7 +187721,7 @@ visualist
 visualistas
 visualities
 visualidad
-visualizaci贸n
+visualización
 visualizaciones
 visualizar
 visualizado
@@ -187749,7 +187749,7 @@ vitalistically
 vitalistas
 vitalities
 vitalidad
-vitalizaci贸n
+vitalización
 vitalizar
 vitalizado
 vitalizador
@@ -187791,7 +187791,7 @@ viciar
 viciado
 vicia
 viciando
-corrupci贸n
+corrupción
 vindicaciones
 viticultor
 vitiadores
@@ -188032,7 +188032,7 @@ vocalisms
 vocalista
 vocalistas
 vocalidad
-vocalizaci贸n
+vocalización
 vocalizar
 vocalizado
 vocalizador
@@ -188164,7 +188164,7 @@ volatilidades
 volatilidad
 volatilizabilidad
 volatilizable
-volatilizaci贸n
+volatilización
 volatilizar
 volatilizado
 volatiliza
@@ -188332,7 +188332,7 @@ involuntaria
 volutado
 volutas
 Volutin
-evoluci贸n
+evolución
 revoluciones
 volutoid
 volver
@@ -188391,7 +188391,7 @@ vórtice
 vórticamente
 Vorticella
 vorticellae
-v贸rtices
+vórtices
 vorticismo
 vorticista
 vorticistas
@@ -188415,7 +188415,7 @@ voteless
 votante
 votantes
 votos
-votaci贸n
+votación
 votivo
 voto
 su
@@ -188521,14 +188521,14 @@ vulcanist
 vulcanistas
 vulcanita
 vulcanizable
-vulcanizaci贸n
+vulcanización
 vulcanizaciones
 vulcanizar
 vulcanizado
 vulcaniza
 vulcanizar
 vulcanológico
-vulcan贸logo
+vulcanólogo
 vulcanólogos
 vulcanología
 vulcans
@@ -188546,7 +188546,7 @@ vulgarismo
 vulgarismos
 vulgaridades
 vulgaridad
-vulgarizaci贸n
+vulgarización
 vulgarizations
 vulgarizar
 vulgarizado
@@ -189287,7 +189287,7 @@ justificable
 garantizado
 garantía
 garantías
-贸rdenes
+órdenes
 warranters
 garantías
 garantizando
@@ -189387,7 +189387,7 @@ fracaso
 washrag
 washrags
 baño
-ba単os
+baños
 tina de lavar
 aguado
 era m
@@ -189629,7 +189629,7 @@ Wavier
 más pesado
 wavily
 ondulación
-ondulaci贸n
+ondulación
 ondulaciones
 ondulado
 waw
@@ -189651,7 +189651,7 @@ Wahir
 más cera
 adios
 cera
-depilaci贸n
+depilación
 enceramientos
 planta de cera
 waxwing
@@ -189718,7 +189718,7 @@ debilitar
 debilitado
 debilitador
 debilitadores
-debilitaci贸n
+debilitación
 debilita
 más débil
 más débil
@@ -189865,7 +189865,7 @@ wedelned
 wedelning
 tejeduría
 cuña
-acu単ado
+acuñado
 porciones
 wedgewise
 wedgie
@@ -191040,7 +191040,7 @@ usuarios
 más manejable
 más hábil
 manejabilidad
-empu単ando
+empuñando
 empuña
 manejable
 Viena
@@ -191104,8 +191104,8 @@ gato montés
 gatos monteses
 wildcatter
 querido
-単u
-単us
+ñu
+ñus
 wilder
 abandonado
 desbordante
@@ -191133,7 +191133,7 @@ salvajes
 ardid
 destruido
 astuto
-enga単os
+engaños
 wilf
 wilfred
 wilfrid
@@ -191698,7 +191698,7 @@ wivern
 wiverns
 esposas
 wiving
-fen贸meno
+fenómeno
 mago
 wizardly
 hechicería
@@ -191915,7 +191915,7 @@ artesanía en madera
 xilografía
 xilografías
 leñador
-le単adores
+leñadores
 enselvado
 de madera
 cabeza de madera
@@ -192462,7 +192462,7 @@ arrugas
 más arrugado
 arrugar
 arrugado
-mu単eca
+muñeca
 pulsera
 pulseras
 retorcido
@@ -192470,7 +192470,7 @@ más wristier
 más wristiest
 pulsera
 muñequeras
-mu単ecas
+muñecas
 reloj de pulsera
 relojes de pulsera
 wristy
@@ -192670,7 +192670,7 @@ xenolitos
 xenomania
 xenomórfico
 xenón
-Jen贸fanes
+Jenófanes
 xenófilo
 xenófilos
 xenófobo
@@ -192935,7 +192935,7 @@ yamulkas
 eso
 yangs
 Yangtze
-tir贸n
+tirón
 tirado
 yankee
 Gringolandia
@@ -193037,7 +193037,7 @@ Ah U disco
 yaupon
 yaupones
 guiñada
-gui単ada
+guiñada
 guiñada
 yola
 Genera
@@ -193121,7 +193121,7 @@ yeggmen
 yeld
 yeldrock
 yeldrocks
-navegaci贸n
+navegación
 yelks
 yell
 gritado
@@ -193273,7 +193273,7 @@ yikkering
 yill
 yills
 Porque
-Yin 恻
+yince
 El beneficio es
 yins
 yip
@@ -193466,7 +193466,7 @@ juventud
 juvenil
 juventud
 juventud
-j贸venes
+jóvenes
 juvenil
 juvenil
 yow
@@ -193768,7 +193768,7 @@ Zeiss
 Zeist
 zeitgeist
 pasatiempo
-relaci贸n
+relación
 Zake
 celo
 Zelanian
@@ -193978,7 +193978,7 @@ zinky
 zinnia
 zinnias
 zinziberaceous
-Si贸n
+Sión
 sionismo
 sionista
 sionistas
@@ -194174,8 +194174,8 @@ zoolitos
 zoolítico
 zoológico
 zoológicamente
-zo贸logo
-zo贸logos
+zoólogo
+zoólogos
 zoología
 enfocar
 zoomagnetista

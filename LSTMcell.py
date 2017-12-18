@@ -56,5 +56,3 @@ class LSTM:
 		self.cell_state -= self.learning_rate/np.sqrt(self.cell_state_gradients + 1e-8) * cell_update
 		self.output_gate -= self.learning_rate/np.sqrt(self.output_gradients + 1e-8) * output_update
 		return
-
-
