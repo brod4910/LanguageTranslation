@@ -14,3 +14,9 @@ class ActivationFns:
     # derivative for computing gradients
     def derivative_tanh(self, input):
         return 1 - (self.tanh(input) * self.tanh(input))
+
+    def leaky_ReLu(self, input):
+        np.maximum(input, 0.01*input, input)
+
+    def derivate_LReLu(self, input):
+        np.maximum(input, .01, input)

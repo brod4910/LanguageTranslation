@@ -1,42 +1,54 @@
-import six
+"""
+Parses a file and translates that file in a language of the users choice using the google translation
+API. Writes the contents to the destination file given.
+This file is used on the command line.
+
+More methods may be added for extracting training data if needed.
+
+This file is strictly for getting the required training data for our LSTM/RNN neural network
+
+Brian Rodriguez
+"""
+
+import argparse
 from google.cloud import translate
 
+def translate_text_from_file(file, target_lang, dest_file):
+    num_lines = 0
+    to_be_translated = []
 
-    
+    for line in open(file).readlines() : num_lines += 1
 
+    open_file = open(file, 'r')
 
-def translate_text_with_model(target, text, model=translate.NMT):
-    """Translates text into the target language.
+    translator_client = translate.Client()
 
-    Make sure your project is whitelisted.
+    translated_file = open(dest_file, 'w')
 
-    Target must be an ISO 639-1 language code.
-    See https://g.co/cloud/translate/v2/translate-reference#supported_languages
-    """
-    translatedfile = "./data/spanish.txt"
+    for i in range(num_lines + 1):
+        nextLine = open_file.readline()
+        translated_text = translator_client.translate(nextLine,
+            target_language=target_lang, model=translate.NMT)
+        translated_file.write(nextLine + ":")
+        translated_file.write(translated_text['translatedText'] + '\n')
+        translated_file.write("----------\n")
 
-    translated_content = open(translatedfile, "w")
-
-    translate_client = translate.Client()
-
-    if isinstance(text, six.binary_type):
-        text = text.decode('utf-8')
-
-    # Text can also be a sequence of strings, in which case this method
-    # will return a sequence of results for each text.
-    result = translate_client.translate(
-        text, target_language=target, model=model)
-
-    print(u'Text: {}'.format(result['input']))
-    print(u'Translation: {}'.format(result['translatedText']))
-    print(u'Detected source language: {}'.format(
-        result['detectedSourceLanguage']))
-
-    translated_content.write(result['translatedText'])
-
+    open_file.close()
+    translated_file.close()
 
 if __name__ == '__main__':
-    filename = "./data/english.txt"
+    parser = argparse.ArgumentParser(description='Translate text from file.')
 
-    file_content = open(filename, "r")
-    translate_text_with_model('es', file_content, translate.NMT)
+    subparsers = parser.add_subparsers(dest='command')
+
+    translate_text_from_file_parser = subparsers.add_parser('translate_text_from_file', 
+        help='Enter in a file you would like to add to translate')
+    translate_text_from_file_parser.add_argument('file')
+    translate_text_from_file_parser.add_argument('target_lang')
+    translate_text_from_file_parser.add_argument('dest_file')
+
+    args = parser.parse_args()
+
+    if args.command == 'translate_text_from_file':
+        translate_text_from_file(args.file, args.target_lang, args.dest_file)
+
