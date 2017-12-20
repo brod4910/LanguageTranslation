@@ -27,4 +27,7 @@ Mainly for raw neural network practice.
 Will be using pickle to save weights of both networks after training.
 Will not be using numpy...(just kidding).
 Using Ethereum block chain (IPFS). (Not a framework but might as well add that in)
-Decided to use the Google Translate API for training purposes. Could not find reliable sources of dictionaries and translations. Will need to start pinging the server against the data that I currently have in English. 20001 words per request
+Decided to use the Google Translate API for training purposes. Could not find reliable sources of dictionaries and translations.
+
+# Asides
+Cleaned the data I retrived from using Google's translate api. 

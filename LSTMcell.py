@@ -19,4 +19,4 @@ class LSTM:
 		self.cell_state_gradients = np.zeros_like(self.cell_state)
 		self.output_gradients = np.zeros_like(self.output_gate)
 
-	
+		
