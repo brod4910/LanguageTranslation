@@ -30,4 +30,4 @@ Using Ethereum block chain (IPFS). (Not a framework but might as well add that i
 Decided to use the Google Translate API for training purposes. Could not find reliable sources of dictionaries and translations.
 
 # Asides
-Cleaned the data I retrived from using Google's translate api. 
+Cleaned the data I retrived from using Google's translate api.
