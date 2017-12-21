@@ -36,13 +36,13 @@ Cleaned the data I retrived from using Google's translate api.
 (12/21)
 Some noteable things during my research, have been that the RNN portion of our network is only concerned about the inputs to a cell, the hidden state output and the cell state output.
 
-Whereas an LSTM cell is concerned about 
-input: input, previous cell state input, previous hidden state input.
-intermediate: forget gate = sigmoid(W_f * [h_t-1, x_t] + b_f), 
-			  input gate layer = sigmoid(W_i * [h_t-1, x_t] + b_i),
-			  C̃_t = tanh(W_c * [h_t-1, x_t] + b_c),
-			  C_t = (forget gate * C_t-1) + (input gate layer * C̃_t),
-			  output = sigmoid(W_o[h_t-1, x+t] + b_o),
+Whereas an LSTM cell is concerned about  \n
+input: input, previous cell state input, previous hidden state input. \n
+intermediate: forget gate = sigmoid(W_f * [h_t-1, x_t] + b_f),\n
+			  input gate layer = sigmoid(W_i * [h_t-1, x_t] + b_i),\n
+			  C̃_t = tanh(W_c * [h_t-1, x_t] + b_c),\n
+			  C_t = (forget gate * C_t-1) + (input gate layer * C̃_t),\n
+			  output = sigmoid(W_o[h_t-1, x+t] + b_o),\n
 			  hidden state = output * tanh(C_t)
 
 
