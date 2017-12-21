@@ -30,4 +30,19 @@ Using Ethereum block chain (IPFS). (Not a framework but might as well add that i
 Decided to use the Google Translate API for training purposes. Could not find reliable sources of dictionaries and translations.
 
 # Asides
+(12/20)
 Cleaned the data I retrived from using Google's translate api.
+
+(12/21)
+Some noteable things during my research, have been that the RNN portion of our network is only concerned about the inputs to a cell, the hidden state output and the cell state output.
+
+Whereas an LSTM cell is concerned about 
+input: input, previous cell state input, previous hidden state input.
+intermediate: forget gate = sigmoid(W_f * [h_t-1, x_t] + b_f), 
+			  input gate layer = sigmoid(W_i * [h_t-1, x_t] + b_i),
+			  C̃_t = tanh(W_c * [h_t-1, x_t] + b_c),
+			  C_t = (forget gate * C_t-1) + (input gate layer * C̃_t),
+			  output = sigmoid(W_o[h_t-1, x+t] + b_o),
+			  hidden state = output * tanh(C_t)
+
+
