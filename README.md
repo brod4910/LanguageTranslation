@@ -38,11 +38,17 @@ Some noteable things during my research, have been that the RNN portion of our n
 
 Whereas an LSTM cell is concerned about <br />
 input: input, previous cell state input, previous hidden state input. <br />
-intermediate: forget gate = **sigmoid(W_f * [h_t-1, x_t] + b_f)**, <br />
+intermediate: <br />
+			  forget gate = **sigmoid(W_f * [h_t-1, x_t] + b_f)**, <br />
 			  input gate layer = **sigmoid(W_i * [h_t-1, x_t] + b_i)**, <br />
 			  C̃_t = **tanh(W_c * [h_t-1, x_t] + b_c)**, <br />
 			  C_t = **(forget gate * C_t-1) + (input gate layer * C̃_t)**, <br />
 			  output = **sigmoid(W_o[h_t-1, x+t] + b_o)**, <br />
 			  hidden state = **output * tanh(C_t)**
+
+Input to the neural net will be the length of the longest word in the dictionary. All other words not of this length
+will be padded with zeros.
+
+Dimensions of the LSTM matricies may not be correct.
 
 
