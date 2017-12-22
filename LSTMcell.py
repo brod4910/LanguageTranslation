@@ -27,3 +27,22 @@ class LSTM:
 		self.hidden_state = np.zeros((batch_size, hidden_size))
 
 	def forwardpass(input_values, prev_hidden_state, prev_cell_state):
+		self.forget_gate = af.sigmoid((np.dot(self.Weight_hidden_forget, prev_hidden_state) + 
+			np.dot(self.Weight_input_forget, input_values)))
+
+		self.input_gate = af.sigmoid((np.dot(self.Weight_hidden_igate, prev_hidden_state) + 
+			np.dot(self.Weight_input_igate, input_values)))
+
+		C_prime = af.tanh((np.dot(self.Weight_hidden_cell, prev_hidden_state) + 
+			np.dot(self.Weight_input_cell, input_values)))
+
+		self.output_gate = af.sigmoid((np.dot(self.Weight_hidden_output, prev_hidden_state) + 
+			np.dot(self.Weight_input_output, input_values)))
+
+		self.cell_state = (np.dot(self.forget_gate, prev_cell_state) + np.dot(self.input_gate, C_prime))
+
+		self.hidden_state = np.dot(self.output_gate, af.tanh(self.cell_state))
+
+		return self.hidden_state, self.cell_state
+
+
