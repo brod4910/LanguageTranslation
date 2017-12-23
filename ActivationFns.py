@@ -1,22 +1,23 @@
-class ActivationFns:
-    # nonlinearity sigmoid function
-    def sigmoid(self, input):
-        return 1 / (1 + np.exp(-input))
+import numpy as np
 
-    # used to compute the gradients in backprop
-    def derivative_sigmoid(self, input):
-        return self.sigmoid(input)*(1 - self.sigmoid(input))
+# nonlinearity sigmoid function
+def sigmoid(input):
+    return 1 / (1 + np.exp(-input))
 
-    # tanh activation function, used in the LSTM cells
-    def tanh(self, input):
-        return (np.exp(input) - np.exp(-input)) / (np.exp(input) + np.exp(-input))
+# used to compute the gradients in backprop
+def derivative_sigmoid( input):
+    return sigmoid(input)*(1 - sigmoid(input))
 
-    # derivative for computing gradients
-    def derivative_tanh(self, input):
-        return 1 - (self.tanh(input) * self.tanh(input))
+# tanh activation function, used in the LSTM cells
+def tanh(input):
+    return (np.exp(input) - np.exp(-input)) / (np.exp(input) + np.exp(-input))
 
-    def leaky_ReLu(self, input):
-        np.maximum(input, 0.01*input, input)
+# derivative for computing gradients
+def derivative_tanh(input):
+    return 1 - (tanh(input) * tanh(input))
 
-    def derivate_LReLu(self, input):
-        np.maximum(input, .01, input)
+def leaky_ReLu(input):
+    np.maximum(input, 0.01*input, input)
+
+def derivate_LReLu(input):
+    np.maximum(input, .01, input)

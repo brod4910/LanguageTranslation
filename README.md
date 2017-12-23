@@ -43,7 +43,7 @@ intermediate: <br />
 			  input gate layer = **sigmoid(W_i * [h_t-1, x_t] + b_i)**, <br />
 			  C̃_t = **tanh(W_c * [h_t-1, x_t] + b_c)**, <br />
 			  C_t = **(forget gate * C_t-1) + (input gate layer * C̃_t)**, <br />
-			  output = **sigmoid(W_o[h_t-1, x+t] + b_o)**, <br />
+			  output = **sigmoid(W_o[h_t-1, x_t] + b_o)**, <br />
 			  hidden state = **output * tanh(C_t)**
 
 Input to the neural net will be the length of the longest word in the dictionary. All other words not of this length
