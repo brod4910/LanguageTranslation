@@ -46,10 +46,13 @@ class LSTM:
 
 		# Cell state calculation (forget gate * C_t-1) + (input gate layer * C̃_t)
 		self.cell_state = (np.dot(self.forget_gate, prev_cell_state) + np.dot(self.input_gate, C_prime))
-		
+
 		# Hidden state calculation output * tanh(C_t)
 		self.hidden_state = np.dot(self.output_gate, af.tanh(self.cell_state))
 
+		# use hidden_state to get the unnormalized prob.
 		return self.hidden_state, self.cell_state
+
+	def backpropagation():
 
 
