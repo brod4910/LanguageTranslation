@@ -51,4 +51,17 @@ will be padded with zeros.
 
 Dimensions of the LSTM matricies may not be correct.
 
+(12/24)
+Still unsure about the dimensions of the LSTM matricies.
+Currently am figuring out if the LSTM cell should handle its own calculations for the loss function or if the RNN class should handle that. I think the LSTM cell should only handle what it requires. The RNN should do the heavy lifting since the LSTM is just a neuron in theory.
+
+Just realized that I was thinking in word length and not sentence length. This now changes the whole perspective I thought I was going for. Minor refactoring needs to be done.
+
+(12/26)
+After further analysis, I will be using pre-trained word2vec models for my training data and target data. Since the idea behind this model will be used for sentence translation.
+
+An optimization that has come to my attention is that we can concatenate h_t-1 and x_t, thus negating the previous implementation I had. This way instead of instantiating Weight vectors for gates that connect to h_t-1 and x_t it will be <br />k x (h_t-1 + x_t), where k are the gate dimensions and (h_t-1 + x_t) are input and hidden state dimensions respectively.
+
+Another realization is that some of the gates more notably the hidden and cell state gates use the hadamard product. Instead of using the dot product we want to do an entry-wise product when computing the result
+
 

@@ -1,1 +1,3 @@
 *.json
+freebase-vectors-skipgram1000.bin.gz
+SBW-vectors-300-min5.bin
