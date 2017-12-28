@@ -4,9 +4,8 @@ import ActivationFns as af
 class LSTM:
 
 	# where input size is the size of the longest word in the dictionary.
-	def __init__(self, input_size, hidden_size, expected_output_size, learning_rate):
+	def __init__(self, input_size, hidden_size, learning_rate):
 		self.input_size = input_size
-		self.expected_output_size = expected_output_size
 		self.hidden_size = hidden_size
 		self.learning_rate = learning_rate
 		# Concatenated input and hidden dimensions
@@ -17,10 +16,13 @@ class LSTM:
 		self.Weight_ogate = np.random.random((hidden_size, input_hidden_dims))
 		self.Weight_cell = np.random.random((hidden_size, input_hidden_dims))
 		# gate matricies.
-		self.forget_gate = np.zeros((input_size, hidden_size))
-		self.input_gate = np.zeros((input_size, hidden_size))
-		self.cell_state = np.zeros((input_size, hidden_size))
-		self.output_gate = np.zeros((input_size, hidden_size))
+		self.forget_gate = np.zeros((hidden_size, input_size))
+		self.input_gate = np.zeros((hidden_size, input_size))
+		self.cell_state = np.zeros((hidden_size, input_size))
+		self.output_gate = np.zeros((hidden_size, input_size))
+		# hidden state and cell state intializations.
+		self.hidden_state = np.zeros((hidden_size, input_size))
+		self.cell_state = np.zeros((hidden_size, input_size))
 
 	# Forward pass for the LSTM cell.
 	def forwardpass(input_values, prev_hidden_state, prev_cell_state):
