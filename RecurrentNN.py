@@ -18,7 +18,7 @@ class RecurrentNeuralNetwork(object):
 
         self.Weight_input_hidden = np.random.random((input_size, hidden_size))
         self.Weight_hidden_hidden = np.random.random((hidden_size, hidden_size))
-        self.Weight_hidden_output = np.random((expected_output_size, hidden_size))
+        self.Weight_hidden_output = np.random.random((expected_output_size, hidden_size))
         
         self.hidden_state = np.random.random((input_size, hidden_size))
         self.cell_state = np.random.random((input_size, hidden_size))

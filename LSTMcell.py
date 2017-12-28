@@ -21,7 +21,6 @@ class LSTM:
 		self.input_gate = np.zeros((input_size, hidden_size))
 		self.cell_state = np.zeros((input_size, hidden_size))
 		self.output_gate = np.zeros((input_size, hidden_size))
-		self.hidden_state = np.zeros((hidden_size, input_size))
 
 	# Forward pass for the LSTM cell.
 	def forwardpass(input_values, prev_hidden_state, prev_cell_state):

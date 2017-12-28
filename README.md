@@ -65,3 +65,6 @@ An optimization that has come to my attention is that we can concatenate h_t-1 a
 Another realization is that some of the gates more notably the hidden and cell state gates use the hadamard product. Instead of using the dot product we want to do an entry-wise product when computing the result
 
 
+(12/27) After further analysis I have come to the conclusion that the LSTM cell should know nothing about the input until it does the forward pass. The only time it will know anything about the input is when we intialize the LSTM cell. This way there is no confusion about the dimensions.
+
+After further testing I have realized what each dimension of each matrix in the LSTM cell should be. Example code is in the test.py located in tests/.
