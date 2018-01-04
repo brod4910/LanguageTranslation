@@ -30,10 +30,10 @@ Using Ethereum block chain (IPFS). (Not a framework but might as well add that i
 Decided to use the Google Translate API for training purposes. Could not find reliable sources of dictionaries and translations.
 
 # Asides
-(12/20)
+(12/20/2017)
 Cleaned the data I retrived from using Google's translate api.
 
-(12/21)
+(12/21/2017)
 Some noteable things during my research, have been that the RNN portion of our network is only concerned about the inputs to a cell, the hidden state output and the cell state output.
 
 Whereas an LSTM cell is concerned about <br />
@@ -51,13 +51,13 @@ will be padded with zeros.
 
 Dimensions of the LSTM matricies may not be correct.
 
-(12/24)
+(12/24/2017)
 Still unsure about the dimensions of the LSTM matricies.
 Currently am figuring out if the LSTM cell should handle its own calculations for the loss function or if the RNN class should handle that. I think the LSTM cell should only handle what it requires. The RNN should do the heavy lifting since the LSTM is just a neuron in theory.
 
 Just realized that I was thinking in word length and not sentence length. This now changes the whole perspective I thought I was going for. Minor refactoring needs to be done.
 
-(12/26)
+(12/26/2017)
 After further analysis, I will be using pre-trained word2vec models for my training data and target data. Since the idea behind this model will be used for sentence translation.
 
 An optimization that has come to my attention is that we can concatenate h_t-1 and x_t, thus negating the previous implementation I had. This way instead of instantiating Weight vectors for gates that connect to h_t-1 and x_t it will be <br />k x (h_t-1 + x_t), where k are the gate dimensions and (h_t-1 + x_t) are input and hidden state dimensions respectively.
@@ -65,6 +65,16 @@ An optimization that has come to my attention is that we can concatenate h_t-1 a
 Another realization is that some of the gates more notably the hidden and cell state gates use the hadamard product. Instead of using the dot product we want to do an entry-wise product when computing the result
 
 
-(12/27) After further analysis I have come to the conclusion that the LSTM cell should know nothing about the input until it does the forward pass. The only time it will know anything about the input is when we intialize the LSTM cell. This way there is no confusion about the dimensions.
+(12/27/2017) 
+After further analysis I have come to the conclusion that the LSTM cell should know nothing about the input until it does the forward pass. The only time it will know anything about the input is when we intialize the LSTM cell. This way there is no confusion about the dimensions.
 
-After further testing I have realized what each dimension of each matrix in the LSTM cell should be. Example code is in the test.py located in tests/.
+After further testing I have realized what each dimension of each matrix in the LSTM cell should be. Example code is in the test.py located in tests.
+
+
+(1/3/2018)
+Need to derive the gradients by hand or I will not understand the implementation in code.
+
+I am suspicious of my code, since I am currently not storing the hidden states of the previous time steps.
+Meaning that I cannot compute the gradients of the hidden states at the previous time steps.
+
+I also need to store the outputs of the model, so that I can compute the respective gradients.

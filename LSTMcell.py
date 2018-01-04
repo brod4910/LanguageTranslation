@@ -4,7 +4,7 @@ import ActivationFns as af
 class LSTM:
 
 	# where input size is the size of the longest word in the dictionary.
-	def __init__(self, input_size, hidden_size, learning_rate):
+	def __init__(self, input_size, hidden_size, learning_rate, recurrence):
 		self.input_size = input_size
 		self.hidden_size = hidden_size
 		self.learning_rate = learning_rate

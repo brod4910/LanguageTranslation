@@ -23,4 +23,4 @@ def deriv_cross_entropy(output, labels):
 # to prevent NaN overflowing in our computations
 def softmax(input):
     input -= np.max(input)
-    return np.exp(input) / np.sum(np.exp(input))	 
+    return np.exp(input) / np.sum(np.exp(input))
