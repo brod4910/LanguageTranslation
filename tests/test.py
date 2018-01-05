@@ -6,6 +6,7 @@ parentdir = os.path.dirname(currentdir)
 sys.path.insert(0,parentdir) 
 
 import ActivationFns as af
+import CostFns as cf
 
 # # sanity check for activation functions
 # Weight_input_forget = np.random.random((10, 5))
@@ -19,10 +20,12 @@ import ActivationFns as af
 # print(forget_gate)
 
 # sanity check for dimensions of weights and gates
-hidden_size = 128
+hidden_size = 15
 input_size = 41
-vocab_size = 10
+vocab_size = 400
 input_hidden_dims = hidden_size + vocab_size
+output_size = 51
+output_vocab_size = 400
 
 input_data = np.random.random((vocab_size, input_size))
 hidden_state = np.random.random((hidden_size, input_size))
@@ -34,10 +37,12 @@ print("Concatenated input and hidden state: \n ", concat_x_h)
 
 print("Shape of concat_x_h: Row: %d, Col: %d" %(concat_x_h.shape[0], concat_x_h.shape[1]))
 
-Weight_forget = np.random.random((hidden_size, input_hidden_dims))
-Weight_igate = np.random.random((hidden_size, input_hidden_dims))
-Weight_ogate = np.random.random((hidden_size, input_hidden_dims))
-Weight_cell = np.random.random((hidden_size, input_hidden_dims))
+# dimensions here are wrong but I wanted to test if a hypothesis I had was correct.
+Weight_forget = np.random.random((input_hidden_dims, hidden_size))
+Weight_igate = np.random.random((input_hidden_dims, hidden_size))
+Weight_ogate = np.random.random((input_hidden_dims, hidden_size))
+Weight_cell = np.random.random((input_hidden_dims, hidden_size))
+Weight_output = np.random.random((input_hidden_dims, vocab_size))
 
 forget_gate = af.sigmoid(np.dot(Weight_forget, concat_x_h))
 
@@ -64,7 +69,12 @@ print("Shape of output_gate: Row: %d, Col: %d" %(output_gate.shape[0], output_ga
 print("Shape of hidden_state: Row: %d, Col: %d" %(hidden_state.shape[0], hidden_state.shape[1]))
 print("Shape of cell_state: Row: %d, Col: %d" %(cell_state.shape[0], cell_state.shape[1]))
 
+y = np.dot(hidden_state, Weight_output)
 
+probabilities = cf.softmax(y)
 
+print("Normalized probabilities using softmax: \n", probabilities)
+	
+print("Sum of probabilities: %d" % np.sum(probabilities))
 
 
