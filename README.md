@@ -78,3 +78,16 @@ I am suspicious of my code, since I am currently not storing the hidden states o
 Meaning that I cannot compute the gradients of the hidden states at the previous time steps.
 
 I also need to store the outputs of the model, so that I can compute the respective gradients.
+
+(1/4/2018)
+Having trouble understanding the final output to my neural net implementation.
+The probabilites do not make sense to me. I am running some tests in test.py.
+
+Realized that my tests have been little to no help, since I am using a random input from 0 < x < 1.
+
+Currently creating sudo one hot encoded inputs to further test my doubts and suspicions.
+
+Could have structured my tests differently, but I find it useful to engrain and repeat the code over. This way I can grasp the concepts and explain them later on.
+
+(1//5/2018)
+After further testing, I have figured out that I had the dimensions wrong. I was suspicious when i took the softmax of the output I had originally. The dimensions of the output y: 128x700, which did not make sense since in theory if the input size was 41 then the output should have been 41x700. It turns out that I had the wrong picture of the matricies in my head. I put the hidden size in as the rows and the input size as the columns. This lead to the wonky dimensions.
