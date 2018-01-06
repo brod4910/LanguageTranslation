@@ -37,8 +37,8 @@ Weight_output = np.random.random((hidden_size, output_vocab_size))
 
 # sudo one hot encoded inputs
 for i in range(input_size):
-	j = np.random.random_integers(input_vocab_size - 1)
-	input_data[i,j] = 1
+    j = np.random.random_integers(input_vocab_size - 1)
+    input_data[i,j] = 1
 
 # concat input and hidden state
 concat_x_h = np.hstack((input_data, prev_hidden_state))
@@ -73,3 +73,10 @@ print("Length of y: %d" % len(y))
 probabilities = cf.softmax(y)
 print("Normalized probabilities using softmax: \n", probabilities)
 print("Sum of probabilities: %d" % np.sum(probabilities))
+
+pos = probabilities.argmax() 
+x = probabilities[:,pos] 
+
+print("Highest probabilitiy: %.64f, Position of highest probabilitiy: %d" % (x, pos))
+
+
