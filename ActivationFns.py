@@ -10,11 +10,11 @@ def derivative_sigmoid( input):
 
 # tanh activation function, used in the LSTM cells
 def tanh(input):
-    return (np.exp(input) - np.exp(-input)) / (np.exp(input) + np.exp(-input))
+    return np.tanh(input)
 
 # derivative for computing gradients
 def derivative_tanh(input):
-    return 1 - (tanh(input) * tanh(input))
+    return 1 - (tanh(input)**2)
 
 # Leaky ReLu implementation if desired to use a different activation
 def leaky_ReLu(input):

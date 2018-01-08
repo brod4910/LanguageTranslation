@@ -16,7 +16,7 @@ def main():
 	# hidden size is a hyper param.
 	input_size = 1
 	input_vocab_size = 700
-	hidden_size = 128
+	hidden_size = 512
 	output_size = 1
 	output_vocab_size = 700
 	input_hidden_dims = input_vocab_size + hidden_size

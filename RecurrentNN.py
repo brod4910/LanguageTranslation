@@ -24,8 +24,8 @@ class RecurrentNeuralNetwork:
         # init array for predicted outputs
         self.predicted_outputs = np.zeros((sequence_length, output_vocab_size))
         # initialize hidden and cell states
-        self.hidden_state = np.zeros((input_size, hidden_size))
-        self.cell_state = np.zeros((input_size, hidden_size))
+        self.hidden_state = np.random.random((input_size, hidden_size))
+        self.cell_state = np.random.random((input_size, hidden_size))
         # init arrays to store hidden states and cell states
         self.hidden_states = np.zeros((sequence_length, hidden_size))
         self.cell_states = np.zeros((sequence_length, hidden_size))
@@ -55,8 +55,6 @@ class RecurrentNeuralNetwork:
             # compute the Unnormalized probs here with the hidden state.
             y = np.dot(self.hidden_state, self.Weight_output)
 
-            print(y)
-
             # Apply the softmax to get the normalized probabilities
             probabilities = cf.softmax(y)
 
@@ -68,6 +66,7 @@ class RecurrentNeuralNetwork:
             # compute the error value
             error = predicted_outputs[t] - expected_output[t].argmax()
 
+            print("Input data word index: ", reshaped_data.argmax())
             print("States(expected_output: ", expected_output[t].argmax(), " predicted_output: " , predicted_outputs[t])
             print("Print error: ", error)
 

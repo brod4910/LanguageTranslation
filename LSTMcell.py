@@ -25,8 +25,6 @@ class LSTM:
 
 	# Forward pass for the LSTM cell.
 	def forwardpass(self, input_data, prev_hidden_state, prev_cell_state):
-		print("Input data word index: ", input_data.argmax())
-
 		# concatenated input: x_t and hidden state: h_t-1
 		concat_x_h = np.column_stack((prev_hidden_state, input_data))
 
@@ -36,11 +34,11 @@ class LSTM:
 		# input gate calculation sigmoid(W_i * [h_t-1, x_t])
 		self.input_gate = af.sigmoid(np.dot(concat_x_h, self.Weight_igate))
 
-		# C prime calculation tanh(W_c * [h_t-1, x_t])
-		C_prime = af.tanh(np.dot(concat_x_h, self.Weight_cell))
-
 		# output gate calculation sigmoid(W_o[h_t-1, x_t])
 		self.output_gate = af.sigmoid(np.dot(concat_x_h, self.Weight_ogate))
+
+		# C prime calculation tanh(W_c * [h_t-1, x_t])
+		C_prime = af.tanh(np.dot(concat_x_h, self.Weight_cell))
 
 		# Cell state calculation (forget gate * C_t-1) + (input gate layer * C̃_t)
 		cell_state = np.multiply(self.forget_gate, prev_cell_state) + np.multiply(self.input_gate, C_prime)
