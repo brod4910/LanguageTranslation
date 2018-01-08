@@ -24,17 +24,17 @@ def main():
 	learning_rate = .0001
 
 	# Init sudo input data and sudo output data
-	input_data = np.zeros((input_size, input_vocab_size))
+	input_data = np.zeros((sequence_length, input_vocab_size))
 	output_data = np.zeros_like((input_data))
 
 	# sudo one hot encoded inputs
-	for i in range(input_size):
+	for i in range(sequence_length):
 	    j = np.random.random_integers(input_vocab_size - 1)
 	    input_data[i,j] = 1
 	    j = np.random.random_integers(output_vocab_size - 1)
 	    output_data[i,j] = 1
 
-	print("input data row: %d, col: %d" % (input_data.shape[0], input_data.shape[1]))
+	# print("input data row: %d, col: %d" % (input_data.shape[0], input_data.shape[1]))
 
 	RNN = RecurrentNN.RecurrentNeuralNetwork(input_size, output_size, sequence_length, input_vocab_size, output_vocab_size, hidden_size, learning_rate)
 

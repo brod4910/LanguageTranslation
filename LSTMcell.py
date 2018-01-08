@@ -9,12 +9,12 @@ class LSTM:
 		self.hidden_size = hidden_size
 		self.learning_rate = learning_rate
 		# Concatenated input and hidden dimensions
-		self.input_hidden_dims = hidden_size + input_vocab_size
+		input_hidden_dims = hidden_size + input_vocab_size
 		# Weight Matricies for LSTM
-		Weight_forget = np.random.random((input_hidden_dims, hidden_size))
-		Weight_igate = np.random.random((input_hidden_dims, hidden_size))
-		Weight_ogate = np.random.random((input_hidden_dims, hidden_size))
-		Weight_cell = np.random.random((input_hidden_dims, hidden_size))
+		self.Weight_forget = np.random.random((input_hidden_dims, hidden_size))
+		self.Weight_igate = np.random.random((input_hidden_dims, hidden_size))
+		self.Weight_ogate = np.random.random((input_hidden_dims, hidden_size))
+		self.Weight_cell = np.random.random((input_hidden_dims, hidden_size))
 		# gate matricies.
 		self.forget_gate = np.zeros((input_size, hidden_size))
 		self.input_gate = np.zeros((input_size, hidden_size))
@@ -25,9 +25,12 @@ class LSTM:
 		self.cell_state = np.zeros((input_size, hidden_size))
 
 	# Forward pass for the LSTM cell.
-	def forwardpass(input_data, prev_hidden_state, prev_cell_state):
+	def forwardpass(self, input_data, prev_hidden_state, prev_cell_state):
+		# reshape the data so that it is a 1 row 700 column 2d array instead of a 1d array
+		reshaped_data = input_data.reshape(self.input_size,input_data.shape[0])
+
 		# concatenated input: x_t and hidden state: h_t-1
-		concat_x_h = np.hstack((input_data, prev_hidden_state))
+		concat_x_h = np.hstack((reshaped_data, prev_hidden_state))
 
 		# forget gate calculation sigmoid(W_f * [h_t-1, x_t])
 		self.forget_gate = af.sigmoid(np.dot(concat_x_h, self.Weight_forget))
@@ -50,6 +53,6 @@ class LSTM:
 		# use hidden_state to get the unnormalized prob.
 		return self.hidden_state, self.cell_state
 
-	def backpropagation():
+	# def backpropagation():
 
 

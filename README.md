@@ -91,3 +91,6 @@ Could have structured my tests differently, but I find it useful to engrain and 
 
 (1//5/2018)
 After further testing, I have figured out that I had the dimensions wrong. I was suspicious when i took the softmax of the output I had originally. The dimensions of the output y: 128x700, which did not make sense since in theory if the input size was 41 then the output should have been 41x700. It turns out that I had the wrong picture of the matricies in my head. I put the hidden size in as the rows and the input size as the columns. This lead to the wonky dimensions.
+
+(1/6/2018)
+Since I need to backpropagate through time, I need to save the previous hidden states, cell states, expected outputs, predicted outputs and inputs. I am unsure about how to add a sequence length and how it will change the current state of my code.
