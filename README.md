@@ -94,3 +94,11 @@ After further testing, I have figured out that I had the dimensions wrong. I was
 
 (1/6/2018)
 Since I need to backpropagate through time, I need to save the previous hidden states, cell states, expected outputs, predicted outputs and inputs. I am unsure about how to add a sequence length and how it will change the current state of my code.
+
+(1/7/2018)
+Currently I am trying to figure out why the hidden state converges to 1 after a certain number of sequence lengths.
+I also changed the hidden state and cell states inits to zeros.
+Made some minor changes to the forward pass in the RNN class
+
+(1/8/2018)
+Still battling the hidden state convergence.

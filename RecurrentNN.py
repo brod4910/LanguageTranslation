@@ -24,8 +24,8 @@ class RecurrentNeuralNetwork:
         # init array for predicted outputs
         self.predicted_outputs = np.zeros((sequence_length, output_vocab_size))
         # initialize hidden and cell states
-        self.prev_hidden_state = np.random.random((input_size, hidden_size))
-        self.prev_cell_state = np.random.random((input_size, hidden_size))
+        self.hidden_state = np.zeros((input_size, hidden_size))
+        self.cell_state = np.zeros((input_size, hidden_size))
         # init arrays to store hidden states and cell states
         self.hidden_states = np.zeros((sequence_length, hidden_size))
         self.cell_states = np.zeros((sequence_length, hidden_size))
@@ -38,31 +38,40 @@ class RecurrentNeuralNetwork:
     def forwardpass(self, input_data, expected_output):
         predicted_outputs = np.zeros((self.sequence_length, 1))
 
-        for t in range(self.sequence_length):
-            # This line is a bit hacky. I am assigning the previous states to this function, because if I assigned
-            # the states returned from this function to the array I would have to reshape the prev states every time            
-            self.prev_hidden_state, self.prev_cell_state = self.LSTM.forwardpass(input_data[t,:], self.prev_hidden_state, self.prev_cell_state)
+        for t in range(self.sequence_length):          
+            # print("Hidden state at time step: %d" % t)
+            # print(self.hidden_state)
 
-            self.hidden_states[t], self.cell_states[t] = self.prev_hidden_state, self.prev_cell_state
+            # reshape the data so that it is a 1 row 700 column 2d array instead of a 1d array
+            reshaped_data = input_data[t].reshape(self.input_size, -1)
+
+            self.hidden_state, self.cell_state = self.LSTM.forwardpass(reshaped_data, self.hidden_state, self.cell_state)
+
+            self.hidden_states[t], self.cell_states[t] = self.hidden_state, self.cell_state
 
             # reshape the hidden state so that it is in the proper dimensional form
-            reshaped_hidden_state = self.hidden_states[t].reshape((self.input_size, self.hidden_size))
+            # reshaped_hidden_state = self.hidden_states[t].reshape((self.input_size, self.hidden_size))
 
             # compute the Unnormalized probs here with the hidden state.
-            y = np.dot(reshaped_hidden_state, self.Weight_output)
+            y = np.dot(self.hidden_state, self.Weight_output)
+
+            print(y)
 
             # Apply the softmax to get the normalized probabilities
             probabilities = cf.softmax(y)
+
+            # print(probabilities)
 
             # get the position of the highest predicted prob.
             predicted_outputs[t] = probabilities.argmax()
 
             # compute the error value
-            error = predicted_outputs[t] - expected_output[t]
+            error = predicted_outputs[t] - expected_output[t].argmax()
 
-            print("States(expected_output: ", expected_output.argmax(), " predicted_output: " , predicted_outputs[t])
+            print("States(expected_output: ", expected_output[t].argmax(), " predicted_output: " , predicted_outputs[t])
+            print("Print error: ", error)
 
-        return error, predicted_outputs, hidden_states, cell_states
+        return error, predicted_outputs
 
     # def backpropagation(self):
 

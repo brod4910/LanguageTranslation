@@ -18,19 +18,17 @@ class LSTM:
 		# gate matricies.
 		self.forget_gate = np.zeros((input_size, hidden_size))
 		self.input_gate = np.zeros((input_size, hidden_size))
-		self.cell_state = np.zeros((input_size, hidden_size))
 		self.output_gate = np.zeros((input_size, hidden_size))
 		# hidden state and cell state intializations.
-		self.hidden_state = np.zeros((input_size, hidden_size))
-		self.cell_state = np.zeros((input_size, hidden_size))
+		# self.hidden_state = np.zeros((input_size, hidden_size))
+		# self.cell_state = np.zeros((input_size, hidden_size))
 
 	# Forward pass for the LSTM cell.
 	def forwardpass(self, input_data, prev_hidden_state, prev_cell_state):
-		# reshape the data so that it is a 1 row 700 column 2d array instead of a 1d array
-		reshaped_data = input_data.reshape(self.input_size,input_data.shape[0])
+		print("Input data word index: ", input_data.argmax())
 
 		# concatenated input: x_t and hidden state: h_t-1
-		concat_x_h = np.hstack((reshaped_data, prev_hidden_state))
+		concat_x_h = np.column_stack((prev_hidden_state, input_data))
 
 		# forget gate calculation sigmoid(W_f * [h_t-1, x_t])
 		self.forget_gate = af.sigmoid(np.dot(concat_x_h, self.Weight_forget))
@@ -45,13 +43,13 @@ class LSTM:
 		self.output_gate = af.sigmoid(np.dot(concat_x_h, self.Weight_ogate))
 
 		# Cell state calculation (forget gate * C_t-1) + (input gate layer * C̃_t)
-		self.cell_state = np.multiply(self.forget_gate, prev_cell_state) + np.multiply(self.input_gate, C_prime)
+		cell_state = np.multiply(self.forget_gate, prev_cell_state) + np.multiply(self.input_gate, C_prime)
 
 		# Hidden state calculation output * tanh(C_t)
-		self.hidden_state = np.multiply(self.output_gate, af.tanh(self.cell_state))
+		hidden_state = np.multiply(self.output_gate, af.tanh(cell_state))
 
 		# use hidden_state to get the unnormalized prob.
-		return self.hidden_state, self.cell_state
+		return hidden_state, cell_state
 
 	# def backpropagation():
 
