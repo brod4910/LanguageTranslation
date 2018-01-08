@@ -16,12 +16,15 @@ def main():
 	# hidden size is a hyper param.
 	input_size = 1
 	input_vocab_size = 700
-	hidden_size = 512
+	hidden_size = 128
 	output_size = 1
 	output_vocab_size = 700
 	input_hidden_dims = input_vocab_size + hidden_size
 	sequence_length = 10
 	learning_rate = .0001
+
+	# predicted outputs
+	predicted_outputs = np.zeros((sequence_length, output_vocab_size))
 
 	# Init sudo input data and sudo output data
 	input_data = np.zeros((sequence_length, input_vocab_size))
@@ -38,7 +41,9 @@ def main():
 
 	RNN = RecurrentNN.RecurrentNeuralNetwork(input_size, output_size, sequence_length, input_vocab_size, output_vocab_size, hidden_size, learning_rate)
 
-	RNN.forwardpass(input_data, output_data)
+	for data, t in zip(input_data, range(sequence_length)):
+		__, predicted_output = RNN.forwardpass(data, output_data, t)
+		predicted_outputs[t, predicted_output] = 1
 
 if __name__ == "__main__":
 	main()
