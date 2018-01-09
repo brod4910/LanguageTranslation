@@ -43,6 +43,8 @@ def main():
 
 	predicted_output = RNN.forwardpass(input_data, output_data)
 
+	print(predicted_output)
+
 if __name__ == "__main__":
 	main()
 
