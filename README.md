@@ -102,3 +102,6 @@ Made some minor changes to the forward pass in the RNN class
 
 (1/8/2018)
 Still battling the hidden state convergence.
+
+(1/9/2018)
+Finally, I figured out the problem with the converging hidden states, and gates. I was initializing the hidden states and weights to values between (0,1). The values were converging, when the dot products were being activated by the sigmoid nonlinearity. The reason is that the values were between (0,1) and the dot product would increase the gates and hidden states by a huge factor for every iteration. Now that I have randomized the weights and states to a uniform distribution between [-1,1), there are negative values the gates and hidden state are less prone to converging to 1 or -1.

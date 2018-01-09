@@ -20,7 +20,7 @@ def main():
 	output_size = 1
 	output_vocab_size = 50
 	input_hidden_dims = input_vocab_size + hidden_size
-	sequence_length = 5
+	sequence_length = 50
 	learning_rate = .0001
 
 	# predicted outputs
@@ -43,7 +43,8 @@ def main():
 
 	predicted_output = RNN.forwardpass(input_data, output_data)
 
-	print(predicted_output)
+	for i in range(sequence_length):
+		print(predicted_output[i,0].argmax())
 
 if __name__ == "__main__":
 	main()
