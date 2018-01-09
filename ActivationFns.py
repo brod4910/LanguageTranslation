@@ -2,7 +2,7 @@ import numpy as np
 
 # nonlinearity sigmoid function
 def sigmoid(input):
-    return 1 / (1 + np.exp(-input))
+	 return 1. / (1 + np.exp(-input))
 
 # used to compute the gradients in backprop
 def derivative_sigmoid( input):
@@ -14,7 +14,7 @@ def tanh(input):
 
 # derivative for computing gradients
 def derivative_tanh(input):
-    return 1 - (tanh(input)**2)
+    return 1 - (np.tanh(input)**2)
 
 # Leaky ReLu implementation if desired to use a different activation
 def leaky_ReLu(input):

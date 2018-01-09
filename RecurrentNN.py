@@ -24,11 +24,11 @@ class RecurrentNeuralNetwork:
         # init array for predicted outputs
         self.predicted_outputs = np.zeros((sequence_length, output_vocab_size))
         # initialize hidden and cell states
-        self.hidden_state = np.random.random((input_size, hidden_size))
-        self.cell_state = np.random.random((input_size, hidden_size))
+        # self.hidden_state = np.random.random((input_size, hidden_size))
+        # self.cell_state = np.random.random((input_size, hidden_size))
         # init arrays to store hidden states and cell states
-        self.hidden_states = np.zeros((sequence_length, hidden_size))
-        self.cell_states = np.zeros((sequence_length, hidden_size))
+        self.hidden_states = np.zeros((sequence_length, input_size, hidden_size))
+        self.cell_states = np.zeros((sequence_length, input_size, hidden_size))
         # output weight matrix for choosing a word
         self.Weight_output = np.random.random((hidden_size, output_vocab_size))
         # initialize LSTM cell
@@ -36,41 +36,29 @@ class RecurrentNeuralNetwork:
 
     # Forward pass for the RNN/LSTM
     def forwardpass(self, input_data, expected_output):
-        predicted_outputs = np.zeros((self.sequence_length, 1))
-
-        for t in range(self.sequence_length):          
-            # print("Hidden state at time step: %d" % t)
-            # print(self.hidden_state)
-
-            # reshape the data so that it is a 1 row 700 column 2d array instead of a 1d array
-            reshaped_data = input_data[t].reshape(self.input_size, -1)
-
-            self.hidden_state, self.cell_state = self.LSTM.forwardpass(reshaped_data, self.hidden_state, self.cell_state)
-
-            self.hidden_states[t], self.cell_states[t] = self.hidden_state, self.cell_state
-
-            # reshape the hidden state so that it is in the proper dimensional form
-            # reshaped_hidden_state = self.hidden_states[t].reshape((self.input_size, self.hidden_size))
+        # LSTM forwardpass
+        for t in range(1, self.sequence_length):
+            self.hidden_states[t], self.cell_states[t] = self.LSTM.forwardpass(input_data[t-1], self.hidden_states[t-1], self.cell_states[t-1])
 
             # compute the Unnormalized probs here with the hidden state.
-            y = np.dot(self.hidden_state, self.Weight_output)
+            y = np.dot(self.hidden_states[t], self.Weight_output)
 
             # Apply the softmax to get the normalized probabilities
             probabilities = cf.softmax(y)
 
+            print(probabilities)
+
             # print(probabilities)
 
             # get the position of the highest predicted prob.
-            predicted_outputs[t] = probabilities.argmax()
+            predicted_output = probabilities.argmax()
+
+            print(predicted_output)
 
             # compute the error value
-            error = predicted_outputs[t] - expected_output[t].argmax()
+            error = predicted_output - expected_output.argmax()
 
-            print("Input data word index: ", reshaped_data.argmax())
-            print("States(expected_output: ", expected_output[t].argmax(), " predicted_output: " , predicted_outputs[t])
-            print("Print error: ", error)
-
-        return error, predicted_outputs
+        return error, predicted_output
 
     # def backpropagation(self):
 
