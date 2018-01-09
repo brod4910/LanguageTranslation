@@ -41,7 +41,7 @@ def main():
 
 	RNN = RecurrentNN.RecurrentNeuralNetwork(input_size, output_size, sequence_length, input_vocab_size, output_vocab_size, hidden_size, learning_rate)
 
-	__, predicted_output = RNN.forwardpass(input_data, output_data)
+	predicted_output = RNN.forwardpass(input_data, output_data)
 
 if __name__ == "__main__":
 	main()
