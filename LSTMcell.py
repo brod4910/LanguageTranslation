@@ -48,14 +48,15 @@ class LSTM:
 		# Hidden state calculation output * tanh(C_t)
 		hidden_state = np.multiply(output_gate, af.tanh(self.cell_state))
 
-		print("Concatenated: \n", concat_x_h)
-		print("Forget gate: \n", forget_gate)
-		print("Output gate: \n", output_gate)
-		print("Input gate: \n", input_gate)
+		# print("Concatenated: \n", concat_x_h)
+		# print("Forget gate: \n", forget_gate)
+		# print("Output gate: \n", output_gate)
+		# print("Input gate: \n", input_gate)
 
 		# use hidden_state to get the unnormalized prob.
 		return hidden_state, self.cell_state
 
-	# def backpropagation():
+	# def backpropagation(self, error, ):
+
 
 

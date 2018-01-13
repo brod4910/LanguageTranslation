@@ -15,20 +15,20 @@ def main():
 	# static params. In practice these would be based on the data.
 	# hidden size is a hyper param.
 	input_size = 1
-	input_vocab_size = 50
+	input_vocab_size = 40000
 	hidden_size = 128
 	output_size = 1
-	output_vocab_size = 50
+	output_vocab_size = 40000
 	input_hidden_dims = input_vocab_size + hidden_size
 	sequence_length = 50
 	learning_rate = .0001
 
 	# predicted outputs
-	predicted_outputs = np.zeros((sequence_length, input_size,output_vocab_size))
+	predicted_outputs = np.zeros((sequence_length, input_size, output_vocab_size))
 
 	# Init sudo input data and sudo output data
-	input_data = np.zeros((sequence_length, input_size,input_vocab_size))
-	output_data = np.zeros_like((input_data))
+	input_data = np.zeros((sequence_length, input_size, input_vocab_size))
+	output_data = np.zeros((sequence_length, output_size, output_vocab_size))
 
 	# sudo one hot encoded inputs
 	for i in range(sequence_length):
@@ -41,10 +41,12 @@ def main():
 
 	RNN = RecurrentNN.RecurrentNeuralNetwork(input_size, output_size, sequence_length, input_vocab_size, output_vocab_size, hidden_size, learning_rate)
 
-	predicted_output = RNN.forwardpass(input_data, output_data)
+	predicted_output, loss = RNN.forwardpass(input_data, output_data)
 
-	for i in range(sequence_length):
-		print(predicted_output[i,0].argmax())
+	# for i in range(sequence_length):
+	# 	print(predicted_output[i,0].argmax())
+
+	print(loss)
 
 if __name__ == "__main__":
 	main()
