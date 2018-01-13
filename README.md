@@ -1,10 +1,9 @@
-# LanguageTranslation_IPFS
+# LanguageTranslation
 
-Language Translation application using IPFS
+Language Translation using LSTM/RNN
 
 Simple application that uses a recurrent neural network to translate from English to Spanish and vice versa.
-Uses the Ethereum block chain to deploy the application to the IPFS.
-Application will also be deployable to run on your localhost.
+Weights and biases will be uploaded when finished.
 
 # Floyd
 
@@ -25,8 +24,6 @@ The idea is that we train the first neural network to encode the input sentence,
 Will not be using frameworks such as tensorflow, pytorch, etc.
 Mainly for raw neural network practice.
 Will be using pickle to save weights of both networks after training.
-Will not be using numpy...(just kidding).
-Using Ethereum block chain (IPFS). (Not a framework but might as well add that in)
 Decided to use the Google Translate API for training purposes. Could not find reliable sources of dictionaries and translations.
 
 # Asides
